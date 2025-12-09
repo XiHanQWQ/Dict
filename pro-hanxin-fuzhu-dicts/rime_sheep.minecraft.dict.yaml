@@ -1,6 +1,6 @@
 ---
 name: rime_sheep.minecraft
-version: "25w46a"
+version: "1.21.11"
 sort: by_weight
 ...
 金合欢木按钮	jīn;ra hé;rk huān;yr mù;un àn;fn niǔ;ji
@@ -1183,7 +1183,7 @@ sort: by_weight
 大型蕨	dà;an xíng;kt jué;cr
 熔岩	róng;hk yán;sk
 装有熔岩的炼药锅	zhuāng;dh yǒu;ao róng;hk yán;sk de;bu liàn;hd yào;cu guō;jn
-枯叶	kū;lk yè;ku
+枯叶堆	kū;lk yè;ku duī;ta
 讲台	jiǎng;yj tái;vk
 拉杆	lā;fl gān;lg
 光源方块	guāng;ee yuán;dx fāng;wp kuài;tn
@@ -2451,6 +2451,7 @@ sort: by_weight
 下界合金胸甲	xià;ab jiè;tj hé;rk jīn;ra xiōng;ox jiǎ;aa
 下界合金头盔	xià;ab jiè;tj hé;rk jīn;ra tóu;dd kuī;hm
 下界合金锄	xià;ab jiè;tj hé;rk jīn;ra chú;jl
+下界合金马铠	xià;ab jiè;tj hé;rk jīn;ra mǎ;va kǎi;jj
 下界合金锭	xià;ab jiè;tj hé;rk jīn;ra dìng;jr
 下界合金护腿	xià;ab jiè;tj hé;rk jīn;ra hù;fh tuǐ;oh
 下界合金鹦鹉螺铠	xià;ab jiè;tj hé;rk jīn;ra yīng;bn wǔ;vn luó;ix kǎi;jj

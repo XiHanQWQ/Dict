@@ -1,6 +1,6 @@
 ---
 name: rime_sheep.minecraft
-version: "25w46a"
+version: "1.21.11"
 sort: by_weight
 ...
 金合欢木按钮	jīn;ra,pa hé;rk huān;qy,yq mù;ad àn;fa niǔ;ji
@@ -1183,7 +1183,7 @@ sort: by_weight
 大型蕨	dà;ad xíng;tx jué;cj,cq
 熔岩	róng;hr yán;uu
 装有熔岩的炼药锅	zhuāng;yv yǒu;ou,uo róng;hr yán;uu de;bu liàn;hd,hj yào;cy guō;jg,jn
-枯叶	kū;mg yè;ku
+枯叶堆	kū;mg yè;ku duī;tv
 讲台	jiǎng;yj tái;sk
 拉杆	lā;fl gān;mg
 光源方块	guāng;ea,xw yuán;dy fāng;wd,dg,dp,dw kuài;td,tg
@@ -2451,6 +2451,7 @@ sort: by_weight
 下界合金胸甲	xià;ab,ad jiè;tj hé;rk jīn;ra,pa xiōng;ox jiǎ;aa,oa
 下界合金头盔	xià;ab,ad jiè;tj hé;rk jīn;ra,pa tóu;dd kuī;mh
 下界合金锄	xià;ab,ad jiè;tj hé;rk jīn;ra,pa chú;jv
+下界合金马铠	xià;ab,ad jiè;tj hé;rk jīn;ra,pa mǎ;aa,vh kǎi;jj,jq
 下界合金锭	xià;ab,ad jiè;tj hé;rk jīn;ra,pa dìng;jd
 下界合金护腿	xià;ab,ad jiè;tj hé;rk jīn;ra,pa hù;fh tuǐ;ot
 下界合金鹦鹉螺铠	xià;ab,ad jiè;tj hé;rk jīn;ra,pa yīng;ny wǔ;nw luó;il kǎi;jj,jq
