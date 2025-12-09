@@ -15,4 +15,4 @@
 
 ## 生成时间
 
-$(date '+%Y年%m月%d日 %H:%M:%S')
+${CURRENT_TIME}
