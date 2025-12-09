@@ -1,0 +1,2714 @@
+---
+name: rime_sheep.minecraft
+version: "25w46a"
+sort: by_weight
+...
+金合欢木按钮	jīn;qq hé;wg huān;cq mù;ss àn;rp niǔ;qn
+金合欢木门	jīn;qq hé;wg huān;cq mù;ss mén;uy
+金合欢木栅栏	jīn;qq hé;wg huān;cq mù;ss zhà;sm lán;su
+金合欢木栅栏门	jīn;qq hé;wg huān;cq mù;ss zhà;sm lán;su mén;uy
+悬挂式金合欢木告示牌	xuán;eg guà;rf shì;aa jīn;qq hé;wg huān;cq mù;ss gào;tf shì;fi pái;th
+金合欢树叶	jīn;qq hé;wg huān;cq shù;sc yè;kf
+金合欢原木	jīn;qq hé;wg huān;cq yuán;dr mù;ss
+金合欢木板	jīn;qq hé;wg huān;cq mù;ss bǎn;sr
+金合欢木压力板	jīn;qq hé;wg huān;cq mù;ss yā;df lì;lt bǎn;sr
+金合欢树苗	jīn;qq hé;wg huān;cq shù;sc miáo;al
+金合欢木展示架	jīn;qq hé;wg huān;cq mù;ss zhǎn;na shì;fi jià;lk
+金合欢木告示牌	jīn;qq hé;wg huān;cq mù;ss gào;tf shì;fi pái;th
+金合欢木台阶	jīn;qq hé;wg huān;cq mù;ss tái;ck jiē;bw
+金合欢木楼梯	jīn;qq hé;wg huān;cq mù;ss lóu;so tī;su
+金合欢木活板门	jīn;qq hé;wg huān;cq mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式金合欢木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa jīn;qq hé;wg huān;cq mù;ss gào;tf shì;fi pái;th
+墙上的金合欢木告示牌	qiáng;ff shàng;hh de;rq jīn;qq hé;wg huān;cq mù;ss gào;tf shì;fi pái;th
+金合欢木	jīn;qq hé;wg huān;cq mù;ss
+激活铁轨	jī;ir huó;it tiě;qr guǐ;lv
+空气	kōng;pw qì;rn
+绒球葱	róng;xa qiú;gf cōng;aq
+紫水晶块	zǐ;hx shuǐ;ii jīng;jj kuài;fn
+紫水晶簇	zǐ;hx shuǐ;ii jīng;jj cù;ty
+远古残骸	yuǎn;fq gǔ;dg cán;gq hái;me
+安山岩	ān;pv shān;mm yán;md
+安山岩台阶	ān;pv shān;mm yán;md tái;ck jiē;bw
+安山岩楼梯	ān;pv shān;mm yán;md lóu;so tī;su
+安山岩墙	ān;pv shān;mm yán;md qiáng;ff
+铁砧	tiě;qr zhēn;dh
+结果的西瓜茎	jiē;xf guǒ;js de;rq xī;sg guā;rc jīng;ac
+结果的南瓜茎	jiē;xf guǒ;js de;rq nán;fm guā;rc jīng;ac
+杜鹃花丛	dù;sf juān;ke huā;aw cóng;ww
+杜鹃树叶	dù;sf juān;ke shù;sc yè;kf
+蓝花美耳草	lán;aj huā;aw měi;ug ěr;bg cǎo;aj
+竹子	zhú;tt zi;bb
+竹块	zhú;tt kuài;fn
+竹按钮	zhú;tt àn;rp niǔ;qn
+竹门	zhú;tt mén;uy
+竹栅栏	zhú;tt zhà;sm lán;su
+竹栅栏门	zhú;tt zhà;sm lán;su mén;uy
+悬挂式竹告示牌	xuán;eg guà;rf shì;aa zhú;tt gào;tf shì;fi pái;th
+竹马赛克	zhú;tt mǎ;cn sài;pf kè;dq
+竹马赛克台阶	zhú;tt mǎ;cn sài;pf kè;dq tái;ck jiē;bw
+竹马赛克楼梯	zhú;tt mǎ;cn sài;pf kè;dq lóu;so tī;su
+竹板	zhú;tt bǎn;sr
+竹压力板	zhú;tt yā;df lì;lt bǎn;sr
+竹笋	zhú;tt sǔn;tv
+竹展示架	zhú;tt zhǎn;na shì;fi jià;lk
+竹告示牌	zhú;tt gào;tf shì;fi pái;th
+竹台阶	zhú;tt tái;ck jiē;bw
+竹楼梯	zhú;tt lóu;so tī;su
+竹活板门	zhú;tt huó;it bǎn;sr mén;uy
+墙上的悬挂式竹告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa zhú;tt gào;tf shì;fi pái;th
+墙上的竹告示牌	qiáng;ff shàng;hh de;rq zhú;tt gào;tf shì;fi pái;th
+黑底	hēi;lf dǐ;yq
+蓝底	lán;aj dǐ;yq
+棕底	zōng;sp dǐ;yq
+青底	qīng;ge dǐ;yq
+灰底	huī;do dǐ;yq
+绿底	lǜ;xv dǐ;yq
+淡蓝底	dàn;io lán;aj dǐ;yq
+淡灰底	dàn;io huī;do dǐ;yq
+黄绿底	huáng;am lǜ;xv dǐ;yq
+品红底	pǐn;kk hóng;xa dǐ;yq
+橙底	chéng;sw dǐ;yq
+粉红底	fěn;ow hóng;xa dǐ;yq
+紫底	zǐ;hx dǐ;yq
+红底	hóng;xa dǐ;yq
+白底	bái;rr dǐ;yq
+黄底	huáng;am dǐ;yq
+黑色方框边	hēi;lf sè;qc fāng;yy kuāng;sa biān;lp
+蓝色方框边	lán;aj sè;qc fāng;yy kuāng;sa biān;lp
+棕色方框边	zōng;sp sè;qc fāng;yy kuāng;sa biān;lp
+青色方框边	qīng;ge sè;qc fāng;yy kuāng;sa biān;lp
+灰色方框边	huī;do sè;qc fāng;yy kuāng;sa biān;lp
+绿色方框边	lǜ;xv sè;qc fāng;yy kuāng;sa biān;lp
+淡蓝色方框边	dàn;io lán;aj sè;qc fāng;yy kuāng;sa biān;lp
+淡灰色方框边	dàn;io huī;do sè;qc fāng;yy kuāng;sa biān;lp
+黄绿色方框边	huáng;am lǜ;xv sè;qc fāng;yy kuāng;sa biān;lp
+品红色方框边	pǐn;kk hóng;xa sè;qc fāng;yy kuāng;sa biān;lp
+橙色方框边	chéng;sw sè;qc fāng;yy kuāng;sa biān;lp
+粉红色方框边	fěn;ow hóng;xa sè;qc fāng;yy kuāng;sa biān;lp
+紫色方框边	zǐ;hx sè;qc fāng;yy kuāng;sa biān;lp
+红色方框边	hóng;xa sè;qc fāng;yy kuāng;sa biān;lp
+白色方框边	bái;rr sè;qc fāng;yy kuāng;sa biān;lp
+黄色方框边	huáng;am sè;qc fāng;yy kuāng;sa biān;lp
+黑色砖纹	hēi;lf sè;qc zhuān;df wén;xy
+蓝色砖纹	lán;aj sè;qc zhuān;df wén;xy
+棕色砖纹	zōng;sp sè;qc zhuān;df wén;xy
+青色砖纹	qīng;ge sè;qc zhuān;df wén;xy
+灰色砖纹	huī;do sè;qc zhuān;df wén;xy
+绿色砖纹	lǜ;xv sè;qc zhuān;df wén;xy
+淡蓝色砖纹	dàn;io lán;aj sè;qc zhuān;df wén;xy
+淡灰色砖纹	dàn;io huī;do sè;qc zhuān;df wén;xy
+黄绿色砖纹	huáng;am lǜ;xv sè;qc zhuān;df wén;xy
+品红色砖纹	pǐn;kk hóng;xa sè;qc zhuān;df wén;xy
+橙色砖纹	chéng;sw sè;qc zhuān;df wén;xy
+粉红色砖纹	fěn;ow hóng;xa sè;qc zhuān;df wén;xy
+紫色砖纹	zǐ;hx sè;qc zhuān;df wén;xy
+红色砖纹	hóng;xa sè;qc zhuān;df wén;xy
+白色砖纹	bái;rr sè;qc zhuān;df wén;xy
+黄色砖纹	huáng;am sè;qc zhuān;df wén;xy
+黑色圆形	hēi;lf sè;qc yuán;lk xíng;ga
+蓝色圆形	lán;aj sè;qc yuán;lk xíng;ga
+棕色圆形	zōng;sp sè;qc yuán;lk xíng;ga
+青色圆形	qīng;ge sè;qc yuán;lk xíng;ga
+灰色圆形	huī;do sè;qc yuán;lk xíng;ga
+绿色圆形	lǜ;xv sè;qc yuán;lk xíng;ga
+淡蓝色圆形	dàn;io lán;aj sè;qc yuán;lk xíng;ga
+淡灰色圆形	dàn;io huī;do sè;qc yuán;lk xíng;ga
+黄绿色圆形	huáng;am lǜ;xv sè;qc yuán;lk xíng;ga
+品红色圆形	pǐn;kk hóng;xa sè;qc yuán;lk xíng;ga
+橙色圆形	chéng;sw sè;qc yuán;lk xíng;ga
+粉红色圆形	fěn;ow hóng;xa sè;qc yuán;lk xíng;ga
+紫色圆形	zǐ;hx sè;qc yuán;lk xíng;ga
+红色圆形	hóng;xa sè;qc yuán;lk xíng;ga
+白色圆形	bái;rr sè;qc yuán;lk xíng;ga
+黄色圆形	huáng;am sè;qc yuán;lk xíng;ga
+黑色苦力怕盾徽	hēi;lf sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+蓝色苦力怕盾徽	lán;aj sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+棕色苦力怕盾徽	zōng;sp sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+青色苦力怕盾徽	qīng;ge sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+灰色苦力怕盾徽	huī;do sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+绿色苦力怕盾徽	lǜ;xv sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+淡蓝色苦力怕盾徽	dàn;io lán;aj sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+淡灰色苦力怕盾徽	dàn;io huī;do sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+黄绿色苦力怕盾徽	huáng;am lǜ;xv sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+品红色苦力怕盾徽	pǐn;kk hóng;xa sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+橙色苦力怕盾徽	chéng;sw sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+粉红色苦力怕盾徽	fěn;ow hóng;xa sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+紫色苦力怕盾徽	zǐ;hx sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+红色苦力怕盾徽	hóng;xa sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+白色苦力怕盾徽	bái;rr sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+黄色苦力怕盾徽	huáng;am sè;qc kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+黑斜十字	hēi;lf xié;wt shí;fg zì;pb
+蓝斜十字	lán;aj xié;wt shí;fg zì;pb
+棕斜十字	zōng;sp xié;wt shí;fg zì;pb
+青斜十字	qīng;ge xié;wt shí;fg zì;pb
+灰斜十字	huī;do xié;wt shí;fg zì;pb
+绿斜十字	lǜ;xv xié;wt shí;fg zì;pb
+淡蓝斜十字	dàn;io lán;aj xié;wt shí;fg zì;pb
+淡灰斜十字	dàn;io huī;do xié;wt shí;fg zì;pb
+黄绿斜十字	huáng;am lǜ;xv xié;wt shí;fg zì;pb
+品红斜十字	pǐn;kk hóng;xa xié;wt shí;fg zì;pb
+橙斜十字	chéng;sw xié;wt shí;fg zì;pb
+粉红斜十字	fěn;ow hóng;xa xié;wt shí;fg zì;pb
+紫斜十字	zǐ;hx xié;wt shí;fg zì;pb
+红斜十字	hóng;xa xié;wt shí;fg zì;pb
+白斜十字	bái;rr xié;wt shí;fg zì;pb
+黄斜十字	huáng;am xié;wt shí;fg zì;pb
+黑色波纹边	hēi;lf sè;qc bō;ih wén;xy biān;lp
+蓝色波纹边	lán;aj sè;qc bō;ih wén;xy biān;lp
+棕色波纹边	zōng;sp sè;qc bō;ih wén;xy biān;lp
+青色波纹边	qīng;ge sè;qc bō;ih wén;xy biān;lp
+灰色波纹边	huī;do sè;qc bō;ih wén;xy biān;lp
+绿色波纹边	lǜ;xv sè;qc bō;ih wén;xy biān;lp
+淡蓝色波纹边	dàn;io lán;aj sè;qc bō;ih wén;xy biān;lp
+淡灰色波纹边	dàn;io huī;do sè;qc bō;ih wén;xy biān;lp
+黄绿色波纹边	huáng;am lǜ;xv sè;qc bō;ih wén;xy biān;lp
+品红色波纹边	pǐn;kk hóng;xa sè;qc bō;ih wén;xy biān;lp
+橙色波纹边	chéng;sw sè;qc bō;ih wén;xy biān;lp
+粉红色波纹边	fěn;ow hóng;xa sè;qc bō;ih wén;xy biān;lp
+紫色波纹边	zǐ;hx sè;qc bō;ih wén;xy biān;lp
+红色波纹边	hóng;xa sè;qc bō;ih wén;xy biān;lp
+白色波纹边	bái;rr sè;qc bō;ih wén;xy biān;lp
+黄色波纹边	huáng;am sè;qc bō;ih wén;xy biān;lp
+黑色右上三角	hēi;lf sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+蓝色右上三角	lán;aj sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+棕色右上三角	zōng;sp sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+青色右上三角	qīng;ge sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+灰色右上三角	huī;do sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+绿色右上三角	lǜ;xv sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+淡蓝色右上三角	dàn;io lán;aj sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+淡灰色右上三角	dàn;io huī;do sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+黄绿色右上三角	huáng;am lǜ;xv sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+品红色右上三角	pǐn;kk hóng;xa sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+橙色右上三角	chéng;sw sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+粉红色右上三角	fěn;ow hóng;xa sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+紫色右上三角	zǐ;hx sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+红色右上三角	hóng;xa sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+白色右上三角	bái;rr sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+黄色右上三角	huáng;am sè;qc yòu;dk shàng;hh sān;dg jiǎo;qe
+黑色左上三角	hēi;lf sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+蓝色左上三角	lán;aj sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+棕色左上三角	zōng;sp sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+青色左上三角	qīng;ge sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+灰色左上三角	huī;do sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+绿色左上三角	lǜ;xv sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+淡蓝色左上三角	dàn;io lán;aj sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+淡灰色左上三角	dàn;io huī;do sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+黄绿色左上三角	huáng;am lǜ;xv sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+品红色左上三角	pǐn;kk hóng;xa sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+橙色左上三角	chéng;sw sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+粉红色左上三角	fěn;ow hóng;xa sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+紫色左上三角	zǐ;hx sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+红色左上三角	hóng;xa sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+白色左上三角	bái;rr sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+黄色左上三角	huáng;am sè;qc zuǒ;da shàng;hh sān;dg jiǎo;qe
+黑色右下三角	hēi;lf sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+蓝色右下三角	lán;aj sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+棕色右下三角	zōng;sp sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+青色右下三角	qīng;ge sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+灰色右下三角	huī;do sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+绿色右下三角	lǜ;xv sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+淡蓝色右下三角	dàn;io lán;aj sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+淡灰色右下三角	dàn;io huī;do sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+黄绿色右下三角	huáng;am lǜ;xv sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+品红色右下三角	pǐn;kk hóng;xa sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+橙色右下三角	chéng;sw sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+粉红色右下三角	fěn;ow hóng;xa sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+紫色右下三角	zǐ;hx sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+红色右下三角	hóng;xa sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+白色右下三角	bái;rr sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+黄色右下三角	huáng;am sè;qc yòu;dk xià;gh sān;dg jiǎo;qe
+黑色左下三角	hēi;lf sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+蓝色左下三角	lán;aj sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+棕色左下三角	zōng;sp sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+青色左下三角	qīng;ge sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+灰色左下三角	huī;do sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+绿色左下三角	lǜ;xv sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+淡蓝色左下三角	dàn;io lán;aj sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+淡灰色左下三角	dàn;io huī;do sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+黄绿色左下三角	huáng;am lǜ;xv sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+品红色左下三角	pǐn;kk hóng;xa sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+橙色左下三角	chéng;sw sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+粉红色左下三角	fěn;ow hóng;xa sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+紫色左下三角	zǐ;hx sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+红色左下三角	hóng;xa sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+白色左下三角	bái;rr sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+黄色左下三角	huáng;am sè;qc zuǒ;da xià;gh sān;dg jiǎo;qe
+黑色涡流	hēi;lf sè;qc wō;ik liú;iy
+蓝色涡流	lán;aj sè;qc wō;ik liú;iy
+棕色涡流	zōng;sp sè;qc wō;ik liú;iy
+青色涡流	qīng;ge sè;qc wō;ik liú;iy
+灰色涡流	huī;do sè;qc wō;ik liú;iy
+绿色涡流	lǜ;xv sè;qc wō;ik liú;iy
+淡蓝色涡流	dàn;io lán;aj sè;qc wō;ik liú;iy
+淡灰色涡流	dàn;io huī;do sè;qc wō;ik liú;iy
+黄绿色涡流	huáng;am lǜ;xv sè;qc wō;ik liú;iy
+品红色涡流	pǐn;kk hóng;xa sè;qc wō;ik liú;iy
+橙色涡流	chéng;sw sè;qc wō;ik liú;iy
+粉红色涡流	fěn;ow hóng;xa sè;qc wō;ik liú;iy
+紫色涡流	zǐ;hx sè;qc wō;ik liú;iy
+红色涡流	hóng;xa sè;qc wō;ik liú;iy
+白色涡流	bái;rr sè;qc wō;ik liú;iy
+黄色涡流	huáng;am sè;qc wō;ik liú;iy
+黑色花朵盾徽	hēi;lf sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+蓝色花朵盾徽	lán;aj sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+棕色花朵盾徽	zōng;sp sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+青色花朵盾徽	qīng;ge sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+灰色花朵盾徽	huī;do sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+绿色花朵盾徽	lǜ;xv sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+淡蓝色花朵盾徽	dàn;io lán;aj sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+淡灰色花朵盾徽	dàn;io huī;do sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+黄绿色花朵盾徽	huáng;am lǜ;xv sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+品红色花朵盾徽	pǐn;kk hóng;xa sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+橙色花朵盾徽	chéng;sw sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+粉红色花朵盾徽	fěn;ow hóng;xa sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+紫色花朵盾徽	zǐ;hx sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+红色花朵盾徽	hóng;xa sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+白色花朵盾徽	bái;rr sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+黄色花朵盾徽	huáng;am sè;qc huā;aw duǒ;ms dùn;rf huī;tm
+黑色地球	hēi;lf sè;qc dì;fb qiú;gf
+蓝色地球	lán;aj sè;qc dì;fb qiú;gf
+棕色地球	zōng;sp sè;qc dì;fb qiú;gf
+青色地球	qīng;ge sè;qc dì;fb qiú;gf
+灰色地球	huī;do sè;qc dì;fb qiú;gf
+绿色地球	lǜ;xv sè;qc dì;fb qiú;gf
+淡蓝色地球	dàn;io lán;aj sè;qc dì;fb qiú;gf
+淡灰色地球	dàn;io huī;do sè;qc dì;fb qiú;gf
+黄绿色地球	huáng;am lǜ;xv sè;qc dì;fb qiú;gf
+品红色地球	pǐn;kk hóng;xa sè;qc dì;fb qiú;gf
+橙色地球	chéng;sw sè;qc dì;fb qiú;gf
+粉红色地球	fěn;ow hóng;xa sè;qc dì;fb qiú;gf
+紫色地球	zǐ;hx sè;qc dì;fb qiú;gf
+红色地球	hóng;xa sè;qc dì;fb qiú;gf
+白色地球	bái;rr sè;qc dì;fb qiú;gf
+黄色地球	huáng;am sè;qc dì;fb qiú;gf
+黑色自上渐淡	hēi;lf sè;qc zì;th shàng;hh jiàn;il dàn;io
+蓝色自上渐淡	lán;aj sè;qc zì;th shàng;hh jiàn;il dàn;io
+棕色自上渐淡	zōng;sp sè;qc zì;th shàng;hh jiàn;il dàn;io
+青色自上渐淡	qīng;ge sè;qc zì;th shàng;hh jiàn;il dàn;io
+灰色自上渐淡	huī;do sè;qc zì;th shàng;hh jiàn;il dàn;io
+绿色自上渐淡	lǜ;xv sè;qc zì;th shàng;hh jiàn;il dàn;io
+淡蓝色自上渐淡	dàn;io lán;aj sè;qc zì;th shàng;hh jiàn;il dàn;io
+淡灰色自上渐淡	dàn;io huī;do sè;qc zì;th shàng;hh jiàn;il dàn;io
+黄绿色自上渐淡	huáng;am lǜ;xv sè;qc zì;th shàng;hh jiàn;il dàn;io
+品红色自上渐淡	pǐn;kk hóng;xa sè;qc zì;th shàng;hh jiàn;il dàn;io
+橙色自上渐淡	chéng;sw sè;qc zì;th shàng;hh jiàn;il dàn;io
+粉红色自上渐淡	fěn;ow hóng;xa sè;qc zì;th shàng;hh jiàn;il dàn;io
+紫色自上渐淡	zǐ;hx sè;qc zì;th shàng;hh jiàn;il dàn;io
+红色自上渐淡	hóng;xa sè;qc zì;th shàng;hh jiàn;il dàn;io
+白色自上渐淡	bái;rr sè;qc zì;th shàng;hh jiàn;il dàn;io
+黄色自上渐淡	huáng;am sè;qc zì;th shàng;hh jiàn;il dàn;io
+黑色自下渐淡	hēi;lf sè;qc zì;th xià;gh jiàn;il dàn;io
+蓝色自下渐淡	lán;aj sè;qc zì;th xià;gh jiàn;il dàn;io
+棕色自下渐淡	zōng;sp sè;qc zì;th xià;gh jiàn;il dàn;io
+青色自下渐淡	qīng;ge sè;qc zì;th xià;gh jiàn;il dàn;io
+灰色自下渐淡	huī;do sè;qc zì;th xià;gh jiàn;il dàn;io
+绿色自下渐淡	lǜ;xv sè;qc zì;th xià;gh jiàn;il dàn;io
+淡蓝色自下渐淡	dàn;io lán;aj sè;qc zì;th xià;gh jiàn;il dàn;io
+淡灰色自下渐淡	dàn;io huī;do sè;qc zì;th xià;gh jiàn;il dàn;io
+黄绿色自下渐淡	huáng;am lǜ;xv sè;qc zì;th xià;gh jiàn;il dàn;io
+品红色自下渐淡	pǐn;kk hóng;xa sè;qc zì;th xià;gh jiàn;il dàn;io
+橙色自下渐淡	chéng;sw sè;qc zì;th xià;gh jiàn;il dàn;io
+粉红色自下渐淡	fěn;ow hóng;xa sè;qc zì;th xià;gh jiàn;il dàn;io
+紫色自下渐淡	zǐ;hx sè;qc zì;th xià;gh jiàn;il dàn;io
+红色自下渐淡	hóng;xa sè;qc zì;th xià;gh jiàn;il dàn;io
+白色自下渐淡	bái;rr sè;qc zì;th xià;gh jiàn;il dàn;io
+黄色自下渐淡	huáng;am sè;qc zì;th xià;gh jiàn;il dàn;io
+黑色旋风	hēi;lf sè;qc xuàn;yt fēng;mq
+蓝色旋风	lán;aj sè;qc xuàn;yt fēng;mq
+棕色旋风	zōng;sp sè;qc xuàn;yt fēng;mq
+青色旋风	qīng;ge sè;qc xuàn;yt fēng;mq
+灰色旋风	huī;do sè;qc xuàn;yt fēng;mq
+绿色旋风	lǜ;xv sè;qc xuàn;yt fēng;mq
+淡蓝色旋风	dàn;io lán;aj sè;qc xuàn;yt fēng;mq
+淡灰色旋风	dàn;io huī;do sè;qc xuàn;yt fēng;mq
+黄绿色旋风	huáng;am lǜ;xv sè;qc xuàn;yt fēng;mq
+品红色旋风	pǐn;kk hóng;xa sè;qc xuàn;yt fēng;mq
+橙色旋风	chéng;sw sè;qc xuàn;yt fēng;mq
+粉红色旋风	fěn;ow hóng;xa sè;qc xuàn;yt fēng;mq
+紫色旋风	zǐ;hx sè;qc xuàn;yt fēng;mq
+红色旋风	hóng;xa sè;qc xuàn;yt fēng;mq
+白色旋风	bái;rr sè;qc xuàn;yt fēng;mq
+黄色旋风	huáng;am sè;qc xuàn;yt fēng;mq
+黑色上半方形	hēi;lf sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+蓝色上半方形	lán;aj sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+棕色上半方形	zōng;sp sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+青色上半方形	qīng;ge sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+灰色上半方形	huī;do sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+绿色上半方形	lǜ;xv sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+淡蓝色上半方形	dàn;io lán;aj sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+淡灰色上半方形	dàn;io huī;do sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+黄绿色上半方形	huáng;am lǜ;xv sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+品红色上半方形	pǐn;kk hóng;xa sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+橙色上半方形	chéng;sw sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+粉红色上半方形	fěn;ow hóng;xa sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+紫色上半方形	zǐ;hx sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+红色上半方形	hóng;xa sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+白色上半方形	bái;rr sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+黄色上半方形	huáng;am sè;qc shàng;hh bàn;uf fāng;yy xíng;ga
+黑色下半方形	hēi;lf sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+蓝色下半方形	lán;aj sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+棕色下半方形	zōng;sp sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+青色下半方形	qīng;ge sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+灰色下半方形	huī;do sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+绿色下半方形	lǜ;xv sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+淡蓝色下半方形	dàn;io lán;aj sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+淡灰色下半方形	dàn;io huī;do sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+黄绿色下半方形	huáng;am lǜ;xv sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+品红色下半方形	pǐn;kk hóng;xa sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+橙色下半方形	chéng;sw sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+粉红色下半方形	fěn;ow hóng;xa sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+紫色下半方形	zǐ;hx sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+红色下半方形	hóng;xa sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+白色下半方形	bái;rr sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+黄色下半方形	huáng;am sè;qc xià;gh bàn;uf fāng;yy xíng;ga
+黑色右半方形	hēi;lf sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+蓝色右半方形	lán;aj sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+棕色右半方形	zōng;sp sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+青色右半方形	qīng;ge sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+灰色右半方形	huī;do sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+绿色右半方形	lǜ;xv sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+淡蓝色右半方形	dàn;io lán;aj sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+淡灰色右半方形	dàn;io huī;do sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+黄绿色右半方形	huáng;am lǜ;xv sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+品红色右半方形	pǐn;kk hóng;xa sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+橙色右半方形	chéng;sw sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+粉红色右半方形	fěn;ow hóng;xa sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+紫色右半方形	zǐ;hx sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+红色右半方形	hóng;xa sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+白色右半方形	bái;rr sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+黄色右半方形	huáng;am sè;qc yòu;dk bàn;uf fāng;yy xíng;ga
+黑色左半方形	hēi;lf sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+蓝色左半方形	lán;aj sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+棕色左半方形	zōng;sp sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+青色左半方形	qīng;ge sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+灰色左半方形	huī;do sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+绿色左半方形	lǜ;xv sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+淡蓝色左半方形	dàn;io lán;aj sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+淡灰色左半方形	dàn;io huī;do sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+黄绿色左半方形	huáng;am lǜ;xv sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+品红色左半方形	pǐn;kk hóng;xa sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+橙色左半方形	chéng;sw sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+粉红色左半方形	fěn;ow hóng;xa sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+紫色左半方形	zǐ;hx sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+红色左半方形	hóng;xa sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+白色左半方形	bái;rr sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+黄色左半方形	huáng;am sè;qc zuǒ;da bàn;uf fāng;yy xíng;ga
+黑色猪鼻	hēi;lf sè;qc zhū;qt bí;th
+蓝色猪鼻	lán;aj sè;qc zhū;qt bí;th
+棕色猪鼻	zōng;sp sè;qc zhū;qt bí;th
+青色猪鼻	qīng;ge sè;qc zhū;qt bí;th
+灰色猪鼻	huī;do sè;qc zhū;qt bí;th
+绿色猪鼻	lǜ;xv sè;qc zhū;qt bí;th
+淡蓝色猪鼻	dàn;io lán;aj sè;qc zhū;qt bí;th
+淡灰色猪鼻	dàn;io huī;do sè;qc zhū;qt bí;th
+黄绿色猪鼻	huáng;am lǜ;xv sè;qc zhū;qt bí;th
+品红色猪鼻	pǐn;kk hóng;xa sè;qc zhū;qt bí;th
+橙色猪鼻	chéng;sw sè;qc zhū;qt bí;th
+粉红色猪鼻	fěn;ow hóng;xa sè;qc zhū;qt bí;th
+紫色猪鼻	zǐ;hx sè;qc zhū;qt bí;th
+红色猪鼻	hóng;xa sè;qc zhū;qt bí;th
+白色猪鼻	bái;rr sè;qc zhū;qt bí;th
+黄色猪鼻	huáng;am sè;qc zhū;qt bí;th
+黑色菱形	hēi;lf sè;qc líng;af xíng;ga
+蓝色菱形	lán;aj sè;qc líng;af xíng;ga
+棕色菱形	zōng;sp sè;qc líng;af xíng;ga
+青色菱形	qīng;ge sè;qc líng;af xíng;ga
+灰色菱形	huī;do sè;qc líng;af xíng;ga
+绿色菱形	lǜ;xv sè;qc líng;af xíng;ga
+淡蓝色菱形	dàn;io lán;aj sè;qc líng;af xíng;ga
+淡灰色菱形	dàn;io huī;do sè;qc líng;af xíng;ga
+黄绿色菱形	huáng;am lǜ;xv sè;qc líng;af xíng;ga
+品红色菱形	pǐn;kk hóng;xa sè;qc líng;af xíng;ga
+橙色菱形	chéng;sw sè;qc líng;af xíng;ga
+粉红色菱形	fěn;ow hóng;xa sè;qc líng;af xíng;ga
+紫色菱形	zǐ;hx sè;qc líng;af xíng;ga
+红色菱形	hóng;xa sè;qc líng;af xíng;ga
+白色菱形	bái;rr sè;qc líng;af xíng;ga
+黄色菱形	huáng;am sè;qc líng;af xíng;ga
+黑色头颅盾徽	hēi;lf sè;qc tóu;ud lú;hn dùn;rf huī;tm
+蓝色头颅盾徽	lán;aj sè;qc tóu;ud lú;hn dùn;rf huī;tm
+棕色头颅盾徽	zōng;sp sè;qc tóu;ud lú;hn dùn;rf huī;tm
+青色头颅盾徽	qīng;ge sè;qc tóu;ud lú;hn dùn;rf huī;tm
+灰色头颅盾徽	huī;do sè;qc tóu;ud lú;hn dùn;rf huī;tm
+绿色头颅盾徽	lǜ;xv sè;qc tóu;ud lú;hn dùn;rf huī;tm
+淡蓝色头颅盾徽	dàn;io lán;aj sè;qc tóu;ud lú;hn dùn;rf huī;tm
+淡灰色头颅盾徽	dàn;io huī;do sè;qc tóu;ud lú;hn dùn;rf huī;tm
+黄绿色头颅盾徽	huáng;am lǜ;xv sè;qc tóu;ud lú;hn dùn;rf huī;tm
+品红色头颅盾徽	pǐn;kk hóng;xa sè;qc tóu;ud lú;hn dùn;rf huī;tm
+橙色头颅盾徽	chéng;sw sè;qc tóu;ud lú;hn dùn;rf huī;tm
+粉红色头颅盾徽	fěn;ow hóng;xa sè;qc tóu;ud lú;hn dùn;rf huī;tm
+紫色头颅盾徽	zǐ;hx sè;qc tóu;ud lú;hn dùn;rf huī;tm
+红色头颅盾徽	hóng;xa sè;qc tóu;ud lú;hn dùn;rf huī;tm
+白色头颅盾徽	bái;rr sè;qc tóu;ud lú;hn dùn;rf huī;tm
+黄色头颅盾徽	huáng;am sè;qc tóu;ud lú;hn dùn;rf huī;tm
+黑竖条纹	hēi;lf shù;jc tiáo;ts wén;xy
+蓝竖条纹	lán;aj shù;jc tiáo;ts wén;xy
+棕竖条纹	zōng;sp shù;jc tiáo;ts wén;xy
+青竖条纹	qīng;ge shù;jc tiáo;ts wén;xy
+灰竖条纹	huī;do shù;jc tiáo;ts wén;xy
+绿竖条纹	lǜ;xv shù;jc tiáo;ts wén;xy
+淡蓝竖条纹	dàn;io lán;aj shù;jc tiáo;ts wén;xy
+淡灰竖条纹	dàn;io huī;do shù;jc tiáo;ts wén;xy
+黄绿竖条纹	huáng;am lǜ;xv shù;jc tiáo;ts wén;xy
+品红竖条纹	pǐn;kk hóng;xa shù;jc tiáo;ts wén;xy
+橙竖条纹	chéng;sw shù;jc tiáo;ts wén;xy
+粉红竖条纹	fěn;ow hóng;xa shù;jc tiáo;ts wén;xy
+紫竖条纹	zǐ;hx shù;jc tiáo;ts wén;xy
+红竖条纹	hóng;xa shù;jc tiáo;ts wén;xy
+白竖条纹	bái;rr shù;jc tiáo;ts wén;xy
+黄竖条纹	huáng;am shù;jc tiáo;ts wén;xy
+右底黑方	yòu;dk dǐ;yq hēi;lf fāng;yy
+右底蓝方	yòu;dk dǐ;yq lán;aj fāng;yy
+右底棕方	yòu;dk dǐ;yq zōng;sp fāng;yy
+右底青方	yòu;dk dǐ;yq qīng;ge fāng;yy
+右底灰方	yòu;dk dǐ;yq huī;do fāng;yy
+右底绿方	yòu;dk dǐ;yq lǜ;xv fāng;yy
+右底淡蓝方	yòu;dk dǐ;yq dàn;io lán;aj fāng;yy
+右底淡灰方	yòu;dk dǐ;yq dàn;io huī;do fāng;yy
+右底黄绿方	yòu;dk dǐ;yq huáng;am lǜ;xv fāng;yy
+右底品红方	yòu;dk dǐ;yq pǐn;kk hóng;xa fāng;yy
+右底橙方	yòu;dk dǐ;yq chéng;sw fāng;yy
+右底粉红方	yòu;dk dǐ;yq fěn;ow hóng;xa fāng;yy
+右底紫方	yòu;dk dǐ;yq zǐ;hx fāng;yy
+右底红方	yòu;dk dǐ;yq hóng;xa fāng;yy
+右底白方	yòu;dk dǐ;yq bái;rr fāng;yy
+右底黄方	yòu;dk dǐ;yq huáng;am fāng;yy
+左底黑方	zuǒ;da dǐ;yq hēi;lf fāng;yy
+左底蓝方	zuǒ;da dǐ;yq lán;aj fāng;yy
+左底棕方	zuǒ;da dǐ;yq zōng;sp fāng;yy
+左底青方	zuǒ;da dǐ;yq qīng;ge fāng;yy
+左底灰方	zuǒ;da dǐ;yq huī;do fāng;yy
+左底绿方	zuǒ;da dǐ;yq lǜ;xv fāng;yy
+左底淡蓝方	zuǒ;da dǐ;yq dàn;io lán;aj fāng;yy
+左底淡灰方	zuǒ;da dǐ;yq dàn;io huī;do fāng;yy
+左底黄绿方	zuǒ;da dǐ;yq huáng;am lǜ;xv fāng;yy
+左底品红方	zuǒ;da dǐ;yq pǐn;kk hóng;xa fāng;yy
+左底橙方	zuǒ;da dǐ;yq chéng;sw fāng;yy
+左底粉红方	zuǒ;da dǐ;yq fěn;ow hóng;xa fāng;yy
+左底紫方	zuǒ;da dǐ;yq zǐ;hx fāng;yy
+左底红方	zuǒ;da dǐ;yq hóng;xa fāng;yy
+左底白方	zuǒ;da dǐ;yq bái;rr fāng;yy
+左底黄方	zuǒ;da dǐ;yq huáng;am fāng;yy
+右顶黑方	yòu;dk dǐng;sd hēi;lf fāng;yy
+右顶蓝方	yòu;dk dǐng;sd lán;aj fāng;yy
+右顶棕方	yòu;dk dǐng;sd zōng;sp fāng;yy
+右顶青方	yòu;dk dǐng;sd qīng;ge fāng;yy
+右顶灰方	yòu;dk dǐng;sd huī;do fāng;yy
+右顶绿方	yòu;dk dǐng;sd lǜ;xv fāng;yy
+右顶淡蓝方	yòu;dk dǐng;sd dàn;io lán;aj fāng;yy
+右顶淡灰方	yòu;dk dǐng;sd dàn;io huī;do fāng;yy
+右顶黄绿方	yòu;dk dǐng;sd huáng;am lǜ;xv fāng;yy
+右顶品红方	yòu;dk dǐng;sd pǐn;kk hóng;xa fāng;yy
+右顶橙方	yòu;dk dǐng;sd chéng;sw fāng;yy
+右顶粉红方	yòu;dk dǐng;sd fěn;ow hóng;xa fāng;yy
+右顶紫方	yòu;dk dǐng;sd zǐ;hx fāng;yy
+右顶红方	yòu;dk dǐng;sd hóng;xa fāng;yy
+右顶白方	yòu;dk dǐng;sd bái;rr fāng;yy
+右顶黄方	yòu;dk dǐng;sd huáng;am fāng;yy
+左顶黑方	zuǒ;da dǐng;sd hēi;lf fāng;yy
+左顶蓝方	zuǒ;da dǐng;sd lán;aj fāng;yy
+左顶棕方	zuǒ;da dǐng;sd zōng;sp fāng;yy
+左顶青方	zuǒ;da dǐng;sd qīng;ge fāng;yy
+左顶灰方	zuǒ;da dǐng;sd huī;do fāng;yy
+左顶绿方	zuǒ;da dǐng;sd lǜ;xv fāng;yy
+左顶淡蓝方	zuǒ;da dǐng;sd dàn;io lán;aj fāng;yy
+左顶淡灰方	zuǒ;da dǐng;sd dàn;io huī;do fāng;yy
+左顶黄绿方	zuǒ;da dǐng;sd huáng;am lǜ;xv fāng;yy
+左顶品红方	zuǒ;da dǐng;sd pǐn;kk hóng;xa fāng;yy
+左顶橙方	zuǒ;da dǐng;sd chéng;sw fāng;yy
+左顶粉红方	zuǒ;da dǐng;sd fěn;ow hóng;xa fāng;yy
+左顶紫方	zuǒ;da dǐng;sd zǐ;hx fāng;yy
+左顶红方	zuǒ;da dǐng;sd hóng;xa fāng;yy
+左顶白方	zuǒ;da dǐng;sd bái;rr fāng;yy
+左顶黄方	zuǒ;da dǐng;sd huáng;am fāng;yy
+黑正十字	hēi;lf zhèng;gh shí;fg zì;pb
+蓝正十字	lán;aj zhèng;gh shí;fg zì;pb
+棕正十字	zōng;sp zhèng;gh shí;fg zì;pb
+青正十字	qīng;ge zhèng;gh shí;fg zì;pb
+灰正十字	huī;do zhèng;gh shí;fg zì;pb
+绿正十字	lǜ;xv zhèng;gh shí;fg zì;pb
+淡蓝正十字	dàn;io lán;aj zhèng;gh shí;fg zì;pb
+淡灰正十字	dàn;io huī;do zhèng;gh shí;fg zì;pb
+黄绿正十字	huáng;am lǜ;xv zhèng;gh shí;fg zì;pb
+品红正十字	pǐn;kk hóng;xa zhèng;gh shí;fg zì;pb
+橙正十字	chéng;sw zhèng;gh shí;fg zì;pb
+粉红正十字	fěn;ow hóng;xa zhèng;gh shí;fg zì;pb
+紫正十字	zǐ;hx zhèng;gh shí;fg zì;pb
+红正十字	hóng;xa zhèng;gh shí;fg zì;pb
+白正十字	bái;rr zhèng;gh shí;fg zì;pb
+黄正十字	huáng;am zhèng;gh shí;fg zì;pb
+底黑横条	dǐ;yq hēi;lf héng;sa tiáo;ts
+底蓝横条	dǐ;yq lán;aj héng;sa tiáo;ts
+底棕横条	dǐ;yq zōng;sp héng;sa tiáo;ts
+底青横条	dǐ;yq qīng;ge héng;sa tiáo;ts
+底灰横条	dǐ;yq huī;do héng;sa tiáo;ts
+底绿横条	dǐ;yq lǜ;xv héng;sa tiáo;ts
+底淡蓝横条	dǐ;yq dàn;io lán;aj héng;sa tiáo;ts
+底淡灰横条	dǐ;yq dàn;io huī;do héng;sa tiáo;ts
+底黄绿横条	dǐ;yq huáng;am lǜ;xv héng;sa tiáo;ts
+底品红横条	dǐ;yq pǐn;kk hóng;xa héng;sa tiáo;ts
+底橙横条	dǐ;yq chéng;sw héng;sa tiáo;ts
+底粉红横条	dǐ;yq fěn;ow hóng;xa héng;sa tiáo;ts
+底紫横条	dǐ;yq zǐ;hx héng;sa tiáo;ts
+底红横条	dǐ;yq hóng;xa héng;sa tiáo;ts
+底白横条	dǐ;yq bái;rr héng;sa tiáo;ts
+底黄横条	dǐ;yq huáng;am héng;sa tiáo;ts
+中黑竖条	zhōng;kh hēi;lf shù;jc tiáo;ts
+中蓝竖条	zhōng;kh lán;aj shù;jc tiáo;ts
+中棕竖条	zhōng;kh zōng;sp shù;jc tiáo;ts
+中青竖条	zhōng;kh qīng;ge shù;jc tiáo;ts
+中灰竖条	zhōng;kh huī;do shù;jc tiáo;ts
+中绿竖条	zhōng;kh lǜ;xv shù;jc tiáo;ts
+中淡蓝竖条	zhōng;kh dàn;io lán;aj shù;jc tiáo;ts
+中淡灰竖条	zhōng;kh dàn;io huī;do shù;jc tiáo;ts
+中黄绿竖条	zhōng;kh huáng;am lǜ;xv shù;jc tiáo;ts
+中品红竖条	zhōng;kh pǐn;kk hóng;xa shù;jc tiáo;ts
+中橙竖条	zhōng;kh chéng;sw shù;jc tiáo;ts
+中粉红竖条	zhōng;kh fěn;ow hóng;xa shù;jc tiáo;ts
+中紫竖条	zhōng;kh zǐ;hx shù;jc tiáo;ts
+中红竖条	zhōng;kh hóng;xa shù;jc tiáo;ts
+中白竖条	zhōng;kh bái;rr shù;jc tiáo;ts
+中黄竖条	zhōng;kh huáng;am shù;jc tiáo;ts
+左黑斜条	zuǒ;da hēi;lf xié;wt tiáo;ts
+左蓝斜条	zuǒ;da lán;aj xié;wt tiáo;ts
+左棕斜条	zuǒ;da zōng;sp xié;wt tiáo;ts
+左青斜条	zuǒ;da qīng;ge xié;wt tiáo;ts
+左灰斜条	zuǒ;da huī;do xié;wt tiáo;ts
+左绿斜条	zuǒ;da lǜ;xv xié;wt tiáo;ts
+左淡蓝斜条	zuǒ;da dàn;io lán;aj xié;wt tiáo;ts
+左淡灰斜条	zuǒ;da dàn;io huī;do xié;wt tiáo;ts
+左黄绿斜条	zuǒ;da huáng;am lǜ;xv xié;wt tiáo;ts
+左品红斜条	zuǒ;da pǐn;kk hóng;xa xié;wt tiáo;ts
+左橙斜条	zuǒ;da chéng;sw xié;wt tiáo;ts
+左粉红斜条	zuǒ;da fěn;ow hóng;xa xié;wt tiáo;ts
+左紫斜条	zuǒ;da zǐ;hx xié;wt tiáo;ts
+左红斜条	zuǒ;da hóng;xa xié;wt tiáo;ts
+左白斜条	zuǒ;da bái;rr xié;wt tiáo;ts
+左黄斜条	zuǒ;da huáng;am xié;wt tiáo;ts
+右黑斜条	yòu;dk hēi;lf xié;wt tiáo;ts
+右蓝斜条	yòu;dk lán;aj xié;wt tiáo;ts
+右棕斜条	yòu;dk zōng;sp xié;wt tiáo;ts
+右青斜条	yòu;dk qīng;ge xié;wt tiáo;ts
+右灰斜条	yòu;dk huī;do xié;wt tiáo;ts
+右绿斜条	yòu;dk lǜ;xv xié;wt tiáo;ts
+右淡蓝斜条	yòu;dk dàn;io lán;aj xié;wt tiáo;ts
+右淡灰斜条	yòu;dk dàn;io huī;do xié;wt tiáo;ts
+右黄绿斜条	yòu;dk huáng;am lǜ;xv xié;wt tiáo;ts
+右品红斜条	yòu;dk pǐn;kk hóng;xa xié;wt tiáo;ts
+右橙斜条	yòu;dk chéng;sw xié;wt tiáo;ts
+右粉红斜条	yòu;dk fěn;ow hóng;xa xié;wt tiáo;ts
+右紫斜条	yòu;dk zǐ;hx xié;wt tiáo;ts
+右红斜条	yòu;dk hóng;xa xié;wt tiáo;ts
+右白斜条	yòu;dk bái;rr xié;wt tiáo;ts
+右黄斜条	yòu;dk huáng;am xié;wt tiáo;ts
+右黑竖条	yòu;dk hēi;lf shù;jc tiáo;ts
+右蓝竖条	yòu;dk lán;aj shù;jc tiáo;ts
+右棕竖条	yòu;dk zōng;sp shù;jc tiáo;ts
+右青竖条	yòu;dk qīng;ge shù;jc tiáo;ts
+右灰竖条	yòu;dk huī;do shù;jc tiáo;ts
+右绿竖条	yòu;dk lǜ;xv shù;jc tiáo;ts
+右淡蓝竖条	yòu;dk dàn;io lán;aj shù;jc tiáo;ts
+右淡灰竖条	yòu;dk dàn;io huī;do shù;jc tiáo;ts
+右黄绿竖条	yòu;dk huáng;am lǜ;xv shù;jc tiáo;ts
+右品红竖条	yòu;dk pǐn;kk hóng;xa shù;jc tiáo;ts
+右橙竖条	yòu;dk chéng;sw shù;jc tiáo;ts
+右粉红竖条	yòu;dk fěn;ow hóng;xa shù;jc tiáo;ts
+右紫竖条	yòu;dk zǐ;hx shù;jc tiáo;ts
+右红竖条	yòu;dk hóng;xa shù;jc tiáo;ts
+右白竖条	yòu;dk bái;rr shù;jc tiáo;ts
+右黄竖条	yòu;dk huáng;am shù;jc tiáo;ts
+中黑横条	zhōng;kh hēi;lf héng;sa tiáo;ts
+中蓝横条	zhōng;kh lán;aj héng;sa tiáo;ts
+中棕横条	zhōng;kh zōng;sp héng;sa tiáo;ts
+中青横条	zhōng;kh qīng;ge héng;sa tiáo;ts
+中灰横条	zhōng;kh huī;do héng;sa tiáo;ts
+中绿横条	zhōng;kh lǜ;xv héng;sa tiáo;ts
+中淡蓝横条	zhōng;kh dàn;io lán;aj héng;sa tiáo;ts
+中淡灰横条	zhōng;kh dàn;io huī;do héng;sa tiáo;ts
+中黄绿横条	zhōng;kh huáng;am lǜ;xv héng;sa tiáo;ts
+中品红横条	zhōng;kh pǐn;kk hóng;xa héng;sa tiáo;ts
+中橙横条	zhōng;kh chéng;sw héng;sa tiáo;ts
+中粉红横条	zhōng;kh fěn;ow hóng;xa héng;sa tiáo;ts
+中紫横条	zhōng;kh zǐ;hx héng;sa tiáo;ts
+中红横条	zhōng;kh hóng;xa héng;sa tiáo;ts
+中白横条	zhōng;kh bái;rr héng;sa tiáo;ts
+中黄横条	zhōng;kh huáng;am héng;sa tiáo;ts
+左黑竖条	zuǒ;da hēi;lf shù;jc tiáo;ts
+左蓝竖条	zuǒ;da lán;aj shù;jc tiáo;ts
+左棕竖条	zuǒ;da zōng;sp shù;jc tiáo;ts
+左青竖条	zuǒ;da qīng;ge shù;jc tiáo;ts
+左灰竖条	zuǒ;da huī;do shù;jc tiáo;ts
+左绿竖条	zuǒ;da lǜ;xv shù;jc tiáo;ts
+左淡蓝竖条	zuǒ;da dàn;io lán;aj shù;jc tiáo;ts
+左淡灰竖条	zuǒ;da dàn;io huī;do shù;jc tiáo;ts
+左黄绿竖条	zuǒ;da huáng;am lǜ;xv shù;jc tiáo;ts
+左品红竖条	zuǒ;da pǐn;kk hóng;xa shù;jc tiáo;ts
+左橙竖条	zuǒ;da chéng;sw shù;jc tiáo;ts
+左粉红竖条	zuǒ;da fěn;ow hóng;xa shù;jc tiáo;ts
+左紫竖条	zuǒ;da zǐ;hx shù;jc tiáo;ts
+左红竖条	zuǒ;da hóng;xa shù;jc tiáo;ts
+左白竖条	zuǒ;da bái;rr shù;jc tiáo;ts
+左黄竖条	zuǒ;da huáng;am shù;jc tiáo;ts
+顶黑横条	dǐng;sd hēi;lf héng;sa tiáo;ts
+顶蓝横条	dǐng;sd lán;aj héng;sa tiáo;ts
+顶棕横条	dǐng;sd zōng;sp héng;sa tiáo;ts
+顶青横条	dǐng;sd qīng;ge héng;sa tiáo;ts
+顶灰横条	dǐng;sd huī;do héng;sa tiáo;ts
+顶绿横条	dǐng;sd lǜ;xv héng;sa tiáo;ts
+顶淡蓝横条	dǐng;sd dàn;io lán;aj héng;sa tiáo;ts
+顶淡灰横条	dǐng;sd dàn;io huī;do héng;sa tiáo;ts
+顶黄绿横条	dǐng;sd huáng;am lǜ;xv héng;sa tiáo;ts
+顶品红横条	dǐng;sd pǐn;kk hóng;xa héng;sa tiáo;ts
+顶橙横条	dǐng;sd chéng;sw héng;sa tiáo;ts
+顶粉红横条	dǐng;sd fěn;ow hóng;xa héng;sa tiáo;ts
+顶紫横条	dǐng;sd zǐ;hx héng;sa tiáo;ts
+顶红横条	dǐng;sd hóng;xa héng;sa tiáo;ts
+顶白横条	dǐng;sd bái;rr héng;sa tiáo;ts
+顶黄横条	dǐng;sd huáng;am héng;sa tiáo;ts
+底黑三角	dǐ;yq hēi;lf sān;dg jiǎo;qe
+底蓝三角	dǐ;yq lán;aj sān;dg jiǎo;qe
+底棕三角	dǐ;yq zōng;sp sān;dg jiǎo;qe
+底青三角	dǐ;yq qīng;ge sān;dg jiǎo;qe
+底灰三角	dǐ;yq huī;do sān;dg jiǎo;qe
+底绿三角	dǐ;yq lǜ;xv sān;dg jiǎo;qe
+底淡蓝三角	dǐ;yq dàn;io lán;aj sān;dg jiǎo;qe
+底淡灰三角	dǐ;yq dàn;io huī;do sān;dg jiǎo;qe
+底黄绿三角	dǐ;yq huáng;am lǜ;xv sān;dg jiǎo;qe
+底品红三角	dǐ;yq pǐn;kk hóng;xa sān;dg jiǎo;qe
+底橙三角	dǐ;yq chéng;sw sān;dg jiǎo;qe
+底粉红三角	dǐ;yq fěn;ow hóng;xa sān;dg jiǎo;qe
+底紫三角	dǐ;yq zǐ;hx sān;dg jiǎo;qe
+底红三角	dǐ;yq hóng;xa sān;dg jiǎo;qe
+底白三角	dǐ;yq bái;rr sān;dg jiǎo;qe
+底黄三角	dǐ;yq huáng;am sān;dg jiǎo;qe
+顶黑三角	dǐng;sd hēi;lf sān;dg jiǎo;qe
+顶蓝三角	dǐng;sd lán;aj sān;dg jiǎo;qe
+顶棕三角	dǐng;sd zōng;sp sān;dg jiǎo;qe
+顶青三角	dǐng;sd qīng;ge sān;dg jiǎo;qe
+顶灰三角	dǐng;sd huī;do sān;dg jiǎo;qe
+顶绿三角	dǐng;sd lǜ;xv sān;dg jiǎo;qe
+顶淡蓝三角	dǐng;sd dàn;io lán;aj sān;dg jiǎo;qe
+顶淡灰三角	dǐng;sd dàn;io huī;do sān;dg jiǎo;qe
+顶黄绿三角	dǐng;sd huáng;am lǜ;xv sān;dg jiǎo;qe
+顶品红三角	dǐng;sd pǐn;kk hóng;xa sān;dg jiǎo;qe
+顶橙三角	dǐng;sd chéng;sw sān;dg jiǎo;qe
+顶粉红三角	dǐng;sd fěn;ow hóng;xa sān;dg jiǎo;qe
+顶紫三角	dǐng;sd zǐ;hx sān;dg jiǎo;qe
+顶红三角	dǐng;sd hóng;xa sān;dg jiǎo;qe
+顶白三角	dǐng;sd bái;rr sān;dg jiǎo;qe
+顶黄三角	dǐng;sd huáng;am sān;dg jiǎo;qe
+黑色底波纹	hēi;lf sè;qc dǐ;yq bō;ih wén;xy
+蓝色底波纹	lán;aj sè;qc dǐ;yq bō;ih wén;xy
+棕色底波纹	zōng;sp sè;qc dǐ;yq bō;ih wén;xy
+青色底波纹	qīng;ge sè;qc dǐ;yq bō;ih wén;xy
+灰色底波纹	huī;do sè;qc dǐ;yq bō;ih wén;xy
+绿色底波纹	lǜ;xv sè;qc dǐ;yq bō;ih wén;xy
+淡蓝色底波纹	dàn;io lán;aj sè;qc dǐ;yq bō;ih wén;xy
+淡灰色底波纹	dàn;io huī;do sè;qc dǐ;yq bō;ih wén;xy
+黄绿色底波纹	huáng;am lǜ;xv sè;qc dǐ;yq bō;ih wén;xy
+品红色底波纹	pǐn;kk hóng;xa sè;qc dǐ;yq bō;ih wén;xy
+橙色底波纹	chéng;sw sè;qc dǐ;yq bō;ih wén;xy
+粉红色底波纹	fěn;ow hóng;xa sè;qc dǐ;yq bō;ih wén;xy
+紫色底波纹	zǐ;hx sè;qc dǐ;yq bō;ih wén;xy
+红色底波纹	hóng;xa sè;qc dǐ;yq bō;ih wén;xy
+白色底波纹	bái;rr sè;qc dǐ;yq bō;ih wén;xy
+黄色底波纹	huáng;am sè;qc dǐ;yq bō;ih wén;xy
+黑色顶波纹	hēi;lf sè;qc dǐng;sd bō;ih wén;xy
+蓝色顶波纹	lán;aj sè;qc dǐng;sd bō;ih wén;xy
+棕色顶波纹	zōng;sp sè;qc dǐng;sd bō;ih wén;xy
+青色顶波纹	qīng;ge sè;qc dǐng;sd bō;ih wén;xy
+灰色顶波纹	huī;do sè;qc dǐng;sd bō;ih wén;xy
+绿色顶波纹	lǜ;xv sè;qc dǐng;sd bō;ih wén;xy
+淡蓝色顶波纹	dàn;io lán;aj sè;qc dǐng;sd bō;ih wén;xy
+淡灰色顶波纹	dàn;io huī;do sè;qc dǐng;sd bō;ih wén;xy
+黄绿色顶波纹	huáng;am lǜ;xv sè;qc dǐng;sd bō;ih wén;xy
+品红色顶波纹	pǐn;kk hóng;xa sè;qc dǐng;sd bō;ih wén;xy
+橙色顶波纹	chéng;sw sè;qc dǐng;sd bō;ih wén;xy
+粉红色顶波纹	fěn;ow hóng;xa sè;qc dǐng;sd bō;ih wén;xy
+紫色顶波纹	zǐ;hx sè;qc dǐng;sd bō;ih wén;xy
+红色顶波纹	hóng;xa sè;qc dǐng;sd bō;ih wén;xy
+白色顶波纹	bái;rr sè;qc dǐng;sd bō;ih wén;xy
+黄色顶波纹	huáng;am sè;qc dǐng;sd bō;ih wén;xy
+木桶	mù;ss tǒng;sc
+屏障	píng;nu zhàng;bu
+玄武岩	xuán;yx wǔ;ga yán;md
+信标	xìn;wy biāo;sf
+主效果	zhǔ;yg xiào;uq guǒ;js
+辅助效果	fǔ;lg zhù;eg xiào;uq guǒ;js
+你只能在夜间或雷暴中入眠	nǐ;wq zhǐ;kw néng;ce zài;dh yè;yw jiān;uj huò;ak léi;fl bào;ja zhōng;kh rù;ty mián;hn
+这张床已被阻挡	zhè;yp zhāng;xt chuáng;ys yǐ;nn bèi;pu zǔ;be dǎng;ri
+这张床已被占用	zhè;yp zhāng;xt chuáng;ys yǐ;nn bèi;pu zhàn;hk yòng;et
+基岩	jī;ad yán;md
+蜂巢	fēng;jt cháo;vj
+蜂箱	fēng;jt xiāng;ts
+甜菜根	tián;td cài;ae gēn;sv
+钟	zhōng;qk
+大型垂滴叶	dà;dd xíng;ga chuí;tg dī;iu yè;kf
+大型垂滴叶茎	dà;dd xíng;ga chuí;tg dī;iu yè;kf jīng;ac
+白桦木按钮	bái;rr huà;sw mù;ss àn;rp niǔ;qn
+白桦木门	bái;rr huà;sw mù;ss mén;uy
+白桦木栅栏	bái;rr huà;sw mù;ss zhà;sm lán;su
+白桦木栅栏门	bái;rr huà;sw mù;ss zhà;sm lán;su mén;uy
+悬挂式白桦木告示牌	xuán;eg guà;rf shì;aa bái;rr huà;sw mù;ss gào;tf shì;fi pái;th
+白桦树叶	bái;rr huà;sw shù;sc yè;kf
+白桦原木	bái;rr huà;sw yuán;dr mù;ss
+白桦木板	bái;rr huà;sw mù;ss bǎn;sr
+白桦木压力板	bái;rr huà;sw mù;ss yā;df lì;lt bǎn;sr
+白桦树苗	bái;rr huà;sw shù;sc miáo;al
+白桦木展示架	bái;rr huà;sw mù;ss zhǎn;na shì;fi jià;lk
+白桦木告示牌	bái;rr huà;sw mù;ss gào;tf shì;fi pái;th
+白桦木台阶	bái;rr huà;sw mù;ss tái;ck jiē;bw
+白桦木楼梯	bái;rr huà;sw mù;ss lóu;so tī;su
+白桦木活板门	bái;rr huà;sw mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式白桦木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa bái;rr huà;sw mù;ss gào;tf shì;fi pái;th
+墙上的白桦木告示牌	qiáng;ff shàng;hh de;rq bái;rr huà;sw mù;ss gào;tf shì;fi pái;th
+白桦木	bái;rr huà;sw mù;ss
+黑色旗帜	hēi;lf sè;qc qí;yt zhì;mh
+黑色床	hēi;lf sè;qc chuáng;ys
+黑色蜡烛	hēi;lf sè;qc là;ja zhú;oj
+插上黑色蜡烛的蛋糕	chā;rt shang;hh hēi;lf sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+黑色地毯	hēi;lf sè;qc dì;fb tǎn;tf
+黑色混凝土	hēi;lf sè;qc hùn;ij níng;ux tǔ;ff
+黑色混凝土粉末	hēi;lf sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+黑色带釉陶瓦	hēi;lf sè;qc dài;gk yòu;to táo;bq wǎ;gn
+黑色潜影盒	hēi;lf sè;qc qián;if yǐng;jy hé;wg
+黑色染色玻璃	hēi;lf sè;qc rǎn;iv sè;qc bō;gh li;gy
+黑色染色玻璃板	hēi;lf sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+黑色陶瓦	hēi;lf sè;qc táo;bq wǎ;gn
+黑色羊毛	hēi;lf sè;qc yáng;ud máo;tf
+黑石	hēi;lf shí;dg
+黑石台阶	hēi;lf shí;dg tái;ck jiē;bw
+黑石楼梯	hēi;lf shí;dg lóu;so tī;su
+黑石墙	hēi;lf shí;dg qiáng;ff
+高炉	gāo;ym lú;oy
+蓝色旗帜	lán;aj sè;qc qí;yt zhì;mh
+蓝色床	lán;aj sè;qc chuáng;ys
+蓝色蜡烛	lán;aj sè;qc là;ja zhú;oj
+插上蓝色蜡烛的蛋糕	chā;rt shang;hh lán;aj sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+蓝色地毯	lán;aj sè;qc dì;fb tǎn;tf
+蓝色混凝土	lán;aj sè;qc hùn;ij níng;ux tǔ;ff
+蓝色混凝土粉末	lán;aj sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+蓝色带釉陶瓦	lán;aj sè;qc dài;gk yòu;to táo;bq wǎ;gn
+蓝冰	lán;aj bīng;ui
+兰花	lán;uf huā;aw
+蓝色潜影盒	lán;aj sè;qc qián;if yǐng;jy hé;wg
+蓝色染色玻璃	lán;aj sè;qc rǎn;iv sè;qc bō;gh li;gy
+蓝色染色玻璃板	lán;aj sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+蓝色陶瓦	lán;aj sè;qc táo;bq wǎ;gn
+蓝色羊毛	lán;aj sè;qc yáng;ud máo;tf
+骨块	gǔ;me kuài;fn
+书架	shū;nn jià;lk
+脑纹珊瑚	nǎo;ey wén;xy shān;gm hú;gd
+脑纹珊瑚块	nǎo;ey wén;xy shān;gm hú;gd kuài;fn
+脑纹珊瑚扇	nǎo;ey wén;xy shān;gm hú;gd shàn;yn
+墙上的脑纹珊瑚扇	qiáng;ff shàng;hh de;rq nǎo;ey wén;xy shān;gm hú;gd shàn;yn
+酿造台	niàng;sg zào;tf tái;ck
+红砖台阶	hóng;xa zhuān;df tái;ck jiē;bw
+红砖楼梯	hóng;xa zhuān;df lóu;so tī;su
+红砖墙	hóng;xa zhuān;df qiáng;ff
+红砖块	hóng;xa zhuān;df kuài;fn
+棕色旗帜	zōng;sp sè;qc qí;yt zhì;mh
+棕色床	zōng;sp sè;qc chuáng;ys
+棕色蜡烛	zōng;sp sè;qc là;ja zhú;oj
+插上棕色蜡烛的蛋糕	chā;rt shang;hh zōng;sp sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+棕色地毯	zōng;sp sè;qc dì;fb tǎn;tf
+棕色混凝土	zōng;sp sè;qc hùn;ij níng;ux tǔ;ff
+棕色混凝土粉末	zōng;sp sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+棕色带釉陶瓦	zōng;sp sè;qc dài;gk yòu;to táo;bq wǎ;gn
+棕色蘑菇	zōng;sp sè;qc mó;ay gu;av
+棕色蘑菇方块	zōng;sp sè;qc mó;ay gu;av fāng;yy kuài;fn
+棕色潜影盒	zōng;sp sè;qc qián;if yǐng;jy hé;wg
+棕色染色玻璃	zōng;sp sè;qc rǎn;iv sè;qc bō;gh li;gy
+棕色染色玻璃板	zōng;sp sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+棕色陶瓦	zōng;sp sè;qc táo;bq wǎ;gn
+棕色羊毛	zōng;sp sè;qc yáng;ud máo;tf
+气泡柱	qì;rn pào;iq zhù;sy
+气泡珊瑚	qì;rn pào;iq shān;gm hú;gd
+气泡珊瑚块	qì;rn pào;iq shān;gm hú;gd kuài;fn
+气泡珊瑚扇	qì;rn pào;iq shān;gm hú;gd shàn;yn
+墙上的气泡珊瑚扇	qiáng;ff shàng;hh de;rq qì;rn pào;iq shān;gm hú;gd shàn;yn
+紫水晶母岩	zǐ;hx shuǐ;ii jīng;jj mǔ;xg yán;md
+灌木丛	guàn;ia mù;ss cóng;ww
+仙人掌	xiān;wm rén;ww zhǎng;ip
+仙人掌花	xiān;wm rén;ww zhǎng;ip huā;aw
+蛋糕	dàn;nh gāo;ou
+方解石	fāng;yy jiě;qe shí;dg
+校频幽匿感测体	xiào;su pín;hi yōu;xx nì;aa gǎn;dg cè;im tǐ;ws
+营火	yíng;ap huǒ;oo
+蜡烛	là;ja zhú;oj
+插上蜡烛的蛋糕	chā;rt shang;hh là;ja zhú;oj de;rq dàn;nh gāo;ou
+胡萝卜	hú;de luó;al bo;hh
+制图台	zhì;rm tú;lt tái;ck
+雕刻南瓜	diāo;mf kè;yn nán;fm guā;rc
+炼药锅	liàn;oa yào;ax guō;qk
+洞穴空气	dòng;im xué;pw kōng;pw qì;rn
+洞穴藤蔓	dòng;im xué;pw téng;ae màn;aj
+洞穴藤蔓植株	dòng;im xué;pw téng;ae màn;aj zhí;sf zhū;sr
+锁链	suǒ;qi liàn;ql
+连锁型命令方块	lián;lp suǒ;qi xíng;ga mìng;wg lìng;wy fāng;yy kuài;fn
+樱花木按钮	yīng;sm huā;aw mù;ss àn;rp niǔ;qn
+樱花木门	yīng;sm huā;aw mù;ss mén;uy
+樱花木栅栏	yīng;sm huā;aw mù;ss zhà;sm lán;su
+樱花木栅栏门	yīng;sm huā;aw mù;ss zhà;sm lán;su mén;uy
+悬挂式樱花木告示牌	xuán;eg guà;rf shì;aa yīng;sm huā;aw mù;ss gào;tf shì;fi pái;th
+樱花树叶	yīng;sm huā;aw shù;sc yè;kf
+樱花原木	yīng;sm huā;aw yuán;dr mù;ss
+樱花木板	yīng;sm huā;aw mù;ss bǎn;sr
+樱花木压力板	yīng;sm huā;aw mù;ss yā;df lì;lt bǎn;sr
+樱花树苗	yīng;sm huā;aw shù;sc miáo;al
+樱花木展示架	yīng;sm huā;aw mù;ss zhǎn;na shì;fi jià;lk
+樱花木告示牌	yīng;sm huā;aw mù;ss gào;tf shì;fi pái;th
+樱花木台阶	yīng;sm huā;aw mù;ss tái;ck jiē;bw
+樱花木楼梯	yīng;sm huā;aw mù;ss lóu;so tī;su
+樱花木活板门	yīng;sm huā;aw mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式樱花木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa yīng;sm huā;aw mù;ss gào;tf shì;fi pái;th
+墙上的樱花木告示牌	qiáng;ff shàng;hh de;rq yīng;sm huā;aw mù;ss gào;tf shì;fi pái;th
+樱花木	yīng;sm huā;aw mù;ss
+箱子	xiāng;ts zi;bb
+开裂的铁砧	kāi;ga liè;gq de;rq tiě;qr zhēn;dh
+雕纹书架	diāo;mf wén;xy shū;nn jià;lk
+雕纹铜块	diāo;mf wén;xy tóng;qm kuài;fn
+雕纹深板岩	diāo;mf wén;xy shēn;ip bǎn;sr yán;md
+雕纹下界砖块	diāo;mf wén;xy xià;gh jiè;lw zhuān;df kuài;fn
+雕纹磨制黑石	diāo;mf wén;xy mó;ys zhì;rm hēi;lf shí;dg
+雕纹石英块	diāo;mf wén;xy shí;dg yīng;am kuài;fn
+雕纹红砂岩	diāo;mf wén;xy hóng;xa shā;di yán;md
+雕纹树脂砖块	diāo;mf wén;xy shù;sc zhī;ex zhuān;df kuài;fn
+雕纹砂岩	diāo;mf wén;xy shā;di yán;md
+雕纹石砖	diāo;mf wén;xy shí;dg zhuān;df
+雕纹凝灰岩	diāo;mf wén;xy níng;ux huī;do yán;md
+雕纹凝灰岩砖	diāo;mf wén;xy níng;ux huī;do yán;md zhuān;df
+紫颂花	zǐ;hx sòng;wc huā;aw
+紫颂植株	zǐ;hx sòng;wc zhí;sf zhū;sr
+黏土	nián;tw tǔ;ff
+闭合的眼眸花	bì;uf hé;wg de;rq yǎn;hv móu;hc huā;aw
+煤炭块	méi;oa tàn;md kuài;fn
+煤矿石	méi;oa kuàng;dy shí;dg
+砂土	shā;di tǔ;ff
+深板岩圆石	shēn;ip bǎn;sr yán;md yuán;lk shí;dg
+深板岩圆石台阶	shēn;ip bǎn;sr yán;md yuán;lk shí;dg tái;ck jiē;bw
+深板岩圆石楼梯	shēn;ip bǎn;sr yán;md yuán;lk shí;dg lóu;so tī;su
+深板岩圆石墙	shēn;ip bǎn;sr yán;md yuán;lk shí;dg qiáng;ff
+圆石	yuán;lk shí;dg
+圆石台阶	yuán;lk shí;dg tái;ck jiē;bw
+圆石楼梯	yuán;lk shí;dg lóu;so tī;su
+圆石墙	yuán;lk shí;dg qiáng;ff
+蜘蛛网	zhī;jt zhū;jr wǎng;mq
+可可果	kě;sk kě;sk guǒ;js
+命令方块	mìng;wg lìng;wy fāng;yy kuài;fn
+红石比较器	hóng;xa shí;dg bǐ;xx jiào;lu qì;kk
+堆肥桶	duī;fw féi;ec tǒng;sc
+潮涌核心	cháo;if yǒng;ic hé;sy xīn;ny
+铜栏杆	tóng;qm lán;su gān;sf
+铜块	tóng;qm kuài;fn
+铜灯	tóng;qm dēng;os
+铜链	tóng;qm liàn;ql
+铜箱子	tóng;qm xiāng;ts zi;bb
+铜门	tóng;qm mén;uy
+铜傀儡像	tóng;qm kuǐ;wr lěi;wl xiàng;wq
+铜格栅	tóng;qm gé;st zhà;sm
+铜灯笼	tóng;qm dēng;os lóng;td
+铜矿石	tóng;qm kuàng;dy shí;dg
+铜火把	tóng;qm huǒ;oo bǎ;rc
+铜活板门	tóng;qm huó;it bǎn;sr mén;uy
+墙上的铜火把	qiáng;ff shàng;hh de;rq tóng;qm huǒ;oo bǎ;rc
+矢车菊	shǐ;td chē;lg jú;aq
+裂纹深板岩砖	liè;gq wén;xy shēn;ip bǎn;sr yán;md zhuān;df
+裂纹深板岩瓦	liè;gq wén;xy shēn;ip bǎn;sr yán;md wǎ;gn
+裂纹下界砖块	liè;gq wén;xy xià;gh jiè;lw zhuān;df kuài;fn
+裂纹磨制黑石砖	liè;gq wén;xy mó;ys zhì;rm hēi;lf shí;dg zhuān;df
+裂纹石砖	liè;gq wén;xy shí;dg zhuān;df
+合成器	hé;wg chéng;dn qì;kk
+工作台	gōng;aa zuò;wt tái;ck
+嘎枝之心	gā;kd zhī;sf zhī;pp xīn;ny
+苦力怕的头	kǔ;ad lì;lt pà;nr de;rq tóu;ud
+墙上的苦力怕的头	qiáng;ff shàng;hh de;rq kǔ;ad lì;lt pà;nr de;rq tóu;ud
+绯红木按钮	fēi;xd hóng;xa mù;ss àn;rp niǔ;qn
+绯红木门	fēi;xd hóng;xa mù;ss mén;uy
+绯红木栅栏	fēi;xd hóng;xa mù;ss zhà;sm lán;su
+绯红木栅栏门	fēi;xd hóng;xa mù;ss zhà;sm lán;su mén;uy
+绯红菌	fēi;xd hóng;xa jūn;al
+悬挂式绯红木告示牌	xuán;eg guà;rf shì;aa fēi;xd hóng;xa mù;ss gào;tf shì;fi pái;th
+绯红菌核	fēi;xd hóng;xa jūn;al hé;sy
+绯红菌岩	fēi;xd hóng;xa jūn;al yán;md
+绯红木板	fēi;xd hóng;xa mù;ss bǎn;sr
+绯红木压力板	fēi;xd hóng;xa mù;ss yā;df lì;lt bǎn;sr
+绯红菌索	fēi;xd hóng;xa jūn;al suǒ;fp
+绯红木展示架	fēi;xd hóng;xa mù;ss zhǎn;na shì;fi jià;lk
+绯红木告示牌	fēi;xd hóng;xa mù;ss gào;tf shì;fi pái;th
+绯红木台阶	fēi;xd hóng;xa mù;ss tái;ck jiē;bw
+绯红木楼梯	fēi;xd hóng;xa mù;ss lóu;so tī;su
+绯红菌柄	fēi;xd hóng;xa jùn;al bǐng;sg
+绯红木活板门	fēi;xd hóng;xa mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式绯红木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa fēi;xd hóng;xa mù;ss gào;tf shì;fi pái;th
+墙上的绯红木告示牌	qiáng;ff shàng;hh de;rq fēi;xd hóng;xa mù;ss gào;tf shì;fi pái;th
+哭泣的黑曜石	kū;kk qì;iu de;rq hēi;lf yào;jn shí;dg
+切制铜块	qiè;av zhì;rm tóng;qm kuài;fn
+切制铜台阶	qiè;av zhì;rm tóng;qm tái;ck jiē;bw
+切制铜楼梯	qiè;av zhì;rm tóng;qm lóu;so tī;su
+切制红砂岩	qiè;av zhì;rm hóng;xa shā;di yán;md
+切制红砂岩台阶	qiè;av zhì;rm hóng;xa shā;di yán;md tái;ck jiē;bw
+切制砂岩	qiè;av zhì;rm shā;di yán;md
+切制砂岩台阶	qiè;av zhì;rm shā;di yán;md tái;ck jiē;bw
+青色旗帜	qīng;ge sè;qc qí;yt zhì;mh
+青色床	qīng;ge sè;qc chuáng;ys
+青色蜡烛	qīng;ge sè;qc là;ja zhú;oj
+插上青色蜡烛的蛋糕	chā;rt shang;hh qīng;ge sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+青色地毯	qīng;ge sè;qc dì;fb tǎn;tf
+青色混凝土	qīng;ge sè;qc hùn;ij níng;ux tǔ;ff
+青色混凝土粉末	qīng;ge sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+青色带釉陶瓦	qīng;ge sè;qc dài;gk yòu;to táo;bq wǎ;gn
+青色潜影盒	qīng;ge sè;qc qián;if yǐng;jy hé;wg
+青色染色玻璃	qīng;ge sè;qc rǎn;iv sè;qc bō;gh li;gy
+青色染色玻璃板	qīng;ge sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+青色陶瓦	qīng;ge sè;qc táo;bq wǎ;gn
+青色羊毛	qīng;ge sè;qc yáng;ud máo;tf
+损坏的铁砧	sǔn;rk huài;fg de;rq tiě;qr zhēn;dh
+蒲公英	pú;ai gōng;wc yīng;am
+深色橡木按钮	shēn;ip sè;qc xiàng;sq mù;ss àn;rp niǔ;qn
+深色橡木门	shēn;ip sè;qc xiàng;sq mù;ss mén;uy
+深色橡木栅栏	shēn;ip sè;qc xiàng;sq mù;ss zhà;sm lán;su
+深色橡木栅栏门	shēn;ip sè;qc xiàng;sq mù;ss zhà;sm lán;su mén;uy
+悬挂式深色橡木告示牌	xuán;eg guà;rf shì;aa shēn;ip sè;qc xiàng;sq mù;ss gào;tf shì;fi pái;th
+深色橡树树叶	shēn;ip sè;qc xiàng;sq shù;sc shù;sc yè;kf
+深色橡木原木	shēn;ip sè;qc xiàng;sq mù;ss yuán;dr mù;ss
+深色橡木木板	shēn;ip sè;qc xiàng;sq mù;ss mù;ss bǎn;sr
+深色橡木压力板	shēn;ip sè;qc xiàng;sq mù;ss yā;df lì;lt bǎn;sr
+深色橡树树苗	shēn;ip sè;qc xiàng;sq shù;sc shù;sc miáo;al
+深色橡木展示架	shēn;ip sè;qc xiàng;sq mù;ss zhǎn;na shì;fi jià;lk
+深色橡木告示牌	shēn;ip sè;qc xiàng;sq mù;ss gào;tf shì;fi pái;th
+深色橡木台阶	shēn;ip sè;qc xiàng;sq mù;ss tái;ck jiē;bw
+深色橡木楼梯	shēn;ip sè;qc xiàng;sq mù;ss lóu;so tī;su
+深色橡木活板门	shēn;ip sè;qc xiàng;sq mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式深色橡木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa shēn;ip sè;qc xiàng;sq mù;ss gào;tf shì;fi pái;th
+墙上的深色橡木告示牌	qiáng;ff shàng;hh de;rq shēn;ip sè;qc xiàng;sq mù;ss gào;tf shì;fi pái;th
+深色橡木	shēn;ip sè;qc xiàng;sq mù;ss
+暗海晶石	àn;ju hǎi;it jīng;jj shí;dg
+暗海晶石台阶	àn;ju hǎi;it jīng;jj shí;dg tái;ck jiē;bw
+暗海晶石楼梯	àn;ju hǎi;it jīng;jj shí;dg lóu;so tī;su
+阳光探测器	yáng;bj guāng;iq tàn;rp cè;im qì;kk
+失活的脑纹珊瑚	shī;rw huó;it de;rq nǎo;ey wén;xy shān;gm hú;gd
+失活的脑纹珊瑚块	shī;rw huó;it de;rq nǎo;ey wén;xy shān;gm hú;gd kuài;fn
+失活的脑纹珊瑚扇	shī;rw huó;it de;rq nǎo;ey wén;xy shān;gm hú;gd shàn;yn
+墙上的失活脑纹珊瑚扇	qiáng;ff shàng;hh de;rq shī;rw huó;it nǎo;ey wén;xy shān;gm hú;gd shàn;yn
+失活的气泡珊瑚	shī;rw huó;it de;rq qì;rn pào;iq shān;gm hú;gd
+失活的气泡珊瑚块	shī;rw huó;it de;rq qì;rn pào;iq shān;gm hú;gd kuài;fn
+失活的气泡珊瑚扇	shī;rw huó;it de;rq qì;rn pào;iq shān;gm hú;gd shàn;yn
+墙上的失活气泡珊瑚扇	qiáng;ff shàng;hh de;rq shī;rw huó;it qì;rn pào;iq shān;gm hú;gd shàn;yn
+枯萎的灌木	kū;sd wěi;at de;rq guàn;ia mù;ss
+失活的火珊瑚	shī;rw huó;it de;rq huǒ;oo shān;gm hú;gd
+失活的火珊瑚块	shī;rw huó;it de;rq huǒ;oo shān;gm hú;gd kuài;fn
+失活的火珊瑚扇	shī;rw huó;it de;rq huǒ;oo shān;gm hú;gd shàn;yn
+墙上的失活火珊瑚扇	qiáng;ff shàng;hh de;rq shī;rw huó;it huǒ;oo shān;gm hú;gd shàn;yn
+失活的鹿角珊瑚	shī;rw huó;it de;rq lù;yn jiǎo;qe shān;gm hú;gd
+失活的鹿角珊瑚块	shī;rw huó;it de;rq lù;yn jiǎo;qe shān;gm hú;gd kuài;fn
+失活的鹿角珊瑚扇	shī;rw huó;it de;rq lù;yn jiǎo;qe shān;gm hú;gd shàn;yn
+墙上的失活鹿角珊瑚扇	qiáng;ff shàng;hh de;rq shī;rw huó;it lù;yn jiǎo;qe shān;gm hú;gd shàn;yn
+失活的管珊瑚	shī;rw huó;it de;rq guǎn;tp shān;gm hú;gd
+失活的管珊瑚块	shī;rw huó;it de;rq guǎn;tp shān;gm hú;gd kuài;fn
+失活的管珊瑚扇	shī;rw huó;it de;rq guǎn;tp shān;gm hú;gd shàn;yn
+墙上的失活管珊瑚扇	qiáng;ff shàng;hh de;rq shī;rw huó;it guǎn;tp shān;gm hú;gd shàn;yn
+饰纹陶罐	shì;qn wén;xy táo;bq guàn;rm
+深板岩	shēn;ip bǎn;sr yán;md
+深板岩砖台阶	shēn;ip bǎn;sr yán;md zhuān;df tái;ck jiē;bw
+深板岩砖楼梯	shēn;ip bǎn;sr yán;md zhuān;df lóu;so tī;su
+深板岩砖墙	shēn;ip bǎn;sr yán;md zhuān;df qiáng;ff
+深板岩砖	shēn;ip bǎn;sr yán;md zhuān;df
+深层煤矿石	shēn;ip céng;nf méi;oa kuàng;dy shí;dg
+深层铜矿石	shēn;ip céng;nf tóng;qm kuàng;dy shí;dg
+深层钻石矿石	shēn;ip céng;nf zuàn;qh shí;dg kuàng;dy shí;dg
+深层绿宝石矿石	shēn;ip céng;nf lǜ;xv bǎo;pg shí;dg kuàng;dy shí;dg
+深层金矿石	shēn;ip céng;nf jīn;qq kuàng;dy shí;dg
+深层铁矿石	shēn;ip céng;nf tiě;qr kuàng;dy shí;dg
+深层青金石矿石	shēn;ip céng;nf qīng;ge jīn;qq shí;dg kuàng;dy shí;dg
+深层红石矿石	shēn;ip céng;nf hóng;xa shí;dg kuàng;dy shí;dg
+深板岩瓦台阶	shēn;ip bǎn;sr yán;md wǎ;gn tái;ck jiē;bw
+深板岩瓦楼梯	shēn;ip bǎn;sr yán;md wǎ;gn lóu;so tī;su
+深板岩瓦墙	shēn;ip bǎn;sr yán;md wǎ;gn qiáng;ff
+深板岩瓦	shēn;ip bǎn;sr yán;md wǎ;gn
+探测铁轨	tàn;rp cè;im tiě;qr guǐ;lv
+钻石块	zuàn;qh shí;dg kuài;fn
+钻石矿石	zuàn;qh shí;dg kuàng;dy shí;dg
+闪长岩	shǎn;uw cháng;ta yán;md
+闪长岩台阶	shǎn;uw cháng;ta yán;md tái;ck jiē;bw
+闪长岩楼梯	shǎn;uw cháng;ta yán;md lóu;so tī;su
+闪长岩墙	shǎn;uw cháng;ta yán;md qiáng;ff
+泥土	ní;in tǔ;ff
+土径	tǔ;ff jìng;tc
+发射器	fā;nt shè;tm qì;kk
+龙蛋	lóng;dx dàn;nh
+龙首	lóng;dx shǒu;ut
+墙上的龙首	qiáng;ff shàng;hh de;rq lóng;dx shǒu;ut
+失水恶魂	shī;rw shuǐ;ii è;go hún;fc
+干海带块	gàn;fg hǎi;it dài;gk kuài;fn
+滴水石块	dī;iu shuǐ;ii shí;dg kuài;fn
+投掷器	tóu;rm zhì;ru qì;kk
+绿宝石块	lǜ;xv bǎo;pg shí;dg kuài;fn
+绿宝石矿石	lǜ;xv bǎo;pg shí;dg kuàng;dy shí;dg
+附魔台	fù;bw mó;ys tái;ck
+末地折跃门	mò;gs dì;fb zhé;rr yuè;kh mén;uy
+末地传送门	mò;gs dì;fb chuán;wf sòng;ud mén;uy
+末地传送门框架	mò;gs dì;fb chuán;wf sòng;ud mén;uy kuàng;sa jià;lk
+末地烛	mò;gs dì;fb zhú;oj
+末地石	mò;gs dì;fb shí;dg
+末地石砖台阶	mò;gs dì;fb shí;dg zhuān;df tái;ck jiē;bw
+末地石砖楼梯	mò;gs dì;fb shí;dg zhuān;df lóu;so tī;su
+末地石砖墙	mò;gs dì;fb shí;dg zhuān;df qiáng;ff
+末地石砖	mò;gs dì;fb shí;dg zhuān;df
+末影箱	mò;gs yǐng;jy xiāng;ts
+斑驳的雕纹铜块	bān;gy bó;cq de;rq diāo;mf wén;xy tóng;qm kuài;fn
+斑驳的铜块	bān;gy bó;cq de;rq tóng;qm kuài;fn
+斑驳的铜栏杆	bān;gy bó;cq de;rq tóng;qm lán;su gān;sf
+斑驳的铜灯	bān;gy bó;cq de;rq tóng;qm dēng;os
+斑驳的铜链	bān;gy bó;cq de;rq tóng;qm liàn;ql
+斑驳的铜箱子	bān;gy bó;cq de;rq tóng;qm xiāng;ts zi;bb
+斑驳的铜门	bān;gy bó;cq de;rq tóng;qm mén;uy
+斑驳的铜傀儡像	bān;gy bó;cq de;rq tóng;qm kuǐ;wr lěi;wl xiàng;wq
+斑驳的铜格栅	bān;gy bó;cq de;rq tóng;qm gé;st zhà;sm
+斑驳的铜灯笼	bān;gy bó;cq de;rq tóng;qm dēng;os lóng;td
+斑驳的铜活板门	bān;gy bó;cq de;rq tóng;qm huó;it bǎn;sr mén;uy
+斑驳的切制铜块	bān;gy bó;cq de;rq qiè;av zhì;rm tóng;qm kuài;fn
+斑驳的切制铜台阶	bān;gy bó;cq de;rq qiè;av zhì;rm tóng;qm tái;ck jiē;bw
+斑驳的切制铜楼梯	bān;gy bó;cq de;rq qiè;av zhì;rm tóng;qm lóu;so tī;su
+斑驳的避雷针	bān;gy bó;cq de;rq bì;nk léi;fl zhēn;qf
+耕地	gēng;di dì;fb
+蕨	jué;ad
+火	huǒ;oo
+火珊瑚	huǒ;oo shān;gm hú;gd
+火珊瑚块	huǒ;oo shān;gm hú;gd kuài;fn
+火珊瑚扇	huǒ;oo shān;gm hú;gd shàn;yn
+墙上的火珊瑚扇	qiáng;ff shàng;hh de;rq huǒ;oo shān;gm hú;gd shàn;yn
+萤火虫灌木丛	yíng;ap huǒ;oo chóng;jh guàn;ia mù;ss cóng;ww
+制箭台	zhì;rm jiàn;tu tái;ck
+花盆	huā;aw pén;wv
+盛开的杜鹃花丛	shèng;dn kāi;ga de;rq dù;sf juān;ke huā;aw cóng;ww
+盛开的杜鹃树叶	shèng;dn kāi;ga de;rq dù;sf juān;ke shù;sc yè;kf
+青蛙卵	qīng;ge wā;jf luǎn;qy
+霜冰	shuāng;fs bīng;ui
+熔炉	róng;op lú;oy
+镶金黑石	xiāng;qy jīn;qq hēi;lf shí;dg
+玻璃	bō;gh li;gy
+玻璃板	bō;gh li;gy bǎn;sr
+发光地衣	fā;nt guāng;iq dì;fb yī;ye
+荧石	yíng;ap shí;dg
+金块	jīn;qq kuài;fn
+金矿石	jīn;qq kuàng;dy shí;dg
+花岗岩	huā;aw gāng;mm yán;md
+花岗岩台阶	huā;aw gāng;mm yán;md tái;ck jiē;bw
+花岗岩楼梯	huā;aw gāng;mm yán;md lóu;so tī;su
+花岗岩墙	huā;aw gāng;mm yán;md qiáng;ff
+草	cǎo;aj
+草方块	cǎo;aj fāng;yy kuài;fn
+沙砾	shā;ii lì;dq
+灰色旗帜	huī;do sè;qc qí;yt zhì;mh
+灰色床	huī;do sè;qc chuáng;ys
+灰色蜡烛	huī;do sè;qc là;ja zhú;oj
+插上灰色蜡烛的蛋糕	chā;rt shang;hh huī;do sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+灰色地毯	huī;do sè;qc dì;fb tǎn;tf
+灰色混凝土	huī;do sè;qc hùn;ij níng;ux tǔ;ff
+灰色混凝土粉末	huī;do sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+灰色带釉陶瓦	huī;do sè;qc dài;gk yòu;to táo;bq wǎ;gn
+灰色潜影盒	huī;do sè;qc qián;if yǐng;jy hé;wg
+灰色染色玻璃	huī;do sè;qc rǎn;iv sè;qc bō;gh li;gy
+灰色染色玻璃板	huī;do sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+灰色陶瓦	huī;do sè;qc táo;bq wǎ;gn
+灰色羊毛	huī;do sè;qc yáng;ud máo;tf
+绿色旗帜	lǜ;xv sè;qc qí;yt zhì;mh
+绿色床	lǜ;xv sè;qc chuáng;ys
+绿色蜡烛	lǜ;xv sè;qc là;ja zhú;oj
+插上绿色蜡烛的蛋糕	chā;rt shang;hh lǜ;xv sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+绿色地毯	lǜ;xv sè;qc dì;fb tǎn;tf
+绿色混凝土	lǜ;xv sè;qc hùn;ij níng;ux tǔ;ff
+绿色混凝土粉末	lǜ;xv sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+绿色带釉陶瓦	lǜ;xv sè;qc dài;gk yòu;to táo;bq wǎ;gn
+绿色潜影盒	lǜ;xv sè;qc qián;if yǐng;jy hé;wg
+绿色染色玻璃	lǜ;xv sè;qc rǎn;iv sè;qc bō;gh li;gy
+绿色染色玻璃板	lǜ;xv sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+绿色陶瓦	lǜ;xv sè;qc táo;bq wǎ;gn
+绿色羊毛	lǜ;xv sè;qc yáng;ud máo;tf
+砂轮	shā;di lún;lw
+垂根	chuí;tg gēn;sv
+干草捆	gān;fg cǎo;aj kǔn;rl
+沉重核心	chén;ip zhòng;tg hé;sy xīn;ny
+重质测重压力板	zhòng;tg zhì;rf cè;im zhòng;tg yā;df lì;lt bǎn;sr
+蜂蜜块	fēng;jt mì;pn kuài;fn
+蜜脾块	mì;pn pí;er kuài;fn
+漏斗	lòu;in dǒu;uf
+鹿角珊瑚	lù;yn jiǎo;qe shān;gm hú;gd
+鹿角珊瑚块	lù;yn jiǎo;qe shān;gm hú;gd kuài;fn
+鹿角珊瑚扇	lù;yn jiǎo;qe shān;gm hú;gd shàn;yn
+墙上的鹿角珊瑚扇	qiáng;ff shàng;hh de;rq lù;yn jiǎo;qe shān;gm hú;gd shàn;yn
+冰	bīng;ui
+虫蚀雕纹石砖	chóng;jh shí;qn diāo;mf wén;xy shí;dg zhuān;df
+虫蚀圆石	chóng;jh shí;qn yuán;lk shí;dg
+虫蚀裂纹石砖	chóng;jh shí;qn liè;gq wén;xy shí;dg zhuān;df
+虫蚀深板岩	chóng;jh shí;qn shēn;ip bǎn;sr yán;md
+虫蚀苔石砖	chóng;jh shí;qn tái;ac shí;dg zhuān;df
+虫蚀石头	chóng;jh shí;qn shí;dg tou;ud
+虫蚀石砖	chóng;jh shí;qn shí;dg zhuān;df
+铁栏杆	tiě;qr lán;su gān;sf
+铁块	tiě;qr kuài;fn
+铁链	tiě;qr liàn;ql
+铁门	tiě;qr mén;uy
+铁矿石	tiě;qr kuàng;dy shí;dg
+铁活板门	tiě;qr huó;it bǎn;sr mén;uy
+南瓜灯	nán;fm guā;rc dēng;os
+拼图方块	pīn;ru tú;lt fāng;yy kuài;fn
+唱片机	chàng;kj piàn;th jī;sm
+丛林木按钮	cóng;ww lín;ss mù;ss àn;rp niǔ;qn
+丛林木门	cóng;ww lín;ss mù;ss mén;uy
+丛林木栅栏	cóng;ww lín;ss mù;ss zhà;sm lán;su
+丛林木栅栏门	cóng;ww lín;ss mù;ss zhà;sm lán;su mén;uy
+悬挂式丛林木告示牌	xuán;eg guà;rf shì;aa cóng;ww lín;ss mù;ss gào;tf shì;fi pái;th
+丛林树叶	cóng;ww lín;ss shù;sc yè;kf
+丛林原木	cóng;ww lín;ss yuán;dr mù;ss
+丛林木板	cóng;ww lín;ss mù;ss bǎn;sr
+丛林木压力板	cóng;ww lín;ss mù;ss yā;df lì;lt bǎn;sr
+丛林树苗	cóng;ww lín;ss shù;sc miáo;al
+丛林木展示架	cóng;ww lín;ss mù;ss zhǎn;na shì;fi jià;lk
+丛林木告示牌	cóng;ww lín;ss mù;ss gào;tf shì;fi pái;th
+丛林木台阶	cóng;ww lín;ss mù;ss tái;ck jiē;bw
+丛林木楼梯	cóng;ww lín;ss mù;ss lóu;so tī;su
+丛林木活板门	cóng;ww lín;ss mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式丛林木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa cóng;ww lín;ss mù;ss gào;tf shì;fi pái;th
+墙上的丛林木告示牌	qiáng;ff shàng;hh de;rq cóng;ww lín;ss mù;ss gào;tf shì;fi pái;th
+丛林木	cóng;ww lín;ss mù;ss
+海带	hǎi;it dài;gk
+海带植株	hǎi;it dài;gk zhí;sf zhū;sr
+梯子	tī;su zi;bb
+灯笼	dēng;os lóng;td
+青金石块	qīng;ge jīn;qq shí;dg kuài;fn
+青金石矿石	qīng;ge jīn;qq shí;dg kuàng;dy shí;dg
+大型紫晶芽	dà;dd xíng;ga zǐ;hx jīng;jj yá;aa
+大型蕨	dà;dd xíng;ga jué;ad
+熔岩	róng;op yán;md
+装有熔岩的炼药锅	zhuāng;uf yǒu;de róng;op yán;md de;rq liàn;oa yào;ax guō;qk
+枯叶	kū;sd yè;kf
+讲台	jiǎng;yf tái;ck
+拉杆	lā;ru gān;sf
+光源方块	guāng;iq yuán;id fāng;yy kuài;fn
+淡蓝色旗帜	dàn;io lán;aj sè;qc qí;yt zhì;mh
+淡蓝色床	dàn;io lán;aj sè;qc chuáng;ys
+淡蓝色蜡烛	dàn;io lán;aj sè;qc là;ja zhú;oj
+插上淡蓝色蜡烛的蛋糕	chā;rt shang;hh dàn;io lán;aj sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+淡蓝色地毯	dàn;io lán;aj sè;qc dì;fb tǎn;tf
+淡蓝色混凝土	dàn;io lán;aj sè;qc hùn;ij níng;ux tǔ;ff
+淡蓝色混凝土粉末	dàn;io lán;aj sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+淡蓝色带釉陶瓦	dàn;io lán;aj sè;qc dài;gk yòu;to táo;bq wǎ;gn
+淡蓝色潜影盒	dàn;io lán;aj sè;qc qián;if yǐng;jy hé;wg
+淡蓝色染色玻璃	dàn;io lán;aj sè;qc rǎn;iv sè;qc bō;gh li;gy
+淡蓝色染色玻璃板	dàn;io lán;aj sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+淡蓝色陶瓦	dàn;io lán;aj sè;qc táo;bq wǎ;gn
+淡蓝色羊毛	dàn;io lán;aj sè;qc yáng;ud máo;tf
+淡灰色旗帜	dàn;io huī;do sè;qc qí;yt zhì;mh
+淡灰色床	dàn;io huī;do sè;qc chuáng;ys
+淡灰色蜡烛	dàn;io huī;do sè;qc là;ja zhú;oj
+插上淡灰色蜡烛的蛋糕	chā;rt shang;hh dàn;io huī;do sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+淡灰色地毯	dàn;io huī;do sè;qc dì;fb tǎn;tf
+淡灰色混凝土	dàn;io huī;do sè;qc hùn;ij níng;ux tǔ;ff
+淡灰色混凝土粉末	dàn;io huī;do sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+淡灰色带釉陶瓦	dàn;io huī;do sè;qc dài;gk yòu;to táo;bq wǎ;gn
+淡灰色潜影盒	dàn;io huī;do sè;qc qián;if yǐng;jy hé;wg
+淡灰色染色玻璃	dàn;io huī;do sè;qc rǎn;iv sè;qc bō;gh li;gy
+淡灰色染色玻璃板	dàn;io huī;do sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+淡灰色陶瓦	dàn;io huī;do sè;qc táo;bq wǎ;gn
+淡灰色羊毛	dàn;io huī;do sè;qc yáng;ud máo;tf
+轻质测重压力板	qīng;lc zhì;rf cè;im zhòng;tg yā;df lì;lt bǎn;sr
+避雷针	bì;nk léi;fl zhēn;qf
+丁香	dīng;sg xiāng;tj
+铃兰	líng;qw lán;uf
+睡莲	shuì;ht lián;al
+黄绿色旗帜	huáng;am lǜ;xv sè;qc qí;yt zhì;mh
+黄绿色床	huáng;am lǜ;xv sè;qc chuáng;ys
+黄绿色蜡烛	huáng;am lǜ;xv sè;qc là;ja zhú;oj
+插上黄绿色蜡烛的蛋糕	chā;rt shang;hh huáng;am lǜ;xv sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+黄绿色地毯	huáng;am lǜ;xv sè;qc dì;fb tǎn;tf
+黄绿色混凝土	huáng;am lǜ;xv sè;qc hùn;ij níng;ux tǔ;ff
+黄绿色混凝土粉末	huáng;am lǜ;xv sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+黄绿色带釉陶瓦	huáng;am lǜ;xv sè;qc dài;gk yòu;to táo;bq wǎ;gn
+黄绿色潜影盒	huáng;am lǜ;xv sè;qc qián;if yǐng;jy hé;wg
+黄绿色染色玻璃	huáng;am lǜ;xv sè;qc rǎn;iv sè;qc bō;gh li;gy
+黄绿色染色玻璃板	huáng;am lǜ;xv sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+黄绿色陶瓦	huáng;am lǜ;xv sè;qc táo;bq wǎ;gn
+黄绿色羊毛	huáng;am lǜ;xv sè;qc yáng;ud máo;tf
+磁石	cí;du shí;dg
+织布机	zhī;xk bù;dm jī;sm
+品红色旗帜	pǐn;kk hóng;xa sè;qc qí;yt zhì;mh
+品红色床	pǐn;kk hóng;xa sè;qc chuáng;ys
+品红色蜡烛	pǐn;kk hóng;xa sè;qc là;ja zhú;oj
+插上品红色蜡烛的蛋糕	chā;rt shang;hh pǐn;kk hóng;xa sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+品红色地毯	pǐn;kk hóng;xa sè;qc dì;fb tǎn;tf
+品红色混凝土	pǐn;kk hóng;xa sè;qc hùn;ij níng;ux tǔ;ff
+品红色混凝土粉末	pǐn;kk hóng;xa sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+品红色带釉陶瓦	pǐn;kk hóng;xa sè;qc dài;gk yòu;to táo;bq wǎ;gn
+品红色潜影盒	pǐn;kk hóng;xa sè;qc qián;if yǐng;jy hé;wg
+品红色染色玻璃	pǐn;kk hóng;xa sè;qc rǎn;iv sè;qc bō;gh li;gy
+品红色染色玻璃板	pǐn;kk hóng;xa sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+品红色陶瓦	pǐn;kk hóng;xa sè;qc táo;bq wǎ;gn
+品红色羊毛	pǐn;kk hóng;xa sè;qc yáng;ud máo;tf
+岩浆块	yán;md jiāng;uq kuài;fn
+红树木按钮	hóng;xa shù;sc mù;ss àn;rp niǔ;qn
+红树木门	hóng;xa shù;sc mù;ss mén;uy
+红树木栅栏	hóng;xa shù;sc mù;ss zhà;sm lán;su
+红树木栅栏门	hóng;xa shù;sc mù;ss zhà;sm lán;su mén;uy
+悬挂式红树木告示牌	xuán;eg guà;rf shì;aa hóng;xa shù;sc mù;ss gào;tf shì;fi pái;th
+红树树叶	hóng;xa shù;sc shù;sc yè;kf
+红树原木	hóng;xa shù;sc yuán;dr mù;ss
+红树木板	hóng;xa shù;sc mù;ss bǎn;sr
+红树木压力板	hóng;xa shù;sc mù;ss yā;df lì;lt bǎn;sr
+红树胎生苗	hóng;xa shù;sc tāi;ec shēng;tg miáo;al
+红树根	hóng;xa shù;sc gēn;sv
+红树木展示架	hóng;xa shù;sc mù;ss zhǎn;na shì;fi jià;lk
+红树木告示牌	hóng;xa shù;sc mù;ss gào;tf shì;fi pái;th
+红树木台阶	hóng;xa shù;sc mù;ss tái;ck jiē;bw
+红树木楼梯	hóng;xa shù;sc mù;ss lóu;so tī;su
+红树木活板门	hóng;xa shù;sc mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式红树木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa hóng;xa shù;sc mù;ss gào;tf shì;fi pái;th
+墙上的红树木告示牌	qiáng;ff shàng;hh de;rq hóng;xa shù;sc mù;ss gào;tf shì;fi pái;th
+红树木	hóng;xa shù;sc mù;ss
+中型紫晶芽	zhōng;kh xíng;ga zǐ;hx jīng;jj yá;aa
+西瓜	xī;sg guā;rc
+西瓜茎	xī;sg guā;rc jīng;ac
+苔藓块	tái;ac xiǎn;aq kuài;fn
+覆地苔藓	fù;st dì;fb tái;ac xiǎn;aq
+苔石	tái;ac shí;dg
+苔石台阶	tái;ac shí;dg tái;ck jiē;bw
+苔石楼梯	tái;ac shí;dg lóu;so tī;su
+苔石墙	tái;ac shí;dg qiáng;ff
+苔石砖台阶	tái;ac shí;dg zhuān;df tái;ck jiē;bw
+苔石砖楼梯	tái;ac shí;dg zhuān;df lóu;so tī;su
+苔石砖墙	tái;ac shí;dg zhuān;df qiáng;ff
+苔石砖	tái;ac shí;dg zhuān;df
+移动的活塞	yí;tq dòng;fc de;rq huó;it sāi;pf
+泥巴	ní;in bā;cn
+泥砖台阶	ní;in zhuān;df tái;ck jiē;bw
+泥砖楼梯	ní;in zhuān;df lóu;so tī;su
+泥砖墙	ní;in zhuān;df qiáng;ff
+泥砖	ní;in zhuān;df
+沾泥的红树根	zhān;ih ní;in de;rq hóng;xa shù;sc gēn;sv
+蘑菇柄	mó;ay gu;av bǐng;sg
+菌丝体	jūn;al sī;xx tǐ;ws
+下界砖栅栏	xià;gh jiè;lw zhuān;df zhà;sm lán;su
+下界砖台阶	xià;gh jiè;lw zhuān;df tái;ck jiē;bw
+下界砖楼梯	xià;gh jiè;lw zhuān;df lóu;so tī;su
+下界砖墙	xià;gh jiè;lw zhuān;df qiáng;ff
+下界砖块	xià;gh jiè;lw zhuān;df kuài;fn
+下界金矿石	xià;gh jiè;lw jīn;qq kuàng;dy shí;dg
+下界传送门	xià;gh jiè;lw chuán;wf sòng;ud mén;uy
+下界石英矿石	xià;gh jiè;lw shí;dg yīng;am kuàng;dy shí;dg
+下界苗	xià;gh jiè;lw miáo;al
+下界疣	xià;gh jiè;lw yóu;ud
+下界疣块	xià;gh jiè;lw yóu;ud kuài;fn
+下界合金块	xià;gh jiè;lw hé;wg jīn;qq kuài;fn
+下界岩	xià;gh jiè;lw yán;md
+音符盒	yīn;uj fú;tw hé;wg
+橡木按钮	xiàng;sq mù;ss àn;rp niǔ;qn
+橡木门	xiàng;sq mù;ss mén;uy
+橡木栅栏	xiàng;sq mù;ss zhà;sm lán;su
+橡木栅栏门	xiàng;sq mù;ss zhà;sm lán;su mén;uy
+悬挂式橡木告示牌	xuán;eg guà;rf shì;aa xiàng;sq mù;ss gào;tf shì;fi pái;th
+橡树树叶	xiàng;sq shù;sc shù;sc yè;kf
+橡木原木	xiàng;sq mù;ss yuán;dr mù;ss
+橡木木板	xiàng;sq mù;ss mù;ss bǎn;sr
+橡木压力板	xiàng;sq mù;ss yā;df lì;lt bǎn;sr
+橡树树苗	xiàng;sq shù;sc shù;sc miáo;al
+橡木展示架	xiàng;sq mù;ss zhǎn;na shì;fi jià;lk
+橡木告示牌	xiàng;sq mù;ss gào;tf shì;fi pái;th
+橡木台阶	xiàng;sq mù;ss tái;ck jiē;bw
+橡木楼梯	xiàng;sq mù;ss lóu;so tī;su
+橡木活板门	xiàng;sq mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式橡木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa xiàng;sq mù;ss gào;tf shì;fi pái;th
+墙上的橡木告示牌	qiáng;ff shàng;hh de;rq xiàng;sq mù;ss gào;tf shì;fi pái;th
+橡木	xiàng;sq mù;ss
+侦测器	zhēn;wh cè;im qì;kk
+黑曜石	hēi;lf yào;jn shí;dg
+赭黄蛙明灯	zhě;fo huáng;am wā;jf míng;je dēng;os
+不祥旗帜	bù;gi xiáng;py qí;yt zhì;mh
+张开的眼眸花	zhāng;xt kāi;ga de;rq yǎn;hv móu;hc huā;aw
+橙色旗帜	chéng;sw sè;qc qí;yt zhì;mh
+橙色床	chéng;sw sè;qc chuáng;ys
+橙色蜡烛	chéng;sw sè;qc là;ja zhú;oj
+插上橙色蜡烛的蛋糕	chā;rt shang;hh chéng;sw sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+橙色地毯	chéng;sw sè;qc dì;fb tǎn;tf
+橙色混凝土	chéng;sw sè;qc hùn;ij níng;ux tǔ;ff
+橙色混凝土粉末	chéng;sw sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+橙色带釉陶瓦	chéng;sw sè;qc dài;gk yòu;to táo;bq wǎ;gn
+橙色潜影盒	chéng;sw sè;qc qián;if yǐng;jy hé;wg
+橙色染色玻璃	chéng;sw sè;qc rǎn;iv sè;qc bō;gh li;gy
+橙色染色玻璃板	chéng;sw sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+橙色陶瓦	chéng;sw sè;qc táo;bq wǎ;gn
+橙色郁金香	chéng;sw sè;qc yù;de jīn;qq xiāng;tj
+橙色羊毛	chéng;sw sè;qc yáng;ud máo;tf
+滨菊	bīn;ip jú;aq
+氧化的雕纹铜块	yǎng;rn huà;wx de;rq diāo;mf wén;xy tóng;qm kuài;fn
+氧化的铜块	yǎng;rn huà;wx de;rq tóng;qm kuài;fn
+氧化的铜栏杆	yǎng;rn huà;wx de;rq tóng;qm lán;su gān;sf
+氧化的铜灯	yǎng;rn huà;wx de;rq tóng;qm dēng;os
+氧化的铜链	yǎng;rn huà;wx de;rq tóng;qm liàn;ql
+氧化的铜箱子	yǎng;rn huà;wx de;rq tóng;qm xiāng;ts zi;bb
+氧化的铜门	yǎng;rn huà;wx de;rq tóng;qm mén;uy
+氧化的铜傀儡像	yǎng;rn huà;wx de;rq tóng;qm kuǐ;wr lěi;wl xiàng;wq
+氧化的铜格栅	yǎng;rn huà;wx de;rq tóng;qm gé;st zhà;sm
+氧化的铜灯笼	yǎng;rn huà;wx de;rq tóng;qm dēng;os lóng;td
+氧化的铜活板门	yǎng;rn huà;wx de;rq tóng;qm huó;it bǎn;sr mén;uy
+氧化的切制铜块	yǎng;rn huà;wx de;rq qiè;av zhì;rm tóng;qm kuài;fn
+氧化的切制铜台阶	yǎng;rn huà;wx de;rq qiè;av zhì;rm tóng;qm tái;ck jiē;bw
+氧化的切制铜楼梯	yǎng;rn huà;wx de;rq qiè;av zhì;rm tóng;qm lóu;so tī;su
+氧化的避雷针	yǎng;rn huà;wx de;rq bì;nk léi;fl zhēn;qf
+浮冰	fú;ie bīng;ui
+泥坯	ní;in pī;fg
+苍白垂须	cāng;aw bái;rr chuí;tg xū;ed
+苍白苔藓块	cāng;aw bái;rr tái;ac xiǎn;aq kuài;fn
+苍白覆地苔藓	cāng;aw bái;rr fù;st dì;fb tái;ac xiǎn;aq
+苍白橡木按钮	cāng;aw bái;rr xiàng;sq mù;ss àn;rp niǔ;qn
+苍白橡木门	cāng;aw bái;rr xiàng;sq mù;ss mén;uy
+苍白橡木栅栏	cāng;aw bái;rr xiàng;sq mù;ss zhà;sm lán;su
+苍白橡木栅栏门	cāng;aw bái;rr xiàng;sq mù;ss zhà;sm lán;su mén;uy
+悬挂式苍白橡木告示牌	xuán;eg guà;rf shì;aa cāng;aw bái;rr xiàng;sq mù;ss gào;tf shì;fi pái;th
+苍白橡树树叶	cāng;aw bái;rr xiàng;sq shù;sc shù;sc yè;kf
+苍白橡木原木	cāng;aw bái;rr xiàng;sq mù;ss yuán;dr mù;ss
+苍白橡木木板	cāng;aw bái;rr xiàng;sq mù;ss mù;ss bǎn;sr
+苍白橡木压力板	cāng;aw bái;rr xiàng;sq mù;ss yā;df lì;lt bǎn;sr
+苍白橡树树苗	cāng;aw bái;rr xiàng;sq shù;sc shù;sc miáo;al
+苍白橡木展示架	cāng;aw bái;rr xiàng;sq mù;ss zhǎn;na shì;fi jià;lk
+苍白橡木告示牌	cāng;aw bái;rr xiàng;sq mù;ss gào;tf shì;fi pái;th
+苍白橡木台阶	cāng;aw bái;rr xiàng;sq mù;ss tái;ck jiē;bw
+苍白橡木楼梯	cāng;aw bái;rr xiàng;sq mù;ss lóu;so tī;su
+苍白橡木活板门	cāng;aw bái;rr xiàng;sq mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式苍白橡木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa cāng;aw bái;rr xiàng;sq mù;ss gào;tf shì;fi pái;th
+墙上的苍白橡木告示牌	qiáng;ff shàng;hh de;rq cāng;aw bái;rr xiàng;sq mù;ss gào;tf shì;fi pái;th
+苍白橡木	cāng;aw bái;rr xiàng;sq mù;ss
+珠光蛙明灯	zhū;gr guāng;iq wā;jf míng;je dēng;os
+牡丹	mǔ;tr dan;my
+石化橡木台阶	shí;dg huà;wx xiàng;sq mù;ss tái;ck jiē;bw
+猪灵的头	zhū;qt líng;vo de;rq tóu;ud
+墙上的猪灵的头	qiáng;ff shàng;hh de;rq zhū;qt líng;vo de;rq tóu;ud
+粉红色旗帜	fěn;ow hóng;xa sè;qc qí;yt zhì;mh
+粉红色床	fěn;ow hóng;xa sè;qc chuáng;ys
+粉红色蜡烛	fěn;ow hóng;xa sè;qc là;ja zhú;oj
+插上粉红色蜡烛的蛋糕	chā;rt shang;hh fěn;ow hóng;xa sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+粉红色地毯	fěn;ow hóng;xa sè;qc dì;fb tǎn;tf
+粉红色混凝土	fěn;ow hóng;xa sè;qc hùn;ij níng;ux tǔ;ff
+粉红色混凝土粉末	fěn;ow hóng;xa sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+粉红色带釉陶瓦	fěn;ow hóng;xa sè;qc dài;gk yòu;to táo;bq wǎ;gn
+粉红色花簇	fěn;ow hóng;xa sè;qc huā;aw cù;ty
+粉红色潜影盒	fěn;ow hóng;xa sè;qc qián;if yǐng;jy hé;wg
+粉红色染色玻璃	fěn;ow hóng;xa sè;qc rǎn;iv sè;qc bō;gh li;gy
+粉红色染色玻璃板	fěn;ow hóng;xa sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+粉红色陶瓦	fěn;ow hóng;xa sè;qc táo;bq wǎ;gn
+粉红色郁金香	fěn;ow hóng;xa sè;qc yù;de jīn;qq xiāng;tj
+粉红色羊毛	fěn;ow hóng;xa sè;qc yáng;ud máo;tf
+活塞	huó;it sāi;pf
+活塞头	huó;it sāi;pf tóu;ud
+瓶子草植株	píng;ua zi;bb cǎo;aj zhí;sf zhū;sr
+瓶子草	píng;ua zi;bb cǎo;aj
+玩家的头	wán;gf jiā;pe de;rq tóu;ud
+墙上的玩家的头	qiáng;ff shàng;hh de;rq wán;gf jiā;pe de;rq tóu;ud
+灰化土	huī;do huà;wx tǔ;ff
+滴水石锥	dī;iu shuǐ;ii shí;dg zhuī;qw
+磨制安山岩	mó;ys zhì;rm ān;pv shān;mm yán;md
+磨制安山岩台阶	mó;ys zhì;rm ān;pv shān;mm yán;md tái;ck jiē;bw
+磨制安山岩楼梯	mó;ys zhì;rm ān;pv shān;mm yán;md lóu;so tī;su
+磨制玄武岩	mó;ys zhì;rm xuán;yx wǔ;ga yán;md
+磨制黑石	mó;ys zhì;rm hēi;lf shí;dg
+磨制黑石砖台阶	mó;ys zhì;rm hēi;lf shí;dg zhuān;df tái;ck jiē;bw
+磨制黑石砖楼梯	mó;ys zhì;rm hēi;lf shí;dg zhuān;df lóu;so tī;su
+磨制黑石砖墙	mó;ys zhì;rm hēi;lf shí;dg zhuān;df qiáng;ff
+磨制黑石砖	mó;ys zhì;rm hēi;lf shí;dg zhuān;df
+磨制黑石按钮	mó;ys zhì;rm hēi;lf shí;dg àn;rp niǔ;qn
+磨制黑石压力板	mó;ys zhì;rm hēi;lf shí;dg yā;df lì;lt bǎn;sr
+磨制黑石台阶	mó;ys zhì;rm hēi;lf shí;dg tái;ck jiē;bw
+磨制黑石楼梯	mó;ys zhì;rm hēi;lf shí;dg lóu;so tī;su
+磨制黑石墙	mó;ys zhì;rm hēi;lf shí;dg qiáng;ff
+磨制深板岩	mó;ys zhì;rm shēn;ip bǎn;sr yán;md
+磨制深板岩台阶	mó;ys zhì;rm shēn;ip bǎn;sr yán;md tái;ck jiē;bw
+磨制深板岩楼梯	mó;ys zhì;rm shēn;ip bǎn;sr yán;md lóu;so tī;su
+磨制深板岩墙	mó;ys zhì;rm shēn;ip bǎn;sr yán;md qiáng;ff
+磨制闪长岩	mó;ys zhì;rm shǎn;uw cháng;ta yán;md
+磨制闪长岩台阶	mó;ys zhì;rm shǎn;uw cháng;ta yán;md tái;ck jiē;bw
+磨制闪长岩楼梯	mó;ys zhì;rm shǎn;uw cháng;ta yán;md lóu;so tī;su
+磨制花岗岩	mó;ys zhì;rm huā;aw gāng;mm yán;md
+磨制花岗岩台阶	mó;ys zhì;rm huā;aw gāng;mm yán;md tái;ck jiē;bw
+磨制花岗岩楼梯	mó;ys zhì;rm huā;aw gāng;mm yán;md lóu;so tī;su
+磨制凝灰岩	mó;ys zhì;rm níng;ux huī;do yán;md
+磨制凝灰岩台阶	mó;ys zhì;rm níng;ux huī;do yán;md tái;ck jiē;bw
+磨制凝灰岩楼梯	mó;ys zhì;rm níng;ux huī;do yán;md lóu;so tī;su
+磨制凝灰岩墙	mó;ys zhì;rm níng;ux huī;do yán;md qiáng;ff
+虞美人	yú;ha měi;ug rén;ww
+马铃薯	mǎ;cn líng;qw shǔ;al
+金合欢树苗盆栽	jīn;qq hé;wg huān;cq shù;sc miáo;al pén;wv zāi;fa
+绒球葱盆栽	róng;xa qiú;gf cōng;aq pén;wv zāi;fa
+杜鹃花丛盆栽	dù;sf juān;ke huā;aw cóng;ww pén;wv zāi;fa
+蓝花美耳草盆栽	lán;aj huā;aw měi;ug ěr;bg cǎo;aj pén;wv zāi;fa
+竹子盆栽	zhú;tt zi;bb pén;wv zāi;fa
+白桦树苗盆栽	bái;rr huà;sw shù;sc miáo;al pén;wv zāi;fa
+兰花盆栽	lán;uf huā;aw pén;wv zāi;fa
+棕色蘑菇盆栽	zōng;sp sè;qc mó;ay gu;av pén;wv zāi;fa
+仙人掌盆栽	xiān;wm rén;ww zhǎng;ip pén;wv zāi;fa
+樱花树苗盆栽	yīng;sm huā;aw shù;sc miáo;al pén;wv zāi;fa
+闭合的眼眸花盆栽	bì;uf hé;wg de;rq yǎn;hv móu;hc huā;aw pén;wv zāi;fa
+矢车菊盆栽	shǐ;td chē;lg jú;aq pén;wv zāi;fa
+绯红菌盆栽	fēi;xd hóng;xa jūn;al pén;wv zāi;fa
+绯红菌索盆栽	fēi;xd hóng;xa jūn;al suǒ;fp pén;wv zāi;fa
+蒲公英盆栽	pú;ai gōng;wc yīng;am pén;wv zāi;fa
+深色橡树树苗盆栽	shēn;ip sè;qc xiàng;sq shù;sc shù;sc miáo;al pén;wv zāi;fa
+枯萎的灌木盆栽	kū;sd wěi;at de;rq guàn;ia mù;ss pén;wv zāi;fa
+蕨盆栽	jué;ad pén;wv zāi;fa
+盛开的杜鹃花丛盆栽	shèng;dn kāi;ga de;rq dù;sf juān;ke huā;aw cóng;ww pén;wv zāi;fa
+丛林树苗盆栽	cóng;ww lín;ss shù;sc miáo;al pén;wv zāi;fa
+铃兰盆栽	líng;qw lán;uf pén;wv zāi;fa
+红树胎生苗盆栽	hóng;xa shù;sc tāi;ec shēng;tg miáo;al pén;wv zāi;fa
+橡树树苗盆栽	xiàng;sq shù;sc shù;sc miáo;al pén;wv zāi;fa
+张开的眼眸花盆栽	zhāng;xt kāi;ga de;rq yǎn;hv móu;hc huā;aw pén;wv zāi;fa
+橙色郁金香盆栽	chéng;sw sè;qc yù;de jīn;qq xiāng;tj pén;wv zāi;fa
+滨菊盆栽	bīn;ip jú;aq pén;wv zāi;fa
+苍白橡树树苗盆栽	cāng;aw bái;rr xiàng;sq shù;sc shù;sc miáo;al pén;wv zāi;fa
+粉红色郁金香盆栽	fěn;ow hóng;xa sè;qc yù;de jīn;qq xiāng;tj pén;wv zāi;fa
+虞美人盆栽	yú;ha měi;ug rén;ww pén;wv zāi;fa
+红色蘑菇盆栽	hóng;xa sè;qc mó;ay gu;av pén;wv zāi;fa
+红色郁金香盆栽	hóng;xa sè;qc yù;de jīn;qq xiāng;tj pén;wv zāi;fa
+云杉树苗盆栽	yún;fc shān;se shù;sc miáo;al pén;wv zāi;fa
+火把花盆栽	huǒ;oo bǎ;rc huā;aw pén;wv zāi;fa
+诡异菌盆栽	guǐ;yq yì;na jūn;al pén;wv zāi;fa
+诡异菌索盆栽	guǐ;yq yì;na jūn;al suǒ;fp pén;wv zāi;fa
+白色郁金香盆栽	bái;rr sè;qc yù;de jīn;qq xiāng;tj pén;wv zāi;fa
+凋灵玫瑰盆栽	diāo;um líng;vo méi;gt guī;gr pén;wv zāi;fa
+细雪	xì;xl xuě;fv
+装有细雪的炼药锅	zhuāng;uf yǒu;de xì;xl xuě;fv de;rq liàn;oa yào;ax guō;qk
+动力铁轨	dòng;fc lì;lt tiě;qr guǐ;lv
+海晶石	hǎi;it jīng;jj shí;dg
+海晶石砖台阶	hǎi;it jīng;jj shí;dg zhuān;df tái;ck jiē;bw
+海晶石砖楼梯	hǎi;it jīng;jj shí;dg zhuān;df lóu;so tī;su
+海晶石砖	hǎi;it jīng;jj shí;dg zhuān;df
+海晶石台阶	hǎi;it jīng;jj shí;dg tái;ck jiē;bw
+海晶石楼梯	hǎi;it jīng;jj shí;dg lóu;so tī;su
+海晶石墙	hǎi;it jīng;jj shí;dg qiáng;ff
+南瓜	nán;fm guā;rc
+南瓜茎	nán;fm guā;rc jīng;ac
+紫色旗帜	zǐ;hx sè;qc qí;yt zhì;mh
+紫色床	zǐ;hx sè;qc chuáng;ys
+紫色蜡烛	zǐ;hx sè;qc là;ja zhú;oj
+插上紫色蜡烛的蛋糕	chā;rt shang;hh zǐ;hx sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+紫色地毯	zǐ;hx sè;qc dì;fb tǎn;tf
+紫色混凝土	zǐ;hx sè;qc hùn;ij níng;ux tǔ;ff
+紫色混凝土粉末	zǐ;hx sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+紫色带釉陶瓦	zǐ;hx sè;qc dài;gk yòu;to táo;bq wǎ;gn
+紫色潜影盒	zǐ;hx sè;qc qián;if yǐng;jy hé;wg
+紫色染色玻璃	zǐ;hx sè;qc rǎn;iv sè;qc bō;gh li;gy
+紫色染色玻璃板	zǐ;hx sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+紫色陶瓦	zǐ;hx sè;qc táo;bq wǎ;gn
+紫色羊毛	zǐ;hx sè;qc yáng;ud máo;tf
+紫珀块	zǐ;hx pò;gr kuài;fn
+紫珀柱	zǐ;hx pò;gr zhù;sy
+紫珀台阶	zǐ;hx pò;gr tái;ck jiē;bw
+紫珀楼梯	zǐ;hx pò;gr lóu;so tī;su
+石英块	shí;dg yīng;am kuài;fn
+石英砖	shí;dg yīng;am zhuān;df
+石英柱	shí;dg yīng;am zhù;sy
+石英台阶	shí;dg yīng;am tái;ck jiē;bw
+石英楼梯	shí;dg yīng;am lóu;so tī;su
+铁轨	tiě;qr guǐ;lv
+粗铜块	cū;oe tóng;qm kuài;fn
+粗金块	cū;oe jīn;qq kuài;fn
+粗铁块	cū;oe tiě;qr kuài;fn
+红色旗帜	hóng;xa sè;qc qí;yt zhì;mh
+红色床	hóng;xa sè;qc chuáng;ys
+红色蜡烛	hóng;xa sè;qc là;ja zhú;oj
+插上红色蜡烛的蛋糕	chā;rt shang;hh hóng;xa sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+红色地毯	hóng;xa sè;qc dì;fb tǎn;tf
+红色混凝土	hóng;xa sè;qc hùn;ij níng;ux tǔ;ff
+红色混凝土粉末	hóng;xa sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+红色带釉陶瓦	hóng;xa sè;qc dài;gk yòu;to táo;bq wǎ;gn
+红色蘑菇	hóng;xa sè;qc mó;ay gu;av
+红色蘑菇方块	hóng;xa sè;qc mó;ay gu;av fāng;yy kuài;fn
+红色下界砖台阶	hóng;xa sè;qc xià;gh jiè;lw zhuān;df tái;ck jiē;bw
+红色下界砖楼梯	hóng;xa sè;qc xià;gh jiè;lw zhuān;df lóu;so tī;su
+红色下界砖墙	hóng;xa sè;qc xià;gh jiè;lw zhuān;df qiáng;ff
+红色下界砖块	hóng;xa sè;qc xià;gh jiè;lw zhuān;df kuài;fn
+红沙	hóng;xa shā;ii
+红砂岩	hóng;xa shā;di yán;md
+红砂岩台阶	hóng;xa shā;di yán;md tái;ck jiē;bw
+红砂岩楼梯	hóng;xa shā;di yán;md lóu;so tī;su
+红砂岩墙	hóng;xa shā;di yán;md qiáng;ff
+红色潜影盒	hóng;xa sè;qc qián;if yǐng;jy hé;wg
+红色染色玻璃	hóng;xa sè;qc rǎn;iv sè;qc bō;gh li;gy
+红色染色玻璃板	hóng;xa sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+红色陶瓦	hóng;xa sè;qc táo;bq wǎ;gn
+红色郁金香	hóng;xa sè;qc yù;de jīn;qq xiāng;tj
+红色羊毛	hóng;xa sè;qc yáng;ud máo;tf
+红石块	hóng;xa shí;dg kuài;fn
+红石灯	hóng;xa shí;dg dēng;os
+红石矿石	hóng;xa shí;dg kuàng;dy shí;dg
+红石火把	hóng;xa shí;dg huǒ;oo bǎ;rc
+墙上的红石火把	qiáng;ff shàng;hh de;rq hóng;xa shí;dg huǒ;oo bǎ;rc
+红石线	hóng;xa shí;dg xiàn;xg
+强化深板岩	qiáng;xk huà;wx shēn;ip bǎn;sr yán;md
+红石中继器	hóng;xa shí;dg zhōng;kh jì;xo qì;kk
+循环型命令方块	xún;tr huán;gg xíng;ga mìng;wg lìng;wy fāng;yy kuài;fn
+树脂块	shù;sc zhī;ex kuài;fn
+树脂砖台阶	shù;sc zhī;ex zhuān;df tái;ck jiē;bw
+树脂砖楼梯	shù;sc zhī;ex zhuān;df lóu;so tī;su
+树脂砖墙	shù;sc zhī;ex zhuān;df qiáng;ff
+树脂砖块	shù;sc zhī;ex zhuān;df kuài;fn
+树脂团	shù;sc zhī;ex tuán;lf
+重生锚	chóng;tg shēng;tg máo;qa
+缠根泥土	chán;xy gēn;sv ní;in tǔ;ff
+玫瑰丛	méi;gt guī;gr cóng;ww
+沙子	shā;ii zi;bb
+砂岩	shā;di yán;md
+砂岩台阶	shā;di yán;md tái;ck jiē;bw
+砂岩楼梯	shā;di yán;md lóu;so tī;su
+砂岩墙	shā;di yán;md qiáng;ff
+脚手架	jiǎo;ef shǒu;rt jià;lk
+幽匿块	yōu;xx nì;aa kuài;fn
+幽匿催发体	yōu;xx nì;aa cuī;wm fā;nt tǐ;ws
+幽匿感测体	yōu;xx nì;aa gǎn;dg cè;im tǐ;ws
+幽匿尖啸体	yōu;xx nì;aa jiān;id xiào;kv tǐ;ws
+幽匿脉络	yōu;xx nì;aa mài;ey luò;xt
+海晶灯	hǎi;it jīng;jj dēng;os
+海泡菜	hǎi;it pào;iq cài;ae
+海草	hǎi;it cǎo;aj
+已设置重生点	yǐ;nn shè;ym zhì;lf chóng;tg shēng;tg diǎn;hk
+矮枯草丛	ǎi;td kū;sd cǎo;aj cóng;ww
+矮草丛	ǎi;td cǎo;aj cóng;ww
+菌光体	jūn;al guāng;iq tǐ;ws
+潜影盒	qián;if yǐng;jy hé;wg
+骷髅头颅	kū;me lóu;me tóu;ud lú;hn
+墙上的骷髅头颅	qiáng;ff shàng;hh de;rq kū;me lóu;me tóu;ud lú;hn
+黏液块	nián;tw yè;iy kuài;fn
+小型紫晶芽	xiǎo;ih xíng;ga zǐ;hx jīng;jj yá;aa
+小型垂滴叶	xiǎo;ih xíng;ga chuí;tg dī;iu yè;kf
+锻造台	duàn;qw zào;tf tái;ck
+烟熏炉	yān;ol xūn;tg lú;oy
+平滑玄武岩	píng;gu huá;im xuán;yx wǔ;ga yán;md
+平滑石英块	píng;gu huá;im shí;dg yīng;am kuài;fn
+平滑石英台阶	píng;gu huá;im shí;dg yīng;am tái;ck jiē;bw
+平滑石英楼梯	píng;gu huá;im shí;dg yīng;am lóu;so tī;su
+平滑红砂岩	píng;gu huá;im hóng;xa shā;di yán;md
+平滑红砂岩台阶	píng;gu huá;im hóng;xa shā;di yán;md tái;ck jiē;bw
+平滑红砂岩楼梯	píng;gu huá;im hóng;xa shā;di yán;md lóu;so tī;su
+平滑砂岩	píng;gu huá;im shā;di yán;md
+平滑砂岩台阶	píng;gu huá;im shā;di yán;md tái;ck jiē;bw
+平滑砂岩楼梯	píng;gu huá;im shā;di yán;md lóu;so tī;su
+平滑石头	píng;gu huá;im shí;dg tou;ud
+平滑石头台阶	píng;gu huá;im shí;dg tou;ud tái;ck jiē;bw
+嗅探兽蛋	xiù;kt tàn;rp shòu;ul dàn;nh
+雪	xuě;fv
+雪块	xuě;fv kuài;fn
+灵魂营火	líng;vo hún;fc yíng;ap huǒ;oo
+灵魂火	líng;vo hún;fc huǒ;oo
+灵魂灯笼	líng;vo hún;fc dēng;os lóng;td
+灵魂沙	líng;vo hún;fc shā;ii
+灵魂土	líng;vo hún;fc tǔ;ff
+灵魂火把	líng;vo hún;fc huǒ;oo bǎ;rc
+墙上的灵魂火把	qiáng;ff shàng;hh de;rq líng;vo hún;fc huǒ;oo bǎ;rc
+你的床或已充能的重生锚不存在或已被阻挡	nǐ;wq de;rq chuáng;ys huò;ak yǐ;nn chōng;yc néng;ce de;rq chóng;tg shēng;tg máo;qa bù;gi cún;dh zài;dh huò;ak yǐ;nn bèi;pu zǔ;be dǎng;ri
+刷怪笼	shuā;nm guài;nc lóng;td
+设置生物种类	shè;ym zhì;lf shēng;tg wù;tr zhǒng;tk lèi;od
+海绵	hǎi;it mián;xr
+孢子花	bāo;bq zǐ;bb huā;aw
+云杉木按钮	yún;fc shān;se mù;ss àn;rp niǔ;qn
+云杉木门	yún;fc shān;se mù;ss mén;uy
+云杉木栅栏	yún;fc shān;se mù;ss zhà;sm lán;su
+云杉木栅栏门	yún;fc shān;se mù;ss zhà;sm lán;su mén;uy
+悬挂式云杉木告示牌	xuán;eg guà;rf shì;aa yún;fc shān;se mù;ss gào;tf shì;fi pái;th
+云杉树叶	yún;fc shān;se shù;sc yè;kf
+云杉原木	yún;fc shān;se yuán;dr mù;ss
+云杉木板	yún;fc shān;se mù;ss bǎn;sr
+云杉木压力板	yún;fc shān;se mù;ss yā;df lì;lt bǎn;sr
+云杉树苗	yún;fc shān;se shù;sc miáo;al
+云杉木展示架	yún;fc shān;se mù;ss zhǎn;na shì;fi jià;lk
+云杉木告示牌	yún;fc shān;se mù;ss gào;tf shì;fi pái;th
+云杉木台阶	yún;fc shān;se mù;ss tái;ck jiē;bw
+云杉木楼梯	yún;fc shān;se mù;ss lóu;so tī;su
+云杉木活板门	yún;fc shān;se mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式云杉木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa yún;fc shān;se mù;ss gào;tf shì;fi pái;th
+墙上的云杉木告示牌	qiáng;ff shàng;hh de;rq yún;fc shān;se mù;ss gào;tf shì;fi pái;th
+云杉木	yún;fc shān;se mù;ss
+黏性活塞	nián;tw xìng;nt huó;it sāi;pf
+石头	shí;dg tou;ud
+石砖台阶	shí;dg zhuān;df tái;ck jiē;bw
+石砖楼梯	shí;dg zhuān;df lóu;so tī;su
+石砖墙	shí;dg zhuān;df qiáng;ff
+石砖	shí;dg zhuān;df
+石头按钮	shí;dg tou;ud àn;rp niǔ;qn
+石头压力板	shí;dg tou;ud yā;df lì;lt bǎn;sr
+石头台阶	shí;dg tou;ud tái;ck jiē;bw
+石头楼梯	shí;dg tou;ud lóu;so tī;su
+切石机	qiè;av shí;dg jī;sm
+去皮金合欢原木	qù;fc pí;hc jīn;qq hé;wg huān;cq yuán;dr mù;ss
+去皮金合欢木	qù;fc pí;hc jīn;qq hé;wg huān;cq mù;ss
+去皮竹块	qù;fc pí;hc zhú;tt kuài;fn
+去皮白桦原木	qù;fc pí;hc bái;rr huà;sw yuán;dr mù;ss
+去皮白桦木	qù;fc pí;hc bái;rr huà;sw mù;ss
+去皮樱花原木	qù;fc pí;hc yīng;sm huā;aw yuán;dr mù;ss
+去皮樱花木	qù;fc pí;hc yīng;sm huā;aw mù;ss
+去皮绯红菌核	qù;fc pí;hc fēi;xd hóng;xa jūn;al hé;sy
+去皮绯红菌柄	qù;fc pí;hc fēi;xd hóng;xa jùn;al bǐng;sg
+去皮深色橡木原木	qù;fc pí;hc shēn;ip sè;qc xiàng;sq mù;ss yuán;dr mù;ss
+去皮深色橡木	qù;fc pí;hc shēn;ip sè;qc xiàng;sq mù;ss
+去皮丛林原木	qù;fc pí;hc cóng;ww lín;ss yuán;dr mù;ss
+去皮丛林木	qù;fc pí;hc cóng;ww lín;ss mù;ss
+去皮红树原木	qù;fc pí;hc hóng;xa shù;sc yuán;dr mù;ss
+去皮红树木	qù;fc pí;hc hóng;xa shù;sc mù;ss
+去皮橡木原木	qù;fc pí;hc xiàng;sq mù;ss yuán;dr mù;ss
+去皮橡木	qù;fc pí;hc xiàng;sq mù;ss
+去皮苍白橡木原木	qù;fc pí;hc cāng;aw bái;rr xiàng;sq mù;ss yuán;dr mù;ss
+去皮苍白橡木	qù;fc pí;hc cāng;aw bái;rr xiàng;sq mù;ss
+去皮云杉原木	qù;fc pí;hc yún;fc shān;se yuán;dr mù;ss
+去皮云杉木	qù;fc pí;hc yún;fc shān;se mù;ss
+去皮诡异菌核	qù;fc pí;hc guǐ;yq yì;na jūn;al hé;sy
+去皮诡异菌柄	qù;fc pí;hc guǐ;yq yì;na jùn;al bǐng;sg
+结构方块	jié;xf gòu;sq fāng;yy kuài;fn
+结构空位	jié;xf gòu;sq kōng;pw wèi;wu
+甘蔗	gān;af zhe;ay
+向日葵	xiàng;tm rì;jj kuí;aw
+可疑的沙砾	kě;sk yí;xt de;rq shā;ii lì;dq
+可疑的沙子	kě;sk yí;xt de;rq shā;ii zi;bb
+甜浆果丛	tián;td jiāng;uq guǒ;js cóng;ww
+高枯草丛	gāo;ym kū;sd cǎo;aj cóng;ww
+高草丛	gāo;ym cǎo;aj cóng;ww
+高海草	gāo;ym hǎi;it cǎo;aj
+标靶	biāo;sf bǎ;af
+陶瓦	táo;bq wǎ;gn
+测试方块	cè;im shì;ya fāng;yy kuài;fn
+测试实例方块	cè;im shì;ya shí;pu lì;wg fāng;yy kuài;fn
+遮光玻璃	zhē;ya guāng;iq bō;gh li;gy
+火把	huǒ;oo bǎ;rc
+火把花	huǒ;oo bǎ;rc huā;aw
+火把花植株	huǒ;oo bǎ;rc huā;aw zhí;sf zhū;sr
+陷阱箱	xiàn;bq jǐng;bf xiāng;ts
+试炼刷怪笼	shì;ya liàn;oa shuā;nm guài;nc lóng;td
+绊线	bàn;xu xiàn;xg
+绊线钩	bàn;xu xiàn;xg gōu;qq
+管珊瑚	guǎn;tp shān;gm hú;gd
+管珊瑚块	guǎn;tp shān;gm hú;gd kuài;fn
+管珊瑚扇	guǎn;tp shān;gm hú;gd shàn;yn
+墙上的管珊瑚扇	qiáng;ff shàng;hh de;rq guǎn;tp shān;gm hú;gd shàn;yn
+凝灰岩	níng;ux huī;do yán;md
+凝灰岩砖台阶	níng;ux huī;do yán;md zhuān;df tái;ck jiē;bw
+凝灰岩砖楼梯	níng;ux huī;do yán;md zhuān;df lóu;so tī;su
+凝灰岩砖墙	níng;ux huī;do yán;md zhuān;df qiáng;ff
+凝灰岩砖	níng;ux huī;do yán;md zhuān;df
+凝灰岩台阶	níng;ux huī;do yán;md tái;ck jiē;bw
+凝灰岩楼梯	níng;ux huī;do yán;md lóu;so tī;su
+凝灰岩墙	níng;ux huī;do yán;md qiáng;ff
+海龟蛋	hǎi;it guī;qj dàn;nh
+缠怨藤	chán;xy yuàn;qb téng;ae
+缠怨藤植株	chán;xy yuàn;qb téng;ae zhí;sf zhū;sr
+宝库	bǎo;pg kù;yl
+青翠蛙明灯	qīng;ge cuì;ny wā;jf míng;je dēng;os
+藤蔓	téng;ae màn;aj
+虚空空气	xū;ha kōng;pw kōng;pw qì;rn
+墙上的火把	qiáng;ff shàng;hh de;rq huǒ;oo bǎ;rc
+诡异木按钮	guǐ;yq yì;na mù;ss àn;rp niǔ;qn
+诡异木门	guǐ;yq yì;na mù;ss mén;uy
+诡异木栅栏	guǐ;yq yì;na mù;ss zhà;sm lán;su
+诡异木栅栏门	guǐ;yq yì;na mù;ss zhà;sm lán;su mén;uy
+诡异菌	guǐ;yq yì;na jūn;al
+悬挂式诡异木告示牌	xuán;eg guà;rf shì;aa guǐ;yq yì;na mù;ss gào;tf shì;fi pái;th
+诡异菌核	guǐ;yq yì;na jūn;al hé;sy
+诡异菌岩	guǐ;yq yì;na jūn;al yán;md
+诡异木板	guǐ;yq yì;na mù;ss bǎn;sr
+诡异木压力板	guǐ;yq yì;na mù;ss yā;df lì;lt bǎn;sr
+诡异菌索	guǐ;yq yì;na jūn;al suǒ;fp
+诡异木展示架	guǐ;yq yì;na mù;ss zhǎn;na shì;fi jià;lk
+诡异木告示牌	guǐ;yq yì;na mù;ss gào;tf shì;fi pái;th
+诡异木台阶	guǐ;yq yì;na mù;ss tái;ck jiē;bw
+诡异木楼梯	guǐ;yq yì;na mù;ss lóu;so tī;su
+诡异菌柄	guǐ;yq yì;na jùn;al bǐng;sg
+诡异木活板门	guǐ;yq yì;na mù;ss huó;it bǎn;sr mén;uy
+墙上的悬挂式诡异木告示牌	qiáng;ff shàng;hh de;rq xuán;eg guà;rf shì;aa guǐ;yq yì;na mù;ss gào;tf shì;fi pái;th
+墙上的诡异木告示牌	qiáng;ff shàng;hh de;rq guǐ;yq yì;na mù;ss gào;tf shì;fi pái;th
+诡异疣块	guǐ;yq yì;na yóu;ud kuài;fn
+水	shuǐ;ii
+装有水的炼药锅	zhuāng;uf yǒu;de shuǐ;ii de;rq liàn;oa yào;ax guō;qk
+涂蜡的雕纹铜块	tú;iw là;ja de;rq diāo;mf wén;xy tóng;qm kuài;fn
+涂蜡的铜栏杆	tú;iw là;ja de;rq tóng;qm lán;su gān;sf
+涂蜡的铜块	tú;iw là;ja de;rq tóng;qm kuài;fn
+涂蜡的铜灯	tú;iw là;ja de;rq tóng;qm dēng;os
+涂蜡的铜链	tú;iw là;ja de;rq tóng;qm liàn;ql
+涂蜡的铜箱子	tú;iw là;ja de;rq tóng;qm xiāng;ts zi;bb
+涂蜡的铜门	tú;iw là;ja de;rq tóng;qm mén;uy
+涂蜡的铜傀儡像	tú;iw là;ja de;rq tóng;qm kuǐ;wr lěi;wl xiàng;wq
+涂蜡的铜格栅	tú;iw là;ja de;rq tóng;qm gé;st zhà;sm
+涂蜡的铜灯笼	tú;iw là;ja de;rq tóng;qm dēng;os lóng;td
+涂蜡的铜活板门	tú;iw là;ja de;rq tóng;qm huó;it bǎn;sr mén;uy
+涂蜡的切制铜块	tú;iw là;ja de;rq qiè;av zhì;rm tóng;qm kuài;fn
+涂蜡的切制铜台阶	tú;iw là;ja de;rq qiè;av zhì;rm tóng;qm tái;ck jiē;bw
+涂蜡的切制铜楼梯	tú;iw là;ja de;rq qiè;av zhì;rm tóng;qm lóu;so tī;su
+涂蜡的斑驳雕纹铜块	tú;iw là;ja de;rq bān;gy bó;cq diāo;mf wén;xy tóng;qm kuài;fn
+涂蜡的斑驳铜块	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm kuài;fn
+涂蜡的斑驳铜栏杆	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm lán;su gān;sf
+涂蜡的斑驳铜灯	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm dēng;os
+涂蜡的斑驳铜链	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm liàn;ql
+涂蜡的斑驳铜箱子	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm xiāng;ts zi;bb
+涂蜡的斑驳铜门	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm mén;uy
+涂蜡的斑驳铜傀儡像	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm kuǐ;wr lěi;wl xiàng;wq
+涂蜡的斑驳铜格栅	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm gé;st zhà;sm
+涂蜡的斑驳铜灯笼	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm dēng;os lóng;td
+涂蜡的斑驳铜活板门	tú;iw là;ja de;rq bān;gy bó;cq tóng;qm huó;it bǎn;sr mén;uy
+涂蜡的斑驳切制铜块	tú;iw là;ja de;rq bān;gy bó;cq qiè;av zhì;rm tóng;qm kuài;fn
+涂蜡的斑驳切制铜台阶	tú;iw là;ja de;rq bān;gy bó;cq qiè;av zhì;rm tóng;qm tái;ck jiē;bw
+涂蜡的斑驳切制铜楼梯	tú;iw là;ja de;rq bān;gy bó;cq qiè;av zhì;rm tóng;qm lóu;so tī;su
+涂蜡的斑驳避雷针	tú;iw là;ja de;rq bān;gy bó;cq bì;nk léi;fl zhēn;qf
+涂蜡的避雷针	tú;iw là;ja de;rq bì;nk léi;fl zhēn;qf
+涂蜡的氧化雕纹铜块	tú;iw là;ja de;rq yǎng;rn huà;wx diāo;mf wén;xy tóng;qm kuài;fn
+涂蜡的氧化铜块	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm kuài;fn
+涂蜡的氧化铜栏杆	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm lán;su gān;sf
+涂蜡的氧化铜灯	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm dēng;os
+涂蜡的氧化铜链	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm liàn;ql
+涂蜡的氧化铜箱子	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm xiāng;ts zi;bb
+涂蜡的氧化铜门	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm mén;uy
+涂蜡的氧化铜傀儡像	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm kuǐ;wr lěi;wl xiàng;wq
+涂蜡的氧化铜格栅	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm gé;st zhà;sm
+涂蜡的氧化铜灯笼	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm dēng;os lóng;td
+涂蜡的氧化铜活板门	tú;iw là;ja de;rq yǎng;rn huà;wx tóng;qm huó;it bǎn;sr mén;uy
+涂蜡的氧化切制铜块	tú;iw là;ja de;rq yǎng;rn huà;wx qiè;av zhì;rm tóng;qm kuài;fn
+涂蜡的氧化切制铜台阶	tú;iw là;ja de;rq yǎng;rn huà;wx qiè;av zhì;rm tóng;qm tái;ck jiē;bw
+涂蜡的氧化切制铜楼梯	tú;iw là;ja de;rq yǎng;rn huà;wx qiè;av zhì;rm tóng;qm lóu;so tī;su
+涂蜡的氧化避雷针	tú;iw là;ja de;rq yǎng;rn huà;wx bì;nk léi;fl zhēn;qf
+涂蜡的锈蚀雕纹铜块	tú;iw là;ja de;rq xiù;qt shí;qn diāo;mf wén;xy tóng;qm kuài;fn
+涂蜡的锈蚀铜块	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm kuài;fn
+涂蜡的锈蚀铜栏杆	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm lán;su gān;sf
+涂蜡的锈蚀铜灯	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm dēng;os
+涂蜡的锈蚀铜链	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm liàn;ql
+涂蜡的锈蚀铜箱子	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm xiāng;ts zi;bb
+涂蜡的锈蚀铜门	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm mén;uy
+涂蜡的锈蚀铜傀儡像	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm kuǐ;wr lěi;wl xiàng;wq
+涂蜡的锈蚀铜格栅	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm gé;st zhà;sm
+涂蜡的锈蚀铜灯笼	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm dēng;os lóng;td
+涂蜡的锈蚀铜活板门	tú;iw là;ja de;rq xiù;qt shí;qn tóng;qm huó;it bǎn;sr mén;uy
+涂蜡的锈蚀切制铜块	tú;iw là;ja de;rq xiù;qt shí;qn qiè;av zhì;rm tóng;qm kuài;fn
+涂蜡的锈蚀切制铜台阶	tú;iw là;ja de;rq xiù;qt shí;qn qiè;av zhì;rm tóng;qm tái;ck jiē;bw
+涂蜡的锈蚀切制铜楼梯	tú;iw là;ja de;rq xiù;qt shí;qn qiè;av zhì;rm tóng;qm lóu;so tī;su
+涂蜡的锈蚀避雷针	tú;iw là;ja de;rq xiù;qt shí;qn bì;nk léi;fl zhēn;qf
+锈蚀的雕纹铜块	xiù;qt shí;qn de;rq diāo;mf wén;xy tóng;qm kuài;fn
+锈蚀的铜块	xiù;qt shí;qn de;rq tóng;qm kuài;fn
+锈蚀的铜栏杆	xiù;qt shí;qn de;rq tóng;qm lán;su gān;sf
+锈蚀的铜灯	xiù;qt shí;qn de;rq tóng;qm dēng;os
+锈蚀的铜链	xiù;qt shí;qn de;rq tóng;qm liàn;ql
+锈蚀的铜箱子	xiù;qt shí;qn de;rq tóng;qm xiāng;ts zi;bb
+锈蚀的铜门	xiù;qt shí;qn de;rq tóng;qm mén;uy
+锈蚀的铜傀儡像	xiù;qt shí;qn de;rq tóng;qm kuǐ;wr lěi;wl xiàng;wq
+锈蚀的铜格栅	xiù;qt shí;qn de;rq tóng;qm gé;st zhà;sm
+锈蚀的铜灯笼	xiù;qt shí;qn de;rq tóng;qm dēng;os lóng;td
+锈蚀的铜活板门	xiù;qt shí;qn de;rq tóng;qm huó;it bǎn;sr mén;uy
+锈蚀的切制铜块	xiù;qt shí;qn de;rq qiè;av zhì;rm tóng;qm kuài;fn
+锈蚀的切制铜台阶	xiù;qt shí;qn de;rq qiè;av zhì;rm tóng;qm tái;ck jiē;bw
+锈蚀的切制铜楼梯	xiù;qt shí;qn de;rq qiè;av zhì;rm tóng;qm lóu;so tī;su
+锈蚀的避雷针	xiù;qt shí;qn de;rq bì;nk léi;fl zhēn;qf
+垂泪藤	chuí;tg lèi;ih téng;ae
+垂泪藤植株	chuí;tg lèi;ih téng;ae zhí;sf zhū;sr
+湿海绵	shī;ij hǎi;it mián;xr
+小麦植株	xiǎo;ih mài;gt zhí;sf zhū;sr
+白色旗帜	bái;rr sè;qc qí;yt zhì;mh
+白色床	bái;rr sè;qc chuáng;ys
+白色蜡烛	bái;rr sè;qc là;ja zhú;oj
+插上白色蜡烛的蛋糕	chā;rt shang;hh bái;rr sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+白色地毯	bái;rr sè;qc dì;fb tǎn;tf
+白色混凝土	bái;rr sè;qc hùn;ij níng;ux tǔ;ff
+白色混凝土粉末	bái;rr sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+白色带釉陶瓦	bái;rr sè;qc dài;gk yòu;to táo;bq wǎ;gn
+白色潜影盒	bái;rr sè;qc qián;if yǐng;jy hé;wg
+白色染色玻璃	bái;rr sè;qc rǎn;iv sè;qc bō;gh li;gy
+白色染色玻璃板	bái;rr sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+白色陶瓦	bái;rr sè;qc táo;bq wǎ;gn
+白色郁金香	bái;rr sè;qc yù;de jīn;qq xiāng;tj
+白色羊毛	bái;rr sè;qc yáng;ud máo;tf
+野花簇	yě;jf huā;aw cù;ty
+凋灵玫瑰	diāo;um líng;vo méi;gt guī;gr
+凋灵骷髅头颅	diāo;um líng;vo kū;me lóu;me tóu;ud lú;hn
+墙上的凋灵骷髅头颅	qiáng;ff shàng;hh de;rq diāo;um líng;vo kū;me lóu;me tóu;ud lú;hn
+黄色旗帜	huáng;am sè;qc qí;yt zhì;mh
+黄色床	huáng;am sè;qc chuáng;ys
+黄色蜡烛	huáng;am sè;qc là;ja zhú;oj
+插上黄色蜡烛的蛋糕	chā;rt shang;hh huáng;am sè;qc là;ja zhú;oj de;rq dàn;nh gāo;ou
+黄色地毯	huáng;am sè;qc dì;fb tǎn;tf
+黄色混凝土	huáng;am sè;qc hùn;ij níng;ux tǔ;ff
+黄色混凝土粉末	huáng;am sè;qc hùn;ij níng;ux tǔ;ff fěn;ow mò;gs
+黄色带釉陶瓦	huáng;am sè;qc dài;gk yòu;to táo;bq wǎ;gn
+黄色潜影盒	huáng;am sè;qc qián;if yǐng;jy hé;wg
+黄色染色玻璃	huáng;am sè;qc rǎn;iv sè;qc bō;gh li;gy
+黄色染色玻璃板	huáng;am sè;qc rǎn;iv sè;qc bō;gh li;gy bǎn;sr
+黄色陶瓦	huáng;am sè;qc táo;bq wǎ;gn
+黄色羊毛	huáng;am sè;qc yáng;ud máo;tf
+僵尸的头	jiāng;wg shī;nn de;rq tóu;ud
+墙上的僵尸的头	qiáng;ff shàng;hh de;rq jiāng;wg shī;nn de;rq tóu;ud
+伤害吸收	shāng;wt hài;pd xī;ke shōu;nh
+不祥之兆	bù;gi xiáng;py zhī;pp zhào;iq
+失明	shī;rw míng;je
+鹦鹉螺之息	yīng;mm wǔ;ga luó;jl zhī;pp xī;th
+潮涌能量	cháo;if yǒng;ic néng;ce liàng;jg
+黑暗	hēi;lf àn;ju
+海豚的恩惠	hǎi;it tún;ee de;rq ēn;ld huì;gj
+抗火	kàng;ry huǒ;oo
+发光	fā;nt guāng;iq
+急迫	jí;qv pò;rp
+生命提升	shēng;tg mìng;wg tí;rj shēng;ta
+村庄英雄	cūn;sf zhuāng;yf yīng;am xióng;dc
+饥饿	jī;qn è;qn
+寄生	jì;pd shēng;tg
+瞬间伤害	shùn;he jiān;uj shāng;wt hài;pd
+瞬间治疗	shùn;he jiān;uj zhì;ic liáo;ub
+隐身	yǐn;bq shēn;tm
+跳跃提升	tiào;kh yuè;kh tí;rj shēng;ta
+飘浮	piāo;sf fú;ie
+幸运	xìng;fu yùn;fc
+挖掘疲劳	wā;rp jué;rn pí;uh láo;ap
+反胃	fǎn;rc wèi;le
+夜视	yè;yw shì;py
+渗浆	shèn;ic jiāng;uq
+中毒	zhòng;kh dú;gx
+袭击之兆	xí;dx jī;fm zhī;pp zhào;iq
+生命恢复	shēng;tg mìng;wg huī;nd fù;tj
+抗性提升	kàng;ry xìng;nt tí;rj shēng;ta
+饱和	bǎo;qn hé;tk
+缓降	huǎn;xe jiàng;bt
+缓慢	huǎn;xe màn;nj
+迅捷	xùn;nf jié;rg
+力量	lì;lt liang;jg
+试炼之兆	shì;ya liàn;oa zhī;pp zhào;iq
+霉运	méi;ft yùn;fc
+水下呼吸	shuǐ;ii xià;gh hū;kt xī;ke
+虚弱	xū;ha ruò;xu
+盘丝	pán;te sī;xx
+蓄风	xù;ay fēng;mq
+凋零	diāo;um líng;fw
+水下速掘	shuǐ;ii xià;gh sù;gk jué;rn
+节肢杀手	jié;ab zhī;ef shā;qs shǒu;rt
+绑定诅咒	bǎng;xd dìng;pg zǔ;ye zhòu;kk
+爆炸保护	bào;oj zhà;ot bǎo;wk hù;ry
+破甲	pò;dh jiǎ;lh
+引雷	yǐn;xh léi;fl
+致密	zhì;gc mì;pn
+深海探索者	shēn;ip hǎi;it tàn;rp suǒ;fp zhě;ft
+效率	xiào;uq lǜ;yx
+摔落缓冲	shuāi;ry luò;ai huǎn;xe chōng;uk
+火焰附加	huǒ;oo yàn;oq fù;bw jiā;lk
+火焰保护	huǒ;oo yàn;oq bǎo;wk hù;ry
+火矢	huǒ;oo shǐ;td
+时运	shí;jf yùn;fc
+冰霜行者	bīng;ui shuāng;fs xíng;tf zhě;ft
+穿刺	chuān;pw cì;gm
+无限	wú;fq xiàn;bv
+击退	jī;fm tuì;ve
+抢夺	qiǎng;rw duó;df
+忠诚	zhōng;kh chéng;yd
+海之眷顾	hǎi;it zhī;pp juàn;ud gù;db
+突进	tū;pw jìn;fj
+饵钓	ěr;qn diào;qq
+经验修补	jīng;xc yàn;cw xiū;wh bǔ;pu
+多重射击	duō;qq chóng;tg shè;tm jī;fm
+穿透	chuān;pw tòu;te
+弹射物保护	tán;xu shè;tm wù;tr bǎo;wk hù;ry
+保护	bǎo;wk hù;ry
+冲击	chōng;uk jī;fm
+快速装填	kuài;nn sù;gk zhuāng;uf tián;ff
+激流	jī;ir liú;iy
+锋利	fēng;qt lì;tj
+精准采集	jīng;og zhǔn;uw cǎi;es jí;wy
+亡灵杀手	wáng;yn líng;vo shā;qs shǒu;rt
+灵魂疾行	líng;vo hún;fc jí;ut xíng;tf
+横扫之刃	héng;sa sǎo;rv zhī;pp rèn;vy
+迅捷潜行	xùn;nf jié;rg qián;if xíng;tf
+荆棘	jīng;ag jí;gm
+耐久	nài;dm jiǔ;qy
+消失诅咒	xiāo;ii shī;rw zǔ;ye zhòu;kk
+风爆	fēng;mq bào;oj
+金合欢木船	jīn;qq hé;wg huān;cq mù;ss chuán;te
+金合欢木运输船	jīn;qq hé;wg huān;cq mù;ss yùn;fc shū;lw chuán;te
+悦灵	yuè;nu líng;vo
+区域效果云	qū;aq yù;fa xiào;uq guǒ;js yún;fc
+犰狳	qiú;qt yú;qt
+盔甲架	kuī;do jiǎ;lh jià;lk
+箭	jiàn;tu
+美西螈	měi;ug xī;sg yuán;jd
+运输竹筏	yùn;fc shū;lw zhú;tt fá;tw
+竹筏	zhú;tt fá;tw
+蝙蝠	biān;jy fú;jg
+蜜蜂	mì;pn fēng;jt
+白桦木船	bái;rr huà;sw mù;ss chuán;te
+白桦木运输船	bái;rr huà;sw mù;ss yùn;fc shū;lw chuán;te
+烈焰人	liè;gq yàn;oq rén;ww
+方块展示实体	fāng;yy kuài;fn zhǎn;na shì;fi shí;pu tǐ;ws
+船	chuán;te
+沼骸	zhǎo;iv hái;me
+旋风人	xuàn;yt fēng;mq rén;ww
+风弹	fēng;mq dàn;xu
+骆驼	luò;ct tuo;cp
+骆驼尸壳	luò;ct tuo;cp shī;nn ké;fp
+猫	māo;qt
+洞穴蜘蛛	dòng;im xué;pw zhī;jt zhū;jr
+樱花木船	yīng;sm huā;aw mù;ss chuán;te
+樱花木运输船	yīng;sm huā;aw mù;ss yùn;fc shū;lw chuán;te
+运输船	yùn;fc shū;lw chuán;te
+运输矿车	yùn;fc shū;lw kuàng;dy chē;lg
+鸡	jī;cq
+鳕鱼	xuě;qg yú;qg
+命令方块矿车	mìng;wg lìng;wy fāng;yy kuài;fn kuàng;dy chē;lg
+铜傀儡	tóng;qm kuǐ;wr lěi;wl
+牛	niú;rh
+嘎枝	gā;kd zhī;sf
+苦力怕	kǔ;ad lì;lt pà;nr
+深色橡木船	shēn;ip sè;qc xiàng;sq mù;ss chuán;te
+深色橡木运输船	shēn;ip sè;qc xiàng;sq mù;ss yùn;fc shū;lw chuán;te
+海豚	hǎi;it tún;ee
+驴	lǘ;cy
+末影龙火球	mò;gs yǐng;jy lóng;dx huǒ;oo qiú;gf
+溺尸	nì;ix shī;nn
+掷出的鸡蛋	zhì;ru chū;bm de;rq jī;cq dàn;nh
+远古守卫者	yuǎn;fq gǔ;dg shǒu;pf wèi;bg zhě;ft
+末地水晶	mò;gs dì;fb shuǐ;ii jīng;jj
+末影龙	mò;gs yǐng;jy lóng;dx
+掷出的末影珍珠	zhì;ru chū;bm de;rq mò;gs yǐng;jy zhēn;gw zhū;gr
+末影人	mò;gs yǐng;jy rén;ww
+末影螨	mò;gs yǐng;jy mǎn;ja
+唤魔者	huàn;kq mó;ys zhě;ft
+唤魔者尖牙	huàn;kq mó;ys zhě;ft jiān;id yá;ah
+掷出的附魔之瓶	zhì;ru chū;bm de;rq fù;bw mó;ys zhī;pp píng;ua
+经验球	jīng;xc yàn;cw qiú;gf
+末影之眼	mò;gs yǐng;jy zhī;pp yǎn;hv
+下落的方块	xià;gh luò;ai de;rq fāng;yy kuài;fn
+火球	huǒ;oo qiú;gf
+烟花火箭	yān;ol huā;aw huǒ;oo jiàn;tu
+浮漂	fú;ie piāo;is
+狐狸	hú;qt li;qt
+青蛙	qīng;ge wā;jf
+动力矿车	dòng;fc lì;lt kuàng;dy chē;lg
+恶魂	è;go hún;fc
+巨人	jù;an rén;ww
+荧光物品展示框	yíng;ap guāng;iq wù;tr pǐn;kk zhǎn;na shì;fi kuāng;sa
+发光鱿鱼	fā;nt guāng;iq yóu;qg yú;qg
+山羊	shān;mm yáng;ud
+守卫者	shǒu;pf wèi;bg zhě;ft
+快乐恶魂	kuài;nn lè;qi è;go hún;fc
+疣猪兽	yóu;ud zhū;qt shòu;ul
+漏斗矿车	lòu;in dǒu;uf kuàng;dy chē;lg
+马	mǎ;cn
+尸壳	shī;nn ké;fp
+幻术师	huàn;xn shù;sy shī;jg
+交互实体	jiāo;uq hù;gx shí;pu tǐ;ws
+铁傀儡	tiě;qr kuǐ;wr lěi;wl
+物品	wù;tr pǐn;kk
+物品展示实体	wù;tr pǐn;kk zhǎn;na shì;fi shí;pu tǐ;ws
+物品展示框	wù;tr pǐn;kk zhǎn;na shì;fi kuāng;sa
+丛林木船	cóng;ww lín;ss mù;ss chuán;te
+丛林木运输船	cóng;ww lín;ss mù;ss yùn;fc shū;lw chuán;te
+杀手兔	shā;qs shǒu;rt tù;qk
+拴绳结	shuān;rw shéng;xk jié;xf
+闪电束	shǎn;uw diàn;jn shù;gk
+滞留药水	zhì;ig liú;qy yào;ax shuǐ;ii
+羊驼	yáng;ud tuó;cp
+羊驼唾沫	yáng;ud tuó;cp tuò;kt mo;ig
+岩浆怪	yán;md jiāng;uq guài;nc
+红树木船	hóng;xa shù;sc mù;ss chuán;te
+红树木运输船	hóng;xa shù;sc mù;ss yùn;fc shū;lw chuán;te
+玩家模型	wán;gf jiā;pe mó;sa xíng;ga
+标记	biāo;sf jì;yn
+矿车	kuàng;dy chē;lg
+哞菇	mōu;kc gū;av
+骡	luó;cl
+鹦鹉螺	yīng;mm wǔ;ga luó;jl
+橡木船	xiàng;sq mù;ss chuán;te
+橡木运输船	xiàng;sq mù;ss yùn;fc shū;lw chuán;te
+豹猫	bào;ee māo;qt
+不祥之物生成器	bù;gi xiáng;py zhī;pp wù;tr shēng;tg chéng;dn qì;kk
+画	huà;gl
+苍白橡木船	cāng;aw bái;rr xiàng;sq mù;ss chuán;te
+苍白橡木运输船	cāng;aw bái;rr xiàng;sq mù;ss yùn;fc shū;lw chuán;te
+熊猫	xióng;ce māo;qt
+焦骸	jiāo;wy hái;me
+鹦鹉	yīng;mm wǔ;ga
+幻翼	huàn;xn yì;nl
+猪	zhū;qt
+猪灵	zhū;qt líng;vo
+猪灵蛮兵	zhū;qt líng;vo mán;yo bīng;rg
+掠夺者	lüè;ry duó;df zhě;ft
+玩家	wán;gf jiā;pe
+北极熊	běi;ux jí;se xióng;ce
+药水	yào;ax shuǐ;ii
+河豚	hé;is tún;ee
+兔子	tù;qk zi;bb
+劫掠兽	jié;fc lüè;ry shòu;ul
+鲑鱼	guī;qg yú;qg
+绵羊	mián;xr yáng;ud
+潜影贝	qián;if yǐng;jy bèi;mh
+潜影弹	qián;if yǐng;jy dàn;xu
+蠹虫	dù;gk chóng;jh
+骷髅	kū;me lóu;me
+骷髅马	kū;me lóu;me mǎ;cn
+史莱姆	shǐ;kq lái;ag mǔ;vx
+小火球	xiǎo;ih huǒ;oo qiú;gf
+嗅探兽	xiù;kt tàn;rp shòu;ul
+雪傀儡	xuě;fv kuǐ;wr lěi;wl
+雪球	xuě;fv qiú;gf
+刷怪笼矿车	shuā;nm guài;nc lóng;td kuàng;dy chē;lg
+光灵箭	guāng;iq líng;vo jiàn;tu
+蜘蛛	zhī;jt zhū;jr
+喷溅药水	pēn;kf jiàn;im yào;ax shuǐ;ii
+云杉木船	yún;fc shān;se mù;ss chuán;te
+云杉木运输船	yún;fc shān;se mù;ss yùn;fc shū;lw chuán;te
+鱿鱼	yóu;qg yú;qg
+流浪者	liú;iy làng;iy zhě;ft
+炽足兽	chì;ok zú;kh shòu;ul
+蝌蚪	kē;jt dǒu;ju
+文本展示实体	wén;yy běn;sg zhǎn;na shì;fi shí;pu tǐ;ws
+行商羊驼	háng;tf shāng;um yáng;ud tuó;cp
+三叉戟	sān;dg chā;cy jǐ;fj
+热带鱼	rè;rv dài;gk yú;qg
+海葵鱼	hǎi;it kuí;aw yú;qg
+黑刺尾鲷	hēi;lf cì;gm wěi;nt diāo;qg
+镰鱼	lián;qy yú;qg
+华丽蝴蝶鱼	huá;wx lì;gm hú;jd dié;ja yú;qg
+鹦嘴鱼	yīng;mm zuǐ;kh yú;qg
+额斑刺蝶鱼	é;pt bān;gy cì;gm dié;ja yú;qg
+红丽鱼	hóng;xa lì;gm yú;qg
+红唇真蛇鳚	hóng;xa chún;df zhēn;fh shé;jp wèi;qg
+红边笛鲷	hóng;xa biān;lp dí;tm diāo;qg
+马鲅	mǎ;cn bà;qg
+白条双锯鱼	bái;rr tiáo;ts shuāng;cc jù;qn yú;qg
+鳞鲀	lín;qg tún;qg
+蓝刺尾鲷	lán;aj cì;gm wěi;nt diāo;qg
+高鳍鹦嘴鱼	gāo;ym qí;qg yīng;mm zuǐ;kh yú;qg
+黄刺尾鲷	huáng;am cì;gm wěi;nt diāo;qg
+蝴蝶鱼	hú;jd dié;ja yú;qg
+丽鱼	lì;gm yú;qg
+小丑鱼	xiǎo;ih chǒu;nf yú;qg
+五彩搏鱼	wǔ;gg cǎi;es bó;rg yú;qg
+绣雀鲷	xiù;xt què;iw diāo;qg
+川纹笛鲷	chuān;kt wén;xy dí;tm diāo;qg
+拟羊鱼	nǐ;rn yáng;ud yú;qg
+背蒂类	bèi;ux dì;au lèi;od
+方身类	fāng;yy shēn;tm lèi;od
+咸水类	xián;dg shuǐ;ii lèi;od
+陶鱼类	táo;bq yú;qg lèi;od
+速跃类	sù;gk yuè;kh lèi;od
+飞翼类	fēi;nu yì;nl lèi;od
+闪鳞类	shǎn;uw lín;qg lèi;od
+石首类	shí;dg shǒu;ut lèi;od
+窥伺类	kuī;pw sì;wn lèi;od
+多斑类	duō;qq bān;gy lèi;od
+条纹类	tiáo;ts wén;xy lèi;od
+日纹类	rì;jj wén;xy lèi;od
+海龟	hǎi;it guī;qj
+恼鬼	nǎo;ny guǐ;rq
+村民	cūn;sf mín;na
+盔甲匠	kuī;do jiǎ;lh jiàng;ar
+屠夫	tú;nf fū;fw
+制图师	zhì;rm tú;lt shī;jg
+牧师	mù;tr shī;jg
+农民	nóng;pe mín;na
+渔夫	yú;iq fū;fw
+制箭师	zhì;rm jiàn;tu shī;jg
+皮匠	pí;hc jiang;ar
+图书管理员	tú;lt shū;nn guǎn;tp lǐ;gj yuán;km
+石匠	shí;dg jiàng;ar
+傻子	shǎ;wt zi;bb
+牧羊人	mù;tr yáng;ud rén;ww
+工具匠	gōng;aa jù;hw jiàng;ar
+武器匠	wǔ;ga qì;kk jiàng;ar
+卫道士	wèi;bg dào;ut shì;fg
+流浪商人	liú;iy làng;iy shāng;um rén;ww
+监守者	jiān;jt shǒu;pf zhě;ft
+女巫	nǚ;vv wū;aw
+凋灵	diāo;um líng;vo
+凋灵骷髅	diāo;um líng;vo kū;me lóu;me
+凋灵之首	diāo;um líng;vo zhī;pp shǒu;ut
+狼	láng;qt
+僵尸疣猪兽	jiāng;wg shī;nn yóu;ud zhū;qt shòu;ul
+僵尸	jiāng;wg shī;nn
+僵尸马	jiāng;wg shī;nn mǎ;cn
+僵尸鹦鹉螺	jiāng;wg shī;nn yīng;mm wǔ;ga luó;jl
+僵尸村民	jiāng;wg shī;nn cūn;sf mín;na
+僵尸猪灵	jiāng;wg shī;nn zhū;qt líng;vo
+悦灵刷怪蛋	yuè;nu líng;vo shuā;nm guài;nc dàn;nh
+紫水晶碎片	zǐ;hx shuǐ;ii jīng;jj suì;dy piàn;th
+垂钓纹样陶片	chuí;tg diào;qq wén;xy yàng;su táo;bq piàn;th
+苹果	píng;ag guǒ;js
+弓箭纹样陶片	gōng;xn jiàn;tu wén;xy yàng;su táo;bq piàn;th
+犰狳鳞甲	qiú;qt yú;qt lín;qg jiǎ;lh
+犰狳刷怪蛋	qiú;qt yú;qt shuā;nm guài;nc dàn;nh
+举臂纹样陶片	jǔ;iw bì;nk wén;xy yàng;su táo;bq piàn;th
+美西螈桶	měi;ug xī;sg yuán;jd tǒng;sc
+美西螈刷怪蛋	měi;ug xī;sg yuán;jd shuā;nm guài;nc dàn;nh
+烤马铃薯	kǎo;of mǎ;cn líng;qw shǔ;al
+蝙蝠刷怪蛋	biān;jy fú;jg shuā;nm guài;nc dàn;nh
+蜜蜂刷怪蛋	mì;pn fēng;jt shuā;nm guài;nc dàn;nh
+生牛肉	shēng;tg niú;rh ròu;mw
+甜菜种子	tián;td cài;ae zhǒng;tk zi;bb
+甜菜汤	tián;td cài;ae tāng;in
+黑色收纳袋	hēi;lf sè;qc shōu;nh nà;xm dài;wa
+黑色染料	hēi;lf sè;qc rǎn;iv liào;ou
+黑色挽具	hēi;lf sè;qc wǎn;rq jù;hw
+利刃纹样陶片	lì;tj rèn;vy wén;xy yàng;su táo;bq piàn;th
+烈焰粉	liè;gq yàn;oq fěn;ow
+烈焰棒	liè;gq yàn;oq bàng;sd
+烈焰人刷怪蛋	liè;gq yàn;oq rén;ww shuā;nm guài;nc dàn;nh
+蓝色收纳袋	lán;aj sè;qc shōu;nh nà;xm dài;wa
+蓝色染料	lán;aj sè;qc rǎn;iv liào;ou
+蓝色鸡蛋	lán;aj sè;qc jī;cq dàn;nh
+蓝色挽具	lán;aj sè;qc wǎn;rq jù;hw
+沼骸刷怪蛋	zhǎo;iv hái;me shuā;nm guài;nc dàn;nh
+锻造模板	duàn;qw zào;tf mú;sa bǎn;sr
+镶铆盔甲纹饰	xiāng;qy mǎo;qq kuī;do jiǎ;lh wén;xy shì;qn
+骨头	gǔ;me tou;ud
+骨粉	gǔ;me fěn;ow
+书	shū;nn
+波纹边旗帜图案	bō;ih wén;xy biān;lp qí;yt zhì;mh tú;lt àn;pv
+弓	gōng;xn
+碗	wǎn;dp
+面包	miàn;dm bāo;qn
+旋风棒	xuàn;yt fēng;mq bàng;sd
+旋风人刷怪蛋	xuàn;yt fēng;mq rén;ww shuā;nm guài;nc dàn;nh
+佳酿纹样陶片	jiā;wf niàng;sg wén;xy yàng;su táo;bq piàn;th
+红砖	hóng;xa zhuān;df
+棕色收纳袋	zōng;sp sè;qc shōu;nh nà;xm dài;wa
+棕色染料	zōng;sp sè;qc rǎn;iv liào;ou
+棕色鸡蛋	zōng;sp sè;qc jī;cq dàn;nh
+棕色挽具	zōng;sp sè;qc wǎn;rq jù;hw
+刷子	shuā;nm zi;bb
+铁桶	tiě;qr tǒng;sc
+收纳袋	shōu;nh nà;xm dài;wa
+空	kōng;pw
+可容纳一组混合的物品	kě;sk róng;pw nà;xm yī;gg zǔ;xe hùn;ij hé;wg de;rq wù;tr pǐn;kk
+满	mǎn;ia
+烈焰纹样陶片	liè;gq yàn;oq wén;xy yàng;su táo;bq piàn;th
+骆驼尸壳刷怪蛋	luò;ct tuo;cp shī;nn ké;fp shuā;nm guài;nc dàn;nh
+骆驼刷怪蛋	luò;ct tuo;cp shuā;nm guài;nc dàn;nh
+胡萝卜钓竿	hú;de luó;al bo;hh diào;qq gān;tf
+猫刷怪蛋	māo;qt shuā;nm guài;nc dàn;nh
+洞穴蜘蛛刷怪蛋	dòng;im xué;pw zhī;jt zhū;jr shuā;nm guài;nc dàn;nh
+锁链靴子	suǒ;qi liàn;ql xuē;af zi;bb
+锁链胸甲	suǒ;qi liàn;ql xiōng;eq jiǎ;lh
+锁链头盔	suǒ;qi liàn;ql tóu;ud kuī;do
+锁链护腿	suǒ;qi liàn;ql hù;ry tuǐ;ev
+木炭	mù;ss tàn;md
+生鸡肉	shēng;tg jī;cq ròu;mw
+鸡刷怪蛋	jī;cq shuā;nm guài;nc dàn;nh
+紫颂果	zǐ;hx sòng;wc guǒ;js
+黏土球	nián;tw tǔ;ff qiú;gf
+时钟	shí;jf zhōng;qk
+煤炭	méi;oa tàn;md
+海岸盔甲纹饰	hǎi;it àn;md kuī;do jiǎ;lh wén;xy shì;qn
+可可豆	kě;sk kě;sk dòu;gk
+生鳕鱼	shēng;tg xuě;qg yú;qg
+鳕鱼桶	xuě;qg yú;qg tǒng;sc
+鳕鱼刷怪蛋	xuě;qg yú;qg shuā;nm guài;nc dàn;nh
+指南针	zhǐ;rx nán;fm zhēn;qf
+牛排	niú;rh pái;rd
+熟鸡肉	shú;yb jī;cq ròu;mw
+熟鳕鱼	shú;yb xuě;qg yú;qg
+熟羊肉	shú;yb yáng;ud ròu;mw
+熟猪排	shú;yb zhū;qt pái;rd
+熟兔肉	shú;yb tù;qk ròu;mw
+熟鲑鱼	shú;yb guī;qg yú;qg
+曲奇	qū;ma qí;ds
+铜斧	tóng;qm fǔ;wq
+铜靴子	tóng;qm xuē;af zi;bb
+铜胸甲	tóng;qm xiōng;eq jiǎ;lh
+铜傀儡刷怪蛋	tóng;qm kuǐ;wr lěi;wl shuā;nm guài;nc dàn;nh
+铜头盔	tóng;qm tóu;ud kuī;do
+铜锄	tóng;qm chú;qe
+铜马铠	tóng;qm mǎ;cn kǎi;qm
+铜锭	tóng;qm dìng;qp
+铜护腿	tóng;qm hù;ry tuǐ;ev
+铜鹦鹉螺铠	tóng;qm yīng;mm wǔ;ga luó;jl kǎi;qm
+铜粒	tóng;qm lì;ou
+铜镐	tóng;qm gǎo;qy
+铜锹	tóng;qm qiāo;qt
+铜矛	tóng;qm máo;cb
+铜剑	tóng;qm jiàn;wg
+牛刷怪蛋	niú;rh shuā;nm guài;nc dàn;nh
+嘎枝刷怪蛋	gā;kd zhī;sf shuā;nm guài;nc dàn;nh
+旗帜图案	qí;yt zhì;mh tú;lt àn;pv
+苦力怕盾徽	kǔ;ad lì;lt pà;nr dùn;rf huī;tm
+苦力怕盾徽旗帜图案	kǔ;ad lì;lt pà;nr dùn;rf huī;tm qí;yt zhì;mh tú;lt àn;pv
+苦力怕刷怪蛋	kǔ;ad lì;lt pà;nr shuā;nm guài;nc dàn;nh
+弩	nǔ;vc
+青色收纳袋	qīng;ge sè;qc shōu;nh nà;xm dài;wa
+青色染料	qīng;ge sè;qc rǎn;iv liào;ou
+青色挽具	qīng;ge sè;qc wǎn;rq jù;hw
+危机纹样陶片	wēi;qd jī;sm wén;xy yàng;su táo;bq piàn;th
+调试棒	tiáo;ym shì;ya bàng;sd
+钻石	zuàn;qh shí;dg
+钻石斧	zuàn;qh shí;dg fǔ;wq
+钻石靴子	zuàn;qh shí;dg xuē;af zi;bb
+钻石胸甲	zuàn;qh shí;dg xiōng;eq jiǎ;lh
+钻石头盔	zuàn;qh shí;dg tóu;ud kuī;do
+钻石锄	zuàn;qh shí;dg chú;qe
+钻石马铠	zuàn;qh shí;dg mǎ;cn kǎi;qm
+钻石护腿	zuàn;qh shí;dg hù;ry tuǐ;ev
+钻石鹦鹉螺铠	zuàn;qh shí;dg yīng;mm wǔ;ga luó;jl kǎi;qm
+钻石镐	zuàn;qh shí;dg gǎo;qy
+钻石锹	zuàn;qh shí;dg qiāo;qt
+钻石矛	zuàn;qh shí;dg máo;cb
+钻石剑	zuàn;qh shí;dg jiàn;wg
+唱片残片	chàng;kj piàn;th cán;gq piàn;th
+海豚刷怪蛋	hǎi;it tún;ee shuā;nm guài;nc dàn;nh
+驴刷怪蛋	lǘ;cy shuā;nm guài;nc dàn;nh
+龙息	lóng;dx xī;th
+干海带	gàn;fg hǎi;it dài;gk
+溺尸刷怪蛋	nì;ix shī;nn shuā;nm guài;nc dàn;nh
+沙丘盔甲纹饰	shā;ii qiū;rg kuī;do jiǎ;lh wén;xy shì;qn
+回响碎片	huí;lk xiǎng;kt suì;dy piàn;th
+鸡蛋	jī;cq dàn;nh
+远古守卫者刷怪蛋	yuǎn;fq gǔ;dg shǒu;pf wèi;bg zhě;ft shuā;nm guài;nc dàn;nh
+鞘翅	qiào;af chì;fc
+绿宝石	lǜ;xv bǎo;pg shí;dg
+附魔书	fù;bw mó;ys shū;nn
+附魔金苹果	fù;bw mó;ys jīn;qq píng;ag guǒ;js
+末影龙刷怪蛋	mò;gs yǐng;jy lóng;dx shuā;nm guài;nc dàn;nh
+末影珍珠	mò;gs yǐng;jy zhēn;gw zhū;gr
+末影人刷怪蛋	mò;gs yǐng;jy rén;ww shuā;nm guài;nc dàn;nh
+末影螨刷怪蛋	mò;gs yǐng;jy mǎn;ja shuā;nm guài;nc dàn;nh
+唤魔者刷怪蛋	huàn;kq mó;ys zhě;ft shuā;nm guài;nc dàn;nh
+附魔之瓶	fù;bw mó;ys zhī;pp píng;ua
+探险纹样陶片	tàn;rp xiǎn;bw wén;xy yàng;su táo;bq piàn;th
+眼眸盔甲纹饰	yǎn;hv móu;hc kuī;do jiǎ;lh wén;xy shì;qn
+羽毛	yǔ;nn máo;tf
+发酵蛛眼	fā;nt jiào;sg zhū;jr yǎn;hv
+砖纹旗帜图案	zhuān;df wén;xy qí;yt zhì;mh tú;lt àn;pv
+地图	dì;fb tú;lt
+火焰弹	huǒ;oo yàn;oq dàn;xu
+烟火之星	yān;ol huǒ;oo zhī;pp xīng;jt
+黑色	hēi;lf sè;qc
+蓝色	lán;aj sè;qc
+棕色	zōng;sp sè;qc
+自定义	zì;th dìng;pg yì;yq
+青色	qīng;ge sè;qc
+淡化至	dàn;io huà;wx zhì;gc
+闪烁	shǎn;uw shuò;oq
+灰色	huī;do sè;qc
+绿色	lǜ;xv sè;qc
+淡蓝色	dàn;io lán;aj sè;qc
+淡灰色	dàn;io huī;do sè;qc
+黄绿色	huáng;am lǜ;xv sè;qc
+品红色	pǐn;kk hóng;xa sè;qc
+橙色	chéng;sw sè;qc
+粉红色	fěn;ow hóng;xa sè;qc
+紫色	zǐ;hx sè;qc
+红色	hóng;xa sè;qc
+未知形状	wèi;fi zhī;td xíng;ga zhuàng;ud
+喷发状	pēn;kf fā;nt zhuàng;ud
+苦力怕状	kǔ;ad lì;lt pà;nr zhuàng;ud
+大型球状	dà;dd xíng;ga qiú;gf zhuàng;ud
+小型球状	xiǎo;ih xíng;ga qiú;gf zhuàng;ud
+星形	xīng;jt xíng;ga
+踪迹	zōng;kh jì;yo
+白色	bái;rr sè;qc
+黄色	huáng;am sè;qc
+钓鱼竿	diào;qq yú;qg gān;tf
+燧石	suì;ou shí;dg
+打火石	dǎ;rs huǒ;oo shí;dg
+涡流盔甲纹饰	wō;ik liú;iy kuī;do jiǎ;lh wén;xy shì;qn
+涡流	wō;ik liú;iy
+涡流旗帜图案	wō;ik liú;iy qí;yt zhì;mh tú;lt àn;pv
+涡流纹样陶片	wō;ik liú;iy wén;xy yàng;su táo;bq piàn;th
+花朵盾徽	huā;aw duǒ;ms dùn;rf huī;tm
+花朵盾徽旗帜图案	huā;aw duǒ;ms dùn;rf huī;tm qí;yt zhì;mh tú;lt àn;pv
+狐狸刷怪蛋	hú;qt li;qt shuā;nm guài;nc dàn;nh
+挚友纹样陶片	zhì;rv yǒu;dc wén;xy yàng;su táo;bq piàn;th
+青蛙刷怪蛋	qīng;ge wā;jf shuā;nm guài;nc dàn;nh
+恶魂刷怪蛋	è;go hún;fc shuā;nm guài;nc dàn;nh
+恶魂之泪	è;go hún;fc zhī;pp lèi;ih
+玻璃瓶	bō;gh li;gy píng;ua
+闪烁的西瓜片	shǎn;uw shuò;oq de;rq xī;sg guā;rc piàn;th
+地球	dì;fb qiú;gf
+地球旗帜图案	dì;fb qiú;gf qí;yt zhì;mh tú;lt àn;pv
+发光浆果	fā;nt guāng;iq jiāng;uq guǒ;js
+荧光墨囊	yíng;ap guāng;iq mò;lf náng;gk
+发光鱿鱼刷怪蛋	fā;nt guāng;iq yóu;qg yú;qg shuā;nm guài;nc dàn;nh
+荧石粉	yíng;ap shí;dg fěn;ow
+山羊角	shān;mm yáng;ud jiǎo;qe
+山羊刷怪蛋	shān;mm yáng;ud shuā;nm guài;nc dàn;nh
+金锭	jīn;qq dìng;qp
+金粒	jīn;qq lì;ou
+金苹果	jīn;qq píng;ag guǒ;js
+金斧	jīn;qq fǔ;wq
+金靴子	jīn;qq xuē;af zi;bb
+金胡萝卜	jīn;qq hú;de luó;al bo;hh
+金胸甲	jīn;qq xiōng;eq jiǎ;lh
+金头盔	jīn;qq tóu;ud kuī;do
+金锄	jīn;qq chú;qe
+金马铠	jīn;qq mǎ;cn kǎi;qm
+金护腿	jīn;qq hù;ry tuǐ;ev
+金鹦鹉螺铠	jīn;qq yīng;mm wǔ;ga luó;jl kǎi;qm
+金镐	jīn;qq gǎo;qy
+金锹	jīn;qq qiāo;qt
+金矛	jīn;qq máo;cb
+金剑	jīn;qq jiàn;wg
+灰色收纳袋	huī;do sè;qc shōu;nh nà;xm dài;wa
+灰色染料	huī;do sè;qc rǎn;iv liào;ou
+灰色挽具	huī;do sè;qc wǎn;rq jù;hw
+绿色收纳袋	lǜ;xv sè;qc shōu;nh nà;xm dài;wa
+绿色染料	lǜ;xv sè;qc rǎn;iv liào;ou
+绿色挽具	lǜ;xv sè;qc wǎn;rq jù;hw
+守卫者刷怪蛋	shǒu;pf wèi;bg zhě;ft shuā;nm guài;nc dàn;nh
+火药	huǒ;oo yào;ax
+旋风	xuàn;yt fēng;mq
+旋风旗帜图案	xuàn;yt fēng;mq qí;yt zhì;mh tú;lt àn;pv
+旋风纹样陶片	xuàn;yt fēng;mq wén;xy yàng;su táo;bq piàn;th
+快乐恶魂刷怪蛋	kuài;nn lè;qi è;go hún;fc shuā;nm guài;nc dàn;nh
+挽具	wǎn;rq jù;hw
+海洋之心	hǎi;it yáng;iu zhī;pp xīn;ny
+爱心纹样陶片	ài;ep xīn;ny wén;xy yàng;su táo;bq piàn;th
+心碎纹样陶片	xīn;ny suì;dy wén;xy yàng;su táo;bq piàn;th
+疣猪兽刷怪蛋	yóu;ud zhū;qt shòu;ul shuā;nm guài;nc dàn;nh
+蜂蜜瓶	fēng;jt mì;pn píng;ua
+蜜脾	mì;pn pí;er
+马刷怪蛋	mǎ;cn shuā;nm guài;nc dàn;nh
+雇主盔甲纹饰	gù;yn zhǔ;yg kuī;do jiǎ;lh wén;xy shì;qn
+狼嚎纹样陶片	láng;qt háo;ky wén;xy yàng;su táo;bq piàn;th
+尸壳刷怪蛋	shī;nn ké;fp shuā;nm guài;nc dàn;nh
+墨囊	mò;lf náng;gk
+铁斧	tiě;qr fǔ;wq
+铁靴子	tiě;qr xuē;af zi;bb
+铁胸甲	tiě;qr xiōng;eq jiǎ;lh
+铁傀儡刷怪蛋	tiě;qr kuǐ;wr lěi;wl shuā;nm guài;nc dàn;nh
+铁头盔	tiě;qr tóu;ud kuī;do
+铁锄	tiě;qr chú;qe
+铁马铠	tiě;qr mǎ;cn kǎi;qm
+铁锭	tiě;qr dìng;qp
+铁护腿	tiě;qr hù;ry tuǐ;ev
+铁鹦鹉螺铠	tiě;qr yīng;mm wǔ;ga luó;jl kǎi;qm
+铁粒	tiě;qr lì;ou
+铁镐	tiě;qr gǎo;qy
+铁锹	tiě;qr qiāo;qt
+铁矛	tiě;qr máo;cb
+铁剑	tiě;qr jiàn;wg
+知识之书	zhī;td shi;yk zhī;pp shū;nn
+青金石	qīng;ge jīn;qq shí;dg
+熔岩桶	róng;op yán;md tǒng;sc
+拴绳	shuān;rw shéng;xk
+皮革	pí;hc gé;af
+皮革靴子	pí;hc gé;af xuē;af zi;bb
+皮革外套	pí;hc gé;af wài;qh tào;dd
+皮革帽子	pí;hc gé;af mào;mh zi;bb
+皮革马铠	pí;hc gé;af mǎ;cn kǎi;qm
+皮革裤子	pí;hc gé;af kù;pu zi;bb
+淡蓝色收纳袋	dàn;io lán;aj sè;qc shōu;nh nà;xm dài;wa
+淡蓝色染料	dàn;io lán;aj sè;qc rǎn;iv liào;ou
+淡蓝色挽具	dàn;io lán;aj sè;qc wǎn;rq jù;hw
+淡灰色收纳袋	dàn;io huī;do sè;qc shōu;nh nà;xm dài;wa
+淡灰色染料	dàn;io huī;do sè;qc rǎn;iv liào;ou
+淡灰色挽具	dàn;io huī;do sè;qc wǎn;rq jù;hw
+黄绿色收纳袋	huáng;am lǜ;xv sè;qc shōu;nh nà;xm dài;wa
+黄绿色染料	huáng;am lǜ;xv sè;qc rǎn;iv liào;ou
+黄绿色挽具	huáng;am lǜ;xv sè;qc wǎn;rq jù;hw
+滞留型粗制的药水	zhì;ig liú;qy xíng;ga cū;oe zhì;rm de;rq yào;ax shuǐ;ii
+不可合成的滞留型药水	bù;gi kě;sk hé;wg chéng;dn de;rq zhì;ig liú;qy xíng;ga yào;ax shuǐ;ii
+滞留型抗火药水	zhì;ig liú;qy xíng;ga kàng;ry huǒ;oo yào;ax shuǐ;ii
+滞留型伤害药水	zhì;ig liú;qy xíng;ga shāng;wt hài;pd yào;ax shuǐ;ii
+滞留型治疗药水	zhì;ig liú;qy xíng;ga zhì;ic liáo;ub yào;ax shuǐ;ii
+滞留型虫蚀药水	zhì;ig liú;qy xíng;ga chóng;jh shí;qn yào;ax shuǐ;ii
+滞留型隐身药水	zhì;ig liú;qy xíng;ga yǐn;bq shēn;tm yào;ax shuǐ;ii
+滞留型跳跃药水	zhì;ig liú;qy xíng;ga tiào;kh yuè;kh yào;ax shuǐ;ii
+滞留型飘浮药水	zhì;ig liú;qy xíng;ga piāo;sf fú;ie yào;ax shuǐ;ii
+滞留型幸运药水	zhì;ig liú;qy xíng;ga xìng;fu yùn;fc yào;ax shuǐ;ii
+滞留型平凡的药水	zhì;ig liú;qy xíng;ga píng;gu fán;my de;rq yào;ax shuǐ;ii
+滞留型夜视药水	zhì;ig liú;qy xíng;ga yè;yw shì;py yào;ax shuǐ;ii
+滞留型渗浆药水	zhì;ig liú;qy xíng;ga shèn;ic jiāng;uq yào;ax shuǐ;ii
+滞留型剧毒药水	zhì;ig liú;qy xíng;ga jù;nd dú;gx yào;ax shuǐ;ii
+滞留型再生药水	zhì;ig liú;qy xíng;ga zài;gm shēng;tg yào;ax shuǐ;ii
+滞留型缓降药水	zhì;ig liú;qy xíng;ga huǎn;xe jiàng;bt yào;ax shuǐ;ii
+滞留型迟缓药水	zhì;ig liú;qy xíng;ga chí;ny huǎn;xe yào;ax shuǐ;ii
+滞留型力量药水	zhì;ig liú;qy xíng;ga lì;lt liang;jg yào;ax shuǐ;ii
+滞留型迅捷药水	zhì;ig liú;qy xíng;ga xùn;nf jié;rg yào;ax shuǐ;ii
+滞留型浓稠的药水	zhì;ig liú;qy xíng;ga nóng;ip chóu;tm de;rq yào;ax shuǐ;ii
+滞留型神龟药水	zhì;ig liú;qy xíng;ga shén;py guī;qj yào;ax shuǐ;ii
+滞留型水瓶	zhì;ig liú;qy xíng;ga shuǐ;ii píng;ua
+滞留型水肺药水	zhì;ig liú;qy xíng;ga shuǐ;ii fèi;eg yào;ax shuǐ;ii
+滞留型虚弱药水	zhì;ig liú;qy xíng;ga xū;ha ruò;xu yào;ax shuǐ;ii
+滞留型盘丝药水	zhì;ig liú;qy xíng;ga pán;te sī;xx yào;ax shuǐ;ii
+滞留型蓄风药水	zhì;ig liú;qy xíng;ga xù;ay fēng;mq yào;ax shuǐ;ii
+羊驼刷怪蛋	yáng;ud tuó;cp shuā;nm guài;nc dàn;nh
+磁石指针	cí;du shí;dg zhǐ;rx zhēn;qf
+重锤	zhòng;tg chuí;qt
+品红色收纳袋	pǐn;kk hóng;xa sè;qc shōu;nh nà;xm dài;wa
+品红色染料	pǐn;kk hóng;xa sè;qc rǎn;iv liào;ou
+品红色挽具	pǐn;kk hóng;xa sè;qc wǎn;rq jù;hw
+岩浆膏	yán;md jiāng;uq gāo;yp
+岩浆怪刷怪蛋	yán;md jiāng;uq guài;nc shuā;nm guài;nc dàn;nh
+空地图	kōng;pw dì;fb tú;lt
+西瓜种子	xī;sg guā;rc zhǒng;tk zi;bb
+西瓜片	xī;sg guā;rc piàn;th
+奶桶	nǎi;ve tǒng;sc
+采矿纹样陶片	cǎi;es kuàng;dy wén;xy yàng;su táo;bq piàn;th
+哞菇刷怪蛋	mōu;kc gū;av shuā;nm guài;nc dàn;nh
+悲恸纹样陶片	bēi;dj tòng;nf wén;xy yàng;su táo;bq piàn;th
+骡刷怪蛋	luó;cl shuā;nm guài;nc dàn;nh
+蘑菇煲	mó;ay gu;av bāo;wk
+音乐唱片	yīn;uj yuè;qi chàng;kj piàn;th
+生羊肉	shēng;tg yáng;ud ròu;mw
+命名牌	mìng;wg míng;qk pái;th
+鹦鹉螺壳	yīng;mm wǔ;ga luó;jl ké;fp
+鹦鹉螺刷怪蛋	yīng;mm wǔ;ga luó;jl shuā;nm guài;nc dàn;nh
+下界砖	xià;gh jiè;lw zhuān;df
+下界之星	xià;gh jiè;lw zhī;pp xīng;jt
+下界合金斧	xià;gh jiè;lw hé;wg jīn;qq fǔ;wq
+下界合金靴子	xià;gh jiè;lw hé;wg jīn;qq xuē;af zi;bb
+下界合金胸甲	xià;gh jiè;lw hé;wg jīn;qq xiōng;eq jiǎ;lh
+下界合金头盔	xià;gh jiè;lw hé;wg jīn;qq tóu;ud kuī;do
+下界合金锄	xià;gh jiè;lw hé;wg jīn;qq chú;qe
+下界合金锭	xià;gh jiè;lw hé;wg jīn;qq dìng;qp
+下界合金护腿	xià;gh jiè;lw hé;wg jīn;qq hù;ry tuǐ;ev
+下界合金鹦鹉螺铠	xià;gh jiè;lw hé;wg jīn;qq yīng;mm wǔ;ga luó;jl kǎi;qm
+下界合金镐	xià;gh jiè;lw hé;wg jīn;qq gǎo;qy
+下界合金碎片	xià;gh jiè;lw hé;wg jīn;qq suì;dy piàn;th
+下界合金锹	xià;gh jiè;lw hé;wg jīn;qq qiāo;qt
+下界合金矛	xià;gh jiè;lw hé;wg jīn;qq máo;cb
+下界合金剑	xià;gh jiè;lw hé;wg jīn;qq jiàn;wg
+下界合金升级	xià;gh jiè;lw hé;wg jīn;qq shēng;ta jí;xe
+豹猫刷怪蛋	bào;ee māo;qt shuā;nm guài;nc dàn;nh
+不祥之瓶	bù;gi xiáng;py zhī;pp píng;ua
+不祥试炼钥匙	bù;gi xiáng;py shì;ya liàn;oa yào;qe shi;jg
+橙色收纳袋	chéng;sw sè;qc shōu;nh nà;xm dài;wa
+橙色染料	chéng;sw sè;qc rǎn;iv liào;ou
+橙色挽具	chéng;sw sè;qc wǎn;rq jù;hw
+熊猫刷怪蛋	xióng;ce māo;qt shuā;nm guài;nc dàn;nh
+纸	zhǐ;xq
+焦骸刷怪蛋	jiāo;wy hái;me shuā;nm guài;nc dàn;nh
+鹦鹉刷怪蛋	yīng;mm wǔ;ga shuā;nm guài;nc dàn;nh
+幻翼膜	huàn;xn yì;nl mó;ea
+幻翼刷怪蛋	huàn;xn yì;nl shuā;nm guài;nc dàn;nh
+猪刷怪蛋	zhū;qt shuā;nm guài;nc dàn;nh
+猪鼻	zhū;qt bí;th
+猪鼻旗帜图案	zhū;qt bí;th qí;yt zhì;mh tú;lt àn;pv
+猪灵蛮兵刷怪蛋	zhū;qt líng;vo mán;yo bīng;rg shuā;nm guài;nc dàn;nh
+猪灵刷怪蛋	zhū;qt líng;vo shuā;nm guài;nc dàn;nh
+掠夺者刷怪蛋	lüè;ry duó;df zhě;ft shuā;nm guài;nc dàn;nh
+粉红色收纳袋	fěn;ow hóng;xa sè;qc shōu;nh nà;xm dài;wa
+粉红色染料	fěn;ow hóng;xa sè;qc rǎn;iv liào;ou
+粉红色挽具	fěn;ow hóng;xa sè;qc wǎn;rq jù;hw
+瓶子草荚果	píng;ua zi;bb cǎo;aj jiá;ag guǒ;js
+富饶纹样陶片	fù;pg ráo;qn wén;xy yàng;su táo;bq piàn;th
+毒马铃薯	dú;gx mǎ;cn líng;qw shǔ;al
+北极熊刷怪蛋	běi;ux jí;se xióng;ce shuā;nm guài;nc dàn;nh
+爆裂紫颂果	bào;oj liè;gq zǐ;hx sòng;wc guǒ;js
+生猪排	shēng;tg zhū;qt pái;rd
+粗制的药水	cū;oe zhì;rm de;rq yào;ax shuǐ;ii
+不可合成的药水	bù;gi kě;sk hé;wg chéng;dn de;rq yào;ax shuǐ;ii
+抗火药水	kàng;ry huǒ;oo yào;ax shuǐ;ii
+伤害药水	shāng;wt hài;pd yào;ax shuǐ;ii
+治疗药水	zhì;ic liáo;ub yào;ax shuǐ;ii
+虫蚀药水	chóng;jh shí;qn yào;ax shuǐ;ii
+隐身药水	yǐn;bq shēn;tm yào;ax shuǐ;ii
+跳跃药水	tiào;kh yuè;kh yào;ax shuǐ;ii
+飘浮药水	piāo;sf fú;ie yào;ax shuǐ;ii
+幸运药水	xìng;fu yùn;fc yào;ax shuǐ;ii
+平凡的药水	píng;gu fán;my de;rq yào;ax shuǐ;ii
+夜视药水	yè;yw shì;py yào;ax shuǐ;ii
+渗浆药水	shèn;ic jiāng;uq yào;ax shuǐ;ii
+剧毒药水	jù;nd dú;gx yào;ax shuǐ;ii
+再生药水	zài;gm shēng;tg yào;ax shuǐ;ii
+缓降药水	huǎn;xe jiàng;bt yào;ax shuǐ;ii
+迟缓药水	chí;ny huǎn;xe yào;ax shuǐ;ii
+力量药水	lì;lt liang;jg yào;ax shuǐ;ii
+迅捷药水	xùn;nf jié;rg yào;ax shuǐ;ii
+浓稠的药水	nóng;ip chóu;tm de;rq yào;ax shuǐ;ii
+神龟药水	shén;py guī;qj yào;ax shuǐ;ii
+水瓶	shuǐ;ii píng;ua
+水肺药水	shuǐ;ii fèi;eg yào;ax shuǐ;ii
+虚弱药水	xū;ha ruò;xu yào;ax shuǐ;ii
+盘丝药水	pán;te sī;xx yào;ax shuǐ;ii
+蓄风药水	xù;ay fēng;mq yào;ax shuǐ;ii
+珍宝纹样陶片	zhēn;gw bǎo;pg wén;xy yàng;su táo;bq piàn;th
+头颅纹样陶片	tóu;ud lú;hn wén;xy yàng;su táo;bq piàn;th
+细雪桶	xì;xl xuě;fv tǒng;sc
+海晶砂粒	hǎi;it jīng;jj shā;di lì;ou
+海晶碎片	hǎi;it jīng;jj suì;dy piàn;th
+河豚桶	hé;is tún;ee tǒng;sc
+河豚刷怪蛋	hé;is tún;ee shuā;nm guài;nc dàn;nh
+南瓜派	nán;fm guā;rc pài;ir
+南瓜种子	nán;fm guā;rc zhǒng;tk zi;bb
+紫色收纳袋	zǐ;hx sè;qc shōu;nh nà;xm dài;wa
+紫色染料	zǐ;hx sè;qc rǎn;iv liào;ou
+紫色挽具	zǐ;hx sè;qc wǎn;rq jù;hw
+下界石英	xià;gh jiè;lw shí;dg yīng;am
+生兔肉	shēng;tg tù;qk ròu;mw
+兔子脚	tù;qk zi;bb jiǎo;ef
+兔子皮	tù;qk zi;bb pí;hc
+兔子刷怪蛋	tù;qk zi;bb shuā;nm guài;nc dàn;nh
+兔肉煲	tù;qk ròu;mw bāo;wk
+牧民盔甲纹饰	mù;tr mín;na kuī;do jiǎ;lh wén;xy shì;qn
+劫掠兽刷怪蛋	jié;fc lüè;ry shòu;ul shuā;nm guài;nc dàn;nh
+粗铜	cū;oe tóng;qm
+粗金	cū;oe jīn;qq
+粗铁	cū;oe tiě;qr
+追溯指针	zhuī;wn sù;iu zhǐ;rx zhēn;qf
+红色收纳袋	hóng;xa sè;qc shōu;nh nà;xm dài;wa
+红色染料	hóng;xa sè;qc rǎn;iv liào;ou
+红色挽具	hóng;xa sè;qc wǎn;rq jù;hw
+红石粉	hóng;xa shí;dg fěn;ow
+树脂砖	shù;sc zhī;ex zhuān;df
+肋骨盔甲纹饰	lèi;el gǔ;me kuī;do jiǎ;lh wén;xy shì;qn
+腐肉	fǔ;yw ròu;mw
+鞍	ān;af
+生鲑鱼	shēng;tg guī;qg yú;qg
+鲑鱼桶	guī;qg yú;qg tǒng;sc
+鲑鱼刷怪蛋	guī;qg yú;qg shuā;nm guài;nc dàn;nh
+刮削纹样陶片	guā;td xiāo;ie wén;xy yàng;su táo;bq piàn;th
+鳞甲	lín;qg jiǎ;lh
+哨兵盔甲纹饰	shào;ki bīng;rg kuī;do jiǎ;lh wén;xy shì;qn
+塑造盔甲纹饰	sù;ub zào;tf kuī;do jiǎ;lh wén;xy shì;qn
+麦捆纹样陶片	mài;gt kǔn;rl wén;xy yàng;su táo;bq piàn;th
+剪刀	jiǎn;ue dāo;vn
+绵羊刷怪蛋	mián;xr yáng;ud shuā;nm guài;nc dàn;nh
+树荫纹样陶片	shù;sc yìn;ab wén;xy yàng;su táo;bq piàn;th
+盾牌	dùn;rf pái;th
+黑色盾牌	hēi;lf sè;qc dùn;rf pái;th
+蓝色盾牌	lán;aj sè;qc dùn;rf pái;th
+棕色盾牌	zōng;sp sè;qc dùn;rf pái;th
+青色盾牌	qīng;ge sè;qc dùn;rf pái;th
+灰色盾牌	huī;do sè;qc dùn;rf pái;th
+绿色盾牌	lǜ;xv sè;qc dùn;rf pái;th
+淡蓝色盾牌	dàn;io lán;aj sè;qc dùn;rf pái;th
+淡灰色盾牌	dàn;io huī;do sè;qc dùn;rf pái;th
+黄绿色盾牌	huáng;am lǜ;xv sè;qc dùn;rf pái;th
+品红色盾牌	pǐn;kk hóng;xa sè;qc dùn;rf pái;th
+橙色盾牌	chéng;sw sè;qc dùn;rf pái;th
+粉红色盾牌	fěn;ow hóng;xa sè;qc dùn;rf pái;th
+紫色盾牌	zǐ;hx sè;qc dùn;rf pái;th
+红色盾牌	hóng;xa sè;qc dùn;rf pái;th
+白色盾牌	bái;rr sè;qc dùn;rf pái;th
+黄色盾牌	huáng;am sè;qc dùn;rf pái;th
+潜影壳	qián;if yǐng;jy ké;fp
+潜影贝刷怪蛋	qián;if yǐng;jy bèi;mh shuā;nm guài;nc dàn;nh
+告示牌	gào;tf shì;fi pái;th
+幽静盔甲纹饰	yōu;xx jìng;ge kuī;do jiǎ;lh wén;xy shì;qn
+蠹虫刷怪蛋	dù;gk chóng;jh shuā;nm guài;nc dàn;nh
+骷髅马刷怪蛋	kū;me lóu;me mǎ;cn shuā;nm guài;nc dàn;nh
+骷髅刷怪蛋	kū;me lóu;me shuā;nm guài;nc dàn;nh
+头颅盾徽	tóu;ud lú;hn dùn;rf huī;tm
+头颅盾徽旗帜图案	tóu;ud lú;hn dùn;rf huī;tm qí;yt zhì;mh tú;lt àn;pv
+黏液球	nián;tw yè;iy qiú;gf
+史莱姆刷怪蛋	shǐ;kq lái;ag mǔ;vx shuā;nm guài;nc dàn;nh
+放入锭或晶体	fàng;yt rù;ty dìng;qp huò;ak jīng;jj tǐ;ws
+盔甲	kuī;do jiǎ;lh
+放入盔甲	fàng;yt rù;ty kuī;do jiǎ;lh
+锭或晶体	dìng;qp huò;ak jīng;jj tǐ;ws
+放入下界合金锭	fàng;yt rù;ty xià;gh jiè;lw hé;wg jīn;qq dìng;qp
+钻石装备	zuàn;qh shí;dg zhuāng;uf bèi;tl
+嗅探兽刷怪蛋	xiù;kt tàn;rp shòu;ul shuā;nm guài;nc dàn;nh
+嗅探纹样陶片	xiù;kt tàn;rp wén;xy yàng;su táo;bq piàn;th
+猪鼻盔甲纹饰	zhū;qt bí;th kuī;do jiǎ;lh wén;xy shì;qn
+雪傀儡刷怪蛋	xuě;fv kuǐ;wr lěi;wl shuā;nm guài;nc dàn;nh
+蜘蛛眼	zhī;jt zhū;jr yǎn;hv
+蜘蛛刷怪蛋	zhī;jt zhū;jr shuā;nm guài;nc dàn;nh
+尖塔盔甲纹饰	jiān;id tǎ;fa kuī;do jiǎ;lh wén;xy shì;qn
+喷溅型粗制的药水	pēn;kf jiàn;im xíng;ga cū;oe zhì;rm de;rq yào;ax shuǐ;ii
+不可合成的喷溅型药水	bù;gi kě;sk hé;wg chéng;dn de;rq pēn;kf jiàn;im xíng;ga yào;ax shuǐ;ii
+喷溅型抗火药水	pēn;kf jiàn;im xíng;ga kàng;ry huǒ;oo yào;ax shuǐ;ii
+喷溅型伤害药水	pēn;kf jiàn;im xíng;ga shāng;wt hài;pd yào;ax shuǐ;ii
+喷溅型治疗药水	pēn;kf jiàn;im xíng;ga zhì;ic liáo;ub yào;ax shuǐ;ii
+喷溅型虫蚀药水	pēn;kf jiàn;im xíng;ga chóng;jh shí;qn yào;ax shuǐ;ii
+喷溅型隐身药水	pēn;kf jiàn;im xíng;ga yǐn;bq shēn;tm yào;ax shuǐ;ii
+喷溅型跳跃药水	pēn;kf jiàn;im xíng;ga tiào;kh yuè;kh yào;ax shuǐ;ii
+喷溅型飘浮药水	pēn;kf jiàn;im xíng;ga piāo;sf fú;ie yào;ax shuǐ;ii
+喷溅型幸运药水	pēn;kf jiàn;im xíng;ga xìng;fu yùn;fc yào;ax shuǐ;ii
+喷溅型平凡的药水	pēn;kf jiàn;im xíng;ga píng;gu fán;my de;rq yào;ax shuǐ;ii
+喷溅型夜视药水	pēn;kf jiàn;im xíng;ga yè;yw shì;py yào;ax shuǐ;ii
+喷溅型渗浆药水	pēn;kf jiàn;im xíng;ga shèn;ic jiāng;uq yào;ax shuǐ;ii
+喷溅型剧毒药水	pēn;kf jiàn;im xíng;ga jù;nd dú;gx yào;ax shuǐ;ii
+喷溅型再生药水	pēn;kf jiàn;im xíng;ga zài;gm shēng;tg yào;ax shuǐ;ii
+喷溅型缓降药水	pēn;kf jiàn;im xíng;ga huǎn;xe jiàng;bt yào;ax shuǐ;ii
+喷溅型迟缓药水	pēn;kf jiàn;im xíng;ga chí;ny huǎn;xe yào;ax shuǐ;ii
+喷溅型力量药水	pēn;kf jiàn;im xíng;ga lì;lt liang;jg yào;ax shuǐ;ii
+喷溅型迅捷药水	pēn;kf jiàn;im xíng;ga xùn;nf jié;rg yào;ax shuǐ;ii
+喷溅型浓稠的药水	pēn;kf jiàn;im xíng;ga nóng;ip chóu;tm de;rq yào;ax shuǐ;ii
+喷溅型神龟药水	pēn;kf jiàn;im xíng;ga shén;py guī;qj yào;ax shuǐ;ii
+喷溅型水瓶	pēn;kf jiàn;im xíng;ga shuǐ;ii píng;ua
+喷溅型水肺药水	pēn;kf jiàn;im xíng;ga shuǐ;ii fèi;eg yào;ax shuǐ;ii
+喷溅型虚弱药水	pēn;kf jiàn;im xíng;ga xū;ha ruò;xu yào;ax shuǐ;ii
+喷溅型盘丝药水	pēn;kf jiàn;im xíng;ga pán;te sī;xx yào;ax shuǐ;ii
+喷溅型蓄风药水	pēn;kf jiàn;im xíng;ga xù;ay fēng;mq yào;ax shuǐ;ii
+望远镜	wàng;yn yuǎn;fq jìng;qu
+鱿鱼刷怪蛋	yóu;qg yú;qg shuā;nm guài;nc dàn;nh
+木棍	mù;ss gùn;sj
+石斧	shí;dg fǔ;wq
+石锄	shí;dg chú;qe
+石镐	shí;dg gǎo;qy
+石锹	shí;dg qiāo;qt
+石矛	shí;dg máo;cb
+石剑	shí;dg jiàn;wg
+流浪者刷怪蛋	liú;iy làng;iy zhě;ft shuā;nm guài;nc dàn;nh
+炽足兽刷怪蛋	chì;ok zú;kh shòu;ul shuā;nm guài;nc dàn;nh
+线	xiàn;xg
+糖	táng;oy
+谜之炖菜	mí;yo zhī;pp dùn;og cài;ae
+甜浆果	tián;td jiāng;uq guǒ;js
+蝌蚪桶	kē;jt dǒu;ju tǒng;sc
+蝌蚪刷怪蛋	kē;jt dǒu;ju shuā;nm guài;nc dàn;nh
+潮汐盔甲纹饰	cháo;if xī;iq kuī;do jiǎ;lh wén;xy shì;qn
+药箭	yào;ax jiàn;tu
+不可合成的药箭	bù;gi kě;sk hé;wg chéng;dn de;rq yào;ax jiàn;tu
+抗火之箭	kàng;ry huǒ;oo zhī;pp jiàn;tu
+伤害之箭	shāng;wt hài;pd zhī;pp jiàn;tu
+治疗之箭	zhì;ic liáo;ub zhī;pp jiàn;tu
+虫蚀之箭	chóng;jh shí;qn zhī;pp jiàn;tu
+隐身之箭	yǐn;bq shēn;tm zhī;pp jiàn;tu
+跳跃之箭	tiào;kh yuè;kh zhī;pp jiàn;tu
+飘浮之箭	piāo;sf fú;ie zhī;pp jiàn;tu
+幸运之箭	xìng;fu yùn;fc zhī;pp jiàn;tu
+夜视之箭	yè;yw shì;py zhī;pp jiàn;tu
+渗浆之箭	shèn;ic jiāng;uq zhī;pp jiàn;tu
+剧毒之箭	jù;nd dú;gx zhī;pp jiàn;tu
+再生之箭	zài;gm shēng;tg zhī;pp jiàn;tu
+缓降之箭	huǎn;xe jiàng;bt zhī;pp jiàn;tu
+迟缓之箭	chí;ny huǎn;xe zhī;pp jiàn;tu
+力量之箭	lì;lt liang;jg zhī;pp jiàn;tu
+迅捷之箭	xùn;nf jié;rg zhī;pp jiàn;tu
+神龟之箭	shén;py guī;qj zhī;pp jiàn;tu
+喷溅之箭	pēn;kf jiàn;im zhī;pp jiàn;tu
+水肺之箭	shuǐ;ii fèi;eg zhī;pp jiàn;tu
+虚弱之箭	xū;ha ruò;xu zhī;pp jiàn;tu
+盘丝之箭	pán;te sī;xx zhī;pp jiàn;tu
+蓄风之箭	xù;ay fēng;mq zhī;pp jiàn;tu
+火把花种子	huǒ;oo bǎ;rc huā;aw zhǒng;tk zi;bb
+不死图腾	bù;gi sǐ;gq tú;lt téng;eu
+行商羊驼刷怪蛋	háng;tf shāng;um yáng;ud tuó;cp shuā;nm guài;nc dàn;nh
+试炼钥匙	shì;ya liàn;oa yào;qe shi;jg
+热带鱼桶	rè;rv dài;gk yú;qg tǒng;sc
+热带鱼刷怪蛋	rè;rv dài;gk yú;qg shuā;nm guài;nc dàn;nh
+海龟壳	hǎi;it guī;qj ké;fp
+海龟鳞甲	hǎi;it guī;qj lín;qg jiǎ;lh
+海龟刷怪蛋	hǎi;it guī;qj shuā;nm guài;nc dàn;nh
+恼鬼盔甲纹饰	nǎo;ny guǐ;rq kuī;do jiǎ;lh wén;xy shì;qn
+恼鬼刷怪蛋	nǎo;ny guǐ;rq shuā;nm guài;nc dàn;nh
+村民刷怪蛋	cūn;sf mín;na shuā;nm guài;nc dàn;nh
+卫道士刷怪蛋	wèi;bg dào;ut shì;fg shuā;nm guài;nc dàn;nh
+流浪商人刷怪蛋	liú;iy làng;iy shāng;um rén;ww shuā;nm guài;nc dàn;nh
+监守盔甲纹饰	jiān;jt shǒu;pf kuī;do jiǎ;lh wén;xy shì;qn
+监守者刷怪蛋	jiān;jt shǒu;pf zhě;ft shuā;nm guài;nc dàn;nh
+诡异菌钓竿	guǐ;yq yì;na jūn;al diào;qq gān;tf
+水桶	shuǐ;ii tǒng;sc
+向导盔甲纹饰	xiàng;tm dǎo;nf kuī;do jiǎ;lh wén;xy shì;qn
+小麦	xiǎo;ih mài;gt
+小麦种子	xiǎo;ih mài;gt zhǒng;tk zi;bb
+白色收纳袋	bái;rr sè;qc shōu;nh nà;xm dài;wa
+白色染料	bái;rr sè;qc rǎn;iv liào;ou
+白色挽具	bái;rr sè;qc wǎn;rq jù;hw
+荒野盔甲纹饰	huāng;ay yě;jf kuī;do jiǎ;lh wén;xy shì;qn
+女巫刷怪蛋	nǚ;vv wū;aw shuā;nm guài;nc dàn;nh
+凋灵骷髅刷怪蛋	diāo;um líng;vo kū;me lóu;me shuā;nm guài;nc dàn;nh
+凋灵刷怪蛋	diāo;um líng;vo shuā;nm guài;nc dàn;nh
+狼铠	láng;qt kǎi;qm
+狼刷怪蛋	láng;qt shuā;nm guài;nc dàn;nh
+木斧	mù;ss fǔ;wq
+木锄	mù;ss chú;qe
+木镐	mù;ss gǎo;qy
+木锹	mù;ss qiāo;qt
+木矛	mù;ss máo;cb
+木剑	mù;ss jiàn;wg
+书与笔	shū;nn yǔ;gn bǐ;tt
+成书	chéng;dn shū;nn
+黄色收纳袋	huáng;am sè;qc shōu;nh nà;xm dài;wa
+黄色染料	huáng;am sè;qc rǎn;iv liào;ou
+黄色挽具	huáng;am sè;qc wǎn;rq jù;hw
+僵尸疣猪兽刷怪蛋	jiāng;wg shī;nn yóu;ud zhū;qt shòu;ul shuā;nm guài;nc dàn;nh
+僵尸马刷怪蛋	jiāng;wg shī;nn mǎ;cn shuā;nm guài;nc dàn;nh
+僵尸鹦鹉螺刷怪蛋	jiāng;wg shī;nn yīng;mm wǔ;ga luó;jl shuā;nm guài;nc dàn;nh
+僵尸刷怪蛋	jiāng;wg shī;nn shuā;nm guài;nc dàn;nh
+僵尸村民刷怪蛋	jiāng;wg shī;nn cūn;sf mín;na shuā;nm guài;nc dàn;nh
+僵尸猪灵刷怪蛋	jiāng;wg shī;nn zhū;qt líng;vo shuā;nm guài;nc dàn;nh
